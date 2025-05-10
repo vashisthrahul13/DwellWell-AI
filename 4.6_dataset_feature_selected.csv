@@ -1,5 +1,5 @@
 sector,price,super_area,bedrooms,bathroom,balcony,age_possession,servant_room,luxury_category,parking,building_type
-jharsa,0.7,1278.0,2,2,2,1 to 5 year old,0,medium,1,low-rise
+sector 39,0.7,1278.0,2,2,2,1 to 5 year old,0,medium,1,low-rise
 sohna,0.38,682.3525999999999,2,2,2,1 to 5 year old,0,medium,2,mid-rise
 sector 71,1.35,1198.0,2,2,2,10+ year old,0,high,1,mid-rise
 sector 82,3.4,3240.0,4,4,2,0 to 1 year old,1,medium,2,low-rise
@@ -14,7 +14,7 @@ sector 67,3.3,2854.2,3,3,3,5 to 10 year old,1,medium,3,mid-rise
 sector 106,1.15,1125.0,2,2,2,5 to 10 year old,0,medium,0,low-rise
 sohna,0.42,921.425,2,2,2,5 to 10 year old,0,medium,2,mid-rise
 sector 63a,0.95,819.9221999999999,2,2,1,0 to 1 year old,0,medium,0,mid-rise
-sector-33 sohna,1.5,1093.0,3,2,3,1 to 5 year old,0,medium,1,low-rise
+sohna,1.5,1093.0,3,2,3,1 to 5 year old,0,medium,1,low-rise
 sector 68,1.6,1441.0,2,2,2,5 to 10 year old,0,medium,0,mid-rise
 sector 70,2.75,2769.0,3,5,3,1 to 5 year old,1,medium,2,mid-rise
 sector 69,0.85,746.92,2,2,1,1 to 5 year old,0,medium,0,mid-rise
@@ -31,7 +31,7 @@ sector 88a,0.6,900.0,2,2,1,1 to 5 year old,0,medium,1,mid-rise
 sector 95a,0.665,808.3208,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 82,1.95,1790.0,3,3,2,5 to 10 year old,1,medium,1,mid-rise
 sector 93,1.75,1805.0,3,4,2,5 to 10 year old,0,medium,1,mid-rise
-ardee city,4.75,1850.0,3,4,3+,10+ year old,1,medium,2,mid-rise
+sector 52,4.75,1850.0,3,4,3+,10+ year old,1,medium,2,mid-rise
 sector 106,2.25,2355.0,4,6,3+,1 to 5 year old,1,high,2,high-rise
 sector 61,1.9,1590.4,2,2,2,under construction,0,low,1,low-rise
 gwal pahari,1.44,1491.0,2,2,2,0 to 1 year old,0,low,0,low-rise
@@ -65,7 +65,7 @@ sector 106,1.73,1665.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 1a imt manesar,2.5,3372.5,4,4,3+,0 to 1 year old,1,medium,2,mid-rise
 sector 54,7.5,2815.8599999999997,3,3,3,10+ year old,1,high,2,high-rise
 sector 63a,0.82,650.0,2,2,2,0 to 1 year old,0,high,1,mid-rise
-sector-2 sohna,0.5,893.18,2,2,1,1 to 5 year old,0,medium,1,mid-rise
+sohna,0.5,893.18,2,2,1,1 to 5 year old,0,medium,1,mid-rise
 sector 89,0.65,602.0,2,2,2,1 to 5 year old,0,high,0,mid-rise
 sector 83,1.62,2160.0,3,3,3,1 to 5 year old,0,high,3,low-rise
 sector 104,1.49,1487.277328,3,4,3+,1 to 5 year old,0,medium,2,mid-rise
@@ -80,18 +80,18 @@ sector 1a imt manesar,1.6,1945.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
 sector 91,2.7,1930.0,3,3,3,5 to 10 year old,0,medium,1,mid-rise
 sector 79,2.8,2687.5,3,3,3,0 to 1 year old,1,medium,1,mid-rise
 gwal pahari,9.26,4750.0,4,5,3+,under construction,0,medium,3,high-rise
-dlf phase 4,5.25,2556.0,4,4,2,0 to 1 year old,1,high,2,low-rise
+sector 43,5.25,2556.0,4,4,2,0 to 1 year old,1,high,2,low-rise
 sector 76,0.95,901.7,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sohna,0.73,1027.5,2,2,3,1 to 5 year old,0,medium,1,low-rise
 sector 76,0.86,931.25,2,2,2,1 to 5 year old,0,medium,2,mid-rise
 sector 67,0.76,805.0,2,2,1,1 to 5 year old,0,medium,2,mid-rise
 sector 67,0.73,800.0,2,2,1,1 to 5 year old,0,medium,2,mid-rise
-sector 36 sohna,1.1,1675.6,3,3,3,0 to 1 year old,0,low,3,low-rise
+sohna,1.1,1675.6,3,3,3,0 to 1 year old,0,low,3,low-rise
 sector 102,0.72,632.0,2,2,1,1 to 5 year old,0,medium,0,mid-rise
 sohna,0.54,950.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sohna,0.35,539.6,1,1,1,1 to 5 year old,0,medium,1,mid-rise
 sohna,0.53,1008.2,2,2,1,1 to 5 year old,0,medium,1,mid-rise
-dlf phase 5,13.0,3979.0,4,5,3+,10+ year old,0,medium,2,mid-rise
+sector 54,13.0,3979.0,4,5,3+,10+ year old,0,medium,2,mid-rise
 sector 102,0.78,915.9,3,2,3,1 to 5 year old,0,medium,2,mid-rise
 sector 86,2.42,1923.0,3,3,3+,5 to 10 year old,1,high,2,mid-rise
 sector 79,0.385,504.9662,1,1,1,0 to 1 year old,0,high,1,high-rise
@@ -108,11 +108,11 @@ sector 67a,1.95,1335.0,2,2,2,0 to 1 year old,0,medium,1,mid-rise
 sector 62,3.14,1495.9274,2,2,2,under construction,0,medium,2,high-rise
 sector 37d,3.83,2469.0,3,3,3+,under construction,1,high,2,high-rise
 sector 99a,2.2,1997.0,3,5,3,0 to 1 year old,1,medium,1,mid-rise
-malibu town,3.15,2500.0,3,3,2,0 to 1 year old,1,medium,2,low-rise
+sector 47,3.15,2500.0,3,3,2,0 to 1 year old,1,medium,2,low-rise
 sector 105,0.28,99.4,2,2,1,1 to 5 year old,0,low,1,low-rise
 sector 90,2.2,1935.0,3,3,3,5 to 10 year old,0,medium,2,mid-rise
 sector 95,0.75,1000.0,3,2,2,0 to 1 year old,0,medium,1,mid-rise
-golf course ext road,2.85,3121.16,4,4,3+,0 to 1 year old,0,medium,1,low-rise
+sector 67,2.85,3121.16,4,4,3+,0 to 1 year old,0,medium,1,low-rise
 sohna,0.4,576.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 37d,4.0,2469.0,3,3,3,under construction,0,medium,2,high-rise
 sohna,0.62,950.0,2,2,2,1 to 5 year old,0,medium,0,mid-rise
@@ -126,28 +126,28 @@ sohna,0.56,746.37,3,2,1,1 to 5 year old,0,medium,1,mid-rise
 sohna,0.57,713.68,3,2,1,1 to 5 year old,0,medium,2,mid-rise
 sohna,0.43,780.0,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sector 106,4.72,2450.0,3,4,3+,under construction,1,low,2,high-rise
-sector-33 sohna,1.41,1966.7,2,2,2,0 to 1 year old,0,medium,1,mid-rise
-sector-33 sohna,2.09,1929.0,3,3,3,under construction,1,medium,3,mid-rise
-sector-33 sohna,2.09,1929.0,3,3,3,under construction,0,medium,3,mid-rise
+sohna,1.41,1966.7,2,2,2,0 to 1 year old,0,medium,1,mid-rise
+sohna,2.09,1929.0,3,3,3,under construction,1,medium,3,mid-rise
+sohna,2.09,1929.0,3,3,3,under construction,0,medium,3,mid-rise
 sector 104,2.0,1736.25,3,2,3,0 to 1 year old,1,medium,1,high-rise
 sector 63,2.6,1708.0,3,3,3+,1 to 5 year old,1,high,2,mid-rise
 sector 93,0.61,765.9196,2,2,3,0 to 1 year old,0,medium,1,mid-rise
 sector 70a,0.77,852.0,2,2,2,1 to 5 year old,0,medium,0,mid-rise
-sector-33 sohna,1.55,1022.2,2,2,3,0 to 1 year old,0,high,1,mid-rise
+sohna,1.55,1022.2,2,2,3,0 to 1 year old,0,high,1,mid-rise
 sector 79,3.0,2272.0,3,3,2,under construction,1,high,2,mid-rise
 sector 93,0.62,857.2113999999999,2,2,3,0 to 1 year old,0,medium,1,mid-rise
 sector 102,3.8,3198.0,4,4,3,1 to 5 year old,1,high,2,high-rise
 sector 65,2.24,1395.0,3,4,3,1 to 5 year old,1,medium,2,mid-rise
 sector 113,2.71,2406.9,3,3,3+,under construction,1,medium,2,high-rise
-dlf phase 5,3.25,1344.0,3,3,2,10+ year old,0,medium,1,mid-rise
+sector 54,3.25,1344.0,3,3,2,10+ year old,0,medium,1,mid-rise
 sector 63,9.93,3950.0,4,6,3+,under construction,1,medium,3,high-rise
 sector 89,4.1,2356.0,3,4,3+,under construction,1,medium,2,high-rise
-sector-33 sohna,1.72,1310.0,3,2,3,1 to 5 year old,0,medium,1,low-rise
+sohna,1.72,1310.0,3,2,3,1 to 5 year old,0,medium,1,low-rise
 sector 92,0.7,915.9,3,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 70a,0.705,601.0,2,2,1,5 to 10 year old,0,medium,1,mid-rise
-wazirabad,2.5,2650.0,4,4,3+,5 to 10 year old,0,medium,2,mid-rise
-sector 36 sohna,1.05,1535.02,3,2,3,0 to 1 year old,0,low,1,low-rise
-sector 36 sohna,1.1,1590.4,3,2,3,0 to 1 year old,0,low,0,low-rise
+sector 52,2.5,2650.0,4,4,3+,5 to 10 year old,0,medium,2,mid-rise
+sohna,1.05,1535.02,3,2,3,0 to 1 year old,0,low,1,low-rise
+sohna,1.1,1590.4,3,2,3,0 to 1 year old,0,low,0,low-rise
 sector 62,6.0,2588.79,3,3,3+,1 to 5 year old,1,medium,2,high-rise
 sector 37d,4.25,2623.0,3,4,3,under construction,1,medium,2,high-rise
 sector 104,1.65,1099.0,2,2,2,under construction,0,medium,1,high-rise
@@ -163,8 +163,8 @@ sector 99a,0.52,632.6525999999999,2,2,1,1 to 5 year old,0,low,1,mid-rise
 sector 62,10.16,5224.0,4,7,3+,under construction,0,medium,2,high-rise
 sector 68,2.5,2321.7,3,3,3,0 to 1 year old,0,low,0,mid-rise
 sector 89,1.9,2125.0,4,4,3,1 to 5 year old,1,high,2,mid-rise
-sector 36 sohna,1.15,1400.0,3,2,2,0 to 1 year old,0,medium,1,low-rise
-nirvana country,2.67,1816.0,3,2,2,5 to 10 year old,1,medium,3,mid-rise
+sohna,1.15,1400.0,3,2,2,0 to 1 year old,0,medium,1,low-rise
+sector 50,2.67,1816.0,3,2,2,5 to 10 year old,1,medium,3,mid-rise
 sector 79,2.05,2198.16,3,3,2,under construction,0,medium,1,low-rise
 sector 69,2.9,1600.0,3,3,2,5 to 10 year old,0,medium,2,mid-rise
 sector 37d,1.8,1520.0,3,2,3+,1 to 5 year old,0,medium,1,mid-rise
@@ -187,11 +187,11 @@ sector 81,0.405,366.0,1,1,2,5 to 10 year old,0,low,1,low-rise
 sector 113,3.45,2225.0,3,3,3,5 to 10 year old,0,medium,2,high-rise
 sector 102,2.65,1852.0,3,3,2,0 to 1 year old,0,medium,1,high-rise
 sector 69,2.5,2419.68,3,3,3+,0 to 1 year old,0,medium,1,high-rise
-old dlf colony,1.25,1775.0,3,3,1,1 to 5 year old,0,low,1,low-rise
+sector 14,1.25,1775.0,3,3,1,1 to 5 year old,0,low,1,low-rise
 sector 106,6.5,4366.5,4,4,3+,under construction,0,low,0,high-rise
-sector-33 sohna,1.57,2372.8199999999997,3,2,3,under construction,0,high,1,mid-rise
+sohna,1.57,2372.8199999999997,3,2,3,under construction,0,high,1,mid-rise
 sector 104,3.55,2861.25,4,4,3,under construction,0,medium,0,high-rise
-sector-33 sohna,1.7,1556.0,3,2,3+,under construction,0,medium,1,mid-rise
+sohna,1.7,1556.0,3,2,3+,under construction,0,medium,1,mid-rise
 sector 82,3.3,2535.0,4,4,3+,5 to 10 year old,1,high,1,mid-rise
 sector 37c,1.95,1840.0,3,3,3,under construction,0,medium,1,mid-rise
 sector 83,1.55,1207.0,3,2,2,under construction,0,medium,2,high-rise
@@ -199,13 +199,13 @@ sector 107,1.64,2181.12,2,2,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 70a,2.11,2504.88,3,2,0,1 to 5 year old,0,medium,1,low-rise
 sohna,0.45,664.56,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sector 48,3.25,1880.0,3,3,3,10+ year old,1,medium,2,mid-rise
-nawada fatehpur,2.3,1929.0,3,3,1,1 to 5 year old,0,high,2,mid-rise
+sector 86,2.3,1929.0,3,3,1,1 to 5 year old,0,high,2,mid-rise
 sector 49,4.9,1993.0,3,3,2,under construction,0,high,3,high-rise
 sector 77,2.85,2000.0,3,3,3+,1 to 5 year old,1,medium,1,high-rise
 sector 70a,2.5,2016.4,2,2,3,1 to 5 year old,0,high,1,mid-rise
 sector 49,6.25,2085.2842,4,4,3,under construction,1,medium,2,high-rise
 sector 79,1.85,1945.0,3,3,3,1 to 5 year old,0,medium,1,mid-rise
-sector-2 sohna,0.78,1200.0,2,2,3,under construction,0,medium,1,mid-rise
+sohna,0.78,1200.0,2,2,3,under construction,0,medium,1,mid-rise
 sector 89,0.85,899.8824,2,2,3,under construction,0,medium,0,high-rise
 sector 83,1.8,1435.0,2,2,2,5 to 10 year old,0,medium,1,mid-rise
 sector 102,2.59,1827.0,3,3,3,0 to 1 year old,0,medium,1,mid-rise
@@ -241,15 +241,15 @@ sector 65,3.31,1828.0,3,3,3,0 to 1 year old,0,medium,1,high-rise
 sector 65,3.8,2054.0,3,3,3,5 to 10 year old,1,medium,1,high-rise
 sector 104,3.5,2450.0,3,4,3,1 to 5 year old,1,medium,1,high-rise
 sector 65,3.77,2040.0,3,3,3,0 to 1 year old,1,medium,1,high-rise
-badha,2.35,1929.0,3,3,1,1 to 5 year old,0,medium,2,mid-rise
+sector 86,2.35,1929.0,3,3,1,1 to 5 year old,0,medium,2,mid-rise
 sector 108,2.65,1381.0,2,2,2,1 to 5 year old,0,high,1,high-rise
 sector 61,2.65,1700.0,3,3,3,1 to 5 year old,0,medium,1,high-rise
-dlf phase 4,5.5,2040.0,3,4,3,10+ year old,1,high,2,mid-rise
+sector 43,5.5,2040.0,3,4,3,10+ year old,1,high,2,mid-rise
 sector 54,9.45,3402.0,4,5,3,10+ year old,1,high,2,mid-rise
 sector 54,7.95,2318.0,3,3,3,10+ year old,1,high,2,high-rise
 sector 68,1.51,1245.0,2,2,3,0 to 1 year old,0,high,1,high-rise
 sector 106,2.6,2307.5,3,2,3+,0 to 1 year old,0,high,2,high-rise
-sector-33 sohna,2.08,2834.3199999999997,3,4,3+,0 to 1 year old,0,high,2,mid-rise
+sohna,2.08,2834.3199999999997,3,4,3+,0 to 1 year old,0,high,2,mid-rise
 sector 37c,1.52,1820.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
 sector 37d,1.52,1770.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 53,7.0,2645.0,3,4,3+,5 to 10 year old,1,high,1,mid-rise
@@ -295,12 +295,12 @@ sector 103,1.48,1481.0,2,2,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 59,8.39,3395.0,4,4,3,0 to 1 year old,1,medium,1,high-rise
 sector 51,2.65,2920.0,4,4,3+,5 to 10 year old,0,medium,2,mid-rise
 sector 47,2.35,2600.0,4,4,3+,10+ year old,1,medium,2,mid-rise
-dlf phase 5,8.0,2500.0,4,5,3,5 to 10 year old,1,medium,2,mid-rise
+sector 54,8.0,2500.0,4,5,3,5 to 10 year old,1,medium,2,mid-rise
 sector 28,9.9,3300.0,4,4,2,10+ year old,1,medium,2,mid-rise
-suncity,2.9,2000.0,3,4,3,1 to 5 year old,1,medium,2,mid-rise
+sector 54,2.9,2000.0,3,4,3,1 to 5 year old,1,medium,2,mid-rise
 sector 85,1.7,1772.0,2,2,3,1 to 5 year old,0,high,1,high-rise
-garauli khurd,2.18,1811.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
-garauli khurd,1.4,1603.0,3,3,3+,0 to 1 year old,0,high,2,mid-rise
+sector 37d,2.18,1811.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
+sector 37d,1.4,1603.0,3,3,3+,0 to 1 year old,0,high,2,mid-rise
 sector 81,4.81,2872.0,4,4,3+,1 to 5 year old,1,high,3,high-rise
 sector 48,3.15,1860.0,3,4,3+,5 to 10 year old,1,medium,0,mid-rise
 sector 36a,4.85,2538.0,3,3,3+,1 to 5 year old,1,high,2,high-rise
@@ -356,8 +356,8 @@ sector 99,2.1,2425.0,4,4,3,0 to 1 year old,1,medium,2,mid-rise
 sohna,1.7,1751.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
 sector 90,1.7,1875.0,3,4,3,1 to 5 year old,1,high,3,mid-rise
 sector 95,0.59,779.8072,2,2,1,1 to 5 year old,0,medium,0,mid-rise
-sector-33 sohna,2.87,2134.0,3,3,3+,1 to 5 year old,1,medium,2,mid-rise
-sector-33 sohna,2.52,1789.0,3,3,3+,0 to 1 year old,0,high,1,mid-rise
+sohna,2.87,2134.0,3,3,3+,1 to 5 year old,1,medium,2,mid-rise
+sohna,2.52,1789.0,3,3,3+,0 to 1 year old,0,high,1,mid-rise
 sector 79,2.45,2050.0,3,3,3+,0 to 1 year old,1,high,2,mid-rise
 sector 79,2.58,2150.0,3,4,3,0 to 1 year old,1,high,2,mid-rise
 sector 81,3.44,2660.0,3,4,3+,1 to 5 year old,1,high,2,mid-rise
@@ -372,7 +372,7 @@ sector 37d,2.65,2450.0,4,4,3+,1 to 5 year old,1,high,1,mid-rise
 sector 37d,2.58,2191.0,4,3,3+,0 to 1 year old,0,high,1,mid-rise
 sector 65,3.1,1650.0,3,3,3,1 to 5 year old,1,low,1,mid-rise
 sector 65,3.67,2804.5,4,4,3,1 to 5 year old,1,medium,2,mid-rise
-pocket h nirvana country,1.65,1336.0,2,2,2,5 to 10 year old,0,high,3,mid-rise
+sector 50,1.65,1336.0,2,2,2,5 to 10 year old,0,high,3,mid-rise
 sector 70a,3.5,2150.0,3,3,3,1 to 5 year old,0,high,2,high-rise
 sector 86,2.0,1930.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
 sector 85,1.75,1741.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
@@ -411,7 +411,7 @@ sector 69,1.49,1882.92,3,2,3,1 to 5 year old,0,medium,1,mid-rise
 sector 108,1.65,1838.0,3,3,3,1 to 5 year old,0,medium,1,mid-rise
 sector 109,2.65,1955.0,3,4,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 83,1.7,1735.0,3,3,2,5 to 10 year old,0,medium,1,mid-rise
-dlf phase 2,3.38,1701.0,4,4,2,10+ year old,0,medium,1,mid-rise
+sector 25,3.38,1701.0,4,4,2,10+ year old,0,medium,1,mid-rise
 sector 77,2.7,1950.0,4,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 59,7.5,4295.5,3,4,3+,under construction,0,high,2,high-rise
 sector 86,2.1,2101.6,2,2,3,1 to 5 year old,0,medium,1,mid-rise
@@ -451,7 +451,7 @@ sector 89,1.8,1494.0,3,3,2,under construction,0,medium,1,low-rise
 sector 103,0.4195,511.2,1,1,2,1 to 5 year old,0,low,1,mid-rise
 sector 89,3.1,2485.0,3,3,2,under construction,0,medium,1,high-rise
 sector 111,2.3,2049.0,3,3,3,0 to 1 year old,0,high,1,mid-rise
-sector-35 sohna,1.4,1500.0,2,2,3,0 to 1 year old,0,high,3,mid-rise
+sohna,1.4,1500.0,2,2,3,0 to 1 year old,0,high,3,mid-rise
 sector 103,3.0,2875.0,4,3,3,1 to 5 year old,1,medium,2,mid-rise
 sector 84,2.3,2250.0,3,5,3+,5 to 10 year old,1,high,2,mid-rise
 sohna,1.5,2044.8,3,3,3+,0 to 1 year old,0,medium,2,low-rise
@@ -462,7 +462,7 @@ sector 83,1.43,1245.0,2,2,2,5 to 10 year old,0,high,2,mid-rise
 sector 107,0.66,694.38,2,2,2,1 to 5 year old,0,medium,2,mid-rise
 sector 95,1.45,2059.0,3,2,3,under construction,0,low,1,low-rise
 sector 3,2.9,3775.78,4,4,3+,under construction,0,medium,2,mid-rise
-dlf phase 5,3.6,1917.0,3,3,2,10+ year old,0,medium,3,mid-rise
+sector 54,3.6,1917.0,3,3,2,10+ year old,0,medium,3,mid-rise
 sohna,1.33,1813.75,2,3,3+,1 to 5 year old,0,high,2,mid-rise
 sector 76,3.5,2290.0,3,2,1,under construction,0,low,1,high-rise
 sector 84,2.19,1890.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
@@ -497,8 +497,8 @@ sector 102,2.1,1650.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
 sector 63a,4.35,3483.26,3,3,3,0 to 1 year old,0,medium,0,low-rise
 sector 65,2.95,1900.0,4,3,0,5 to 10 year old,0,medium,1,low-rise
 sector 62,3.7,1996.0,3,3,3,1 to 5 year old,1,medium,1,high-rise
-nirvana country,5.75,4800.0,4,4,3,10+ year old,1,high,2,mid-rise
-dlf phase 5,7.25,2610.0,4,4,3,5 to 10 year old,1,high,3,mid-rise
+sector 50,5.75,4800.0,4,4,3,10+ year old,1,high,2,mid-rise
+sector 54,7.25,2610.0,4,4,3,5 to 10 year old,1,high,3,mid-rise
 sector 90,2.3,2364.0,4,4,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 84,2.8,1900.0,3,4,0,1 to 5 year old,0,medium,0,mid-rise
 sector 108,1.4,1450.0,2,2,3,1 to 5 year old,0,medium,1,mid-rise
@@ -507,7 +507,6 @@ sector 77,3.15,2000.0,3,4,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 92,1.5,1326.0,3,2,2,0 to 1 year old,0,low,1,mid-rise
 sector 79,1.61,1235.0,2,2,2,under construction,0,medium,1,low-rise
 sector 85,2.75,2560.0,4,3,3+,1 to 5 year old,1,low,2,mid-rise
-civil lines,1.6,1775.0,3,3,3,5 to 10 year old,0,low,1,low-rise
 sector 77,1.28,1342.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 37d,3.9,2623.0,3,3,3+,under construction,0,medium,2,high-rise
 sector 108,5.5,2343.0,4,4,3,0 to 1 year old,0,medium,2,high-rise
@@ -522,7 +521,7 @@ sector 66,6.0,5174.48,4,4,2,5 to 10 year old,1,medium,4,mid-rise
 sohna,0.57,950.0,2,2,2,1 to 5 year old,0,medium,2,mid-rise
 sector 93,3.51,2500.0,4,4,3+,under construction,1,medium,2,mid-rise
 sector 67,5.5,3418.75,3,3,3,5 to 10 year old,1,medium,0,high-rise
-palam vihar extension,2.75,2430.0,3,3,2,1 to 5 year old,0,low,3,low-rise
+sector 1,2.75,2430.0,3,3,2,1 to 5 year old,0,low,3,low-rise
 sector 65,2.7,1350.0,3,3,2,1 to 5 year old,0,high,2,mid-rise
 sohna,0.49,648.925,2,2,1,1 to 5 year old,0,high,2,mid-rise
 sector 85,2.0,1085.0,2,2,2,under construction,0,medium,0,high-rise
@@ -573,14 +572,14 @@ sector 79,3.45,2710.0,4,5,3+,1 to 5 year old,1,high,1,high-rise
 sector 79,2.5,1960.0,3,4,2,1 to 5 year old,1,high,1,high-rise
 sector 112,4.4,2802.0,3,3,3+,1 to 5 year old,1,high,1,high-rise
 sector 113,2.5,1579.0,3,2,2,1 to 5 year old,0,high,1,high-rise
-nirvana country,3.8,2480.0,3,4,3,5 to 10 year old,1,medium,2,mid-rise
-dlf phase 5,3.75,1740.0,4,4,2,10+ year old,0,high,1,mid-rise
+sector 50,3.8,2480.0,3,4,3,5 to 10 year old,1,medium,2,mid-rise
+sector 54,3.75,1740.0,4,4,2,10+ year old,0,high,1,mid-rise
 sector 79,2.8,1902.0,3,3,3,under construction,0,medium,1,high-rise
 sector 49,4.8,2021.0,3,3,3,under construction,1,medium,2,high-rise
 sector 63a,1.97,1000.0,2,2,2,0 to 1 year old,0,medium,1,mid-rise
 sector 79,1.55,1556.0,3,3,3,under construction,0,low,1,low-rise
 sohna,1.15,1264.0,2,2,3,1 to 5 year old,0,medium,0,mid-rise
-nirvana country,5.0,2750.0,3,4,3+,10+ year old,1,medium,2,mid-rise
+sector 50,5.0,2750.0,3,4,3+,10+ year old,1,medium,2,mid-rise
 sector 79,1.55,1325.0,3,3,3,under construction,0,low,1,low-rise
 sector 103,2.25,1875.0,3,3,3,under construction,0,low,0,mid-rise
 sector 102,1.83,1650.0,3,3,3,1 to 5 year old,1,medium,2,mid-rise
@@ -590,7 +589,7 @@ sector 90,2.35,2364.0,4,4,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 90,1.83,1930.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
 sector 90,2.65,2727.0,4,4,3+,5 to 10 year old,1,medium,2,high-rise
 sector 104,2.4,1689.0,3,3,3,under construction,0,medium,1,high-rise
-sector-33 sohna,2.5,2130.0,3,3,3,under construction,1,medium,2,mid-rise
+sohna,2.5,2130.0,3,3,3,under construction,1,medium,2,mid-rise
 sector 108,3.6,1711.0,3,3,3,0 to 1 year old,0,medium,1,mid-rise
 sector 65,4.5,2804.5,4,4,2,1 to 5 year old,0,medium,1,mid-rise
 sector 49,4.58,1993.0,3,3,2,under construction,0,medium,2,high-rise
@@ -627,13 +626,13 @@ sector 79,2.4,1815.0,3,3,3,1 to 5 year old,1,high,1,mid-rise
 sector 79,2.43,1815.0,3,4,3,1 to 5 year old,1,high,1,high-rise
 sector 81,4.1,3185.0,4,5,2,1 to 5 year old,1,high,3,mid-rise
 sector 81,3.55,2660.0,3,4,3,1 to 5 year old,1,high,3,mid-rise
-palam vihar,1.9,1780.0,3,3,3+,5 to 10 year old,0,high,1,mid-rise
+sector 3,1.9,1780.0,3,3,3+,5 to 10 year old,0,high,1,mid-rise
 sector 86,2.05,1480.0,2,2,3,1 to 5 year old,0,high,2,mid-rise
 sector 112,4.8,2802.0,3,3,3,0 to 1 year old,1,medium,2,high-rise
 sector 108,2.3,2003.0,3,2,3,1 to 5 year old,1,medium,1,mid-rise
 sector 111,3.6,2200.0,3,4,2,1 to 5 year old,1,medium,1,mid-rise
 sector 84,1.16,1450.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
-nirvana country,3.3,2000.0,3,4,2,5 to 10 year old,1,medium,2,mid-rise
+sector 50,3.3,2000.0,3,4,2,5 to 10 year old,1,medium,2,mid-rise
 sector 37d,1.65,1775.0,3,3,3,1 to 5 year old,0,high,0,mid-rise
 sector 110,4.87,3350.0,4,5,2,1 to 5 year old,1,medium,2,mid-rise
 sector 110,4.75,3400.0,4,5,3,5 to 10 year old,1,medium,0,mid-rise
@@ -648,14 +647,14 @@ sector 82,1.56,1430.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 68,1.76,1483.0,3,2,3,0 to 1 year old,1,high,2,high-rise
 sector 72,4.35,2185.0,3,4,3+,0 to 1 year old,1,high,2,high-rise
 sector 81,3.55,2100.0,3,4,3+,1 to 5 year old,1,medium,2,high-rise
-dlf phase 5,3.35,1395.0,3,3,1,10+ year old,0,medium,1,mid-rise
+sector 54,3.35,1395.0,3,3,1,10+ year old,0,medium,1,mid-rise
 sector 49,4.25,2410.0,3,3,3,5 to 10 year old,1,medium,1,mid-rise
 sector 82,1.55,1428.08,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 66,6.1,3670.0,5,5,3+,1 to 5 year old,1,high,2,mid-rise
 sector 71,2.5,2982.0,3,3,3,1 to 5 year old,0,high,1,low-rise
 sector 85,2.7,3419.3599999999997,3,4,3+,1 to 5 year old,1,medium,1,mid-rise
-sector-33 sohna,1.75,2372.8199999999997,3,3,3+,0 to 1 year old,0,high,1,high-rise
-dlf phase 4,3.5,1680.0,3,3,2,1 to 5 year old,1,medium,1,mid-rise
+sohna,1.75,2372.8199999999997,3,3,3+,0 to 1 year old,0,high,1,high-rise
+sector 43,3.5,1680.0,3,3,2,1 to 5 year old,1,medium,1,mid-rise
 sector 86,2.35,1929.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
 sector 111,3.18,1700.0,3,3,1,1 to 5 year old,0,medium,2,mid-rise
 sector 88a,1.85,1565.0,3,2,3+,1 to 5 year old,0,high,2,high-rise
@@ -675,7 +674,7 @@ sector 88a,1.84,1565.0,3,2,3+,1 to 5 year old,0,high,2,high-rise
 sector 106,1.45,1385.0,2,2,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 102,2.4,1692.0,3,3,3,0 to 1 year old,0,medium,2,high-rise
 sector 109,2.15,1750.0,3,3,3+,1 to 5 year old,0,medium,1,high-rise
-nirvana country,2.05,2453.76,2,2,2,5 to 10 year old,0,medium,1,low-rise
+sector 50,2.05,2453.76,2,2,2,5 to 10 year old,0,medium,1,low-rise
 sector 112,5.0,2802.0,3,3,3,1 to 5 year old,1,high,1,high-rise
 sector 104,4.0,3150.0,4,4,3+,1 to 5 year old,1,medium,1,high-rise
 sector 88a,1.85,1565.0,3,2,3+,1 to 5 year old,0,high,2,high-rise
@@ -688,9 +687,9 @@ sector 81,1.8,1660.0,3,2,3+,5 to 10 year old,0,medium,1,mid-rise
 sector 65,9.7,3850.0,3,4,2,1 to 5 year old,1,high,2,mid-rise
 sector 65,10.0,3898.0,3,4,3,1 to 5 year old,1,high,2,mid-rise
 sector 84,1.45,1725.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
-garauli khurd,1.38,1675.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
+sector 37d,1.38,1675.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
 sector 109,4.15,3045.0,4,5,3+,1 to 5 year old,1,high,2,high-rise
-nirvana country,3.6,2802.0,3,4,2,5 to 10 year old,1,high,0,mid-rise
+sector 50,3.6,2802.0,3,4,2,5 to 10 year old,1,high,0,mid-rise
 sector 74,2.5,1704.0,2,2,3,0 to 1 year old,0,medium,2,high-rise
 sector 113,3.5,2560.0,3,4,3,1 to 5 year old,1,medium,1,high-rise
 sector 102,2.4,1700.0,3,3,3,1 to 5 year old,0,medium,1,mid-rise
@@ -832,7 +831,7 @@ sector 110,4.75,3400.0,4,4,3,1 to 5 year old,1,high,2,mid-rise
 sector 104,2.6,2290.0,3,4,3+,5 to 10 year old,1,high,1,high-rise
 sector 109,2.56,2150.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 104,2.66,2290.0,3,4,3+,1 to 5 year old,1,high,1,high-rise
-dlf phase 4,3.6,1680.0,3,3,2,10+ year old,1,medium,0,mid-rise
+sector 43,3.6,1680.0,3,3,2,10+ year old,1,medium,0,mid-rise
 sector 104,2.6,2290.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 95,0.375,450.6937999999999,1,2,1,1 to 5 year old,0,medium,0,mid-rise
 sector 48,3.55,2350.0,3,3,2,5 to 10 year old,1,high,2,mid-rise
@@ -865,8 +864,8 @@ sector 61,2.8,1700.0,3,3,3,5 to 10 year old,1,medium,1,high-rise
 sector 61,2.25,1300.0,2,3,2,1 to 5 year old,1,medium,1,high-rise
 sector 107,1.39,1534.0,2,2,3,1 to 5 year old,0,high,1,mid-rise
 sector 83,2.75,1900.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
-nirvana country,4.25,2480.0,3,4,3+,5 to 10 year old,1,medium,2,mid-rise
-nirvana country,4.26,2480.0,3,4,3+,5 to 10 year old,1,medium,2,mid-rise
+sector 50,4.25,2480.0,3,4,3+,5 to 10 year old,1,medium,2,mid-rise
+sector 50,4.26,2480.0,3,4,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 83,2.55,1900.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
 sector 83,2.75,1900.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
 sector 47,3.86,2416.0,4,4,3+,10+ year old,1,high,2,mid-rise
@@ -941,7 +940,7 @@ sector 84,1.87,1890.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 72,4.29,2185.0,3,4,3+,0 to 1 year old,1,high,2,high-rise
 sector 72,5.0,2550.0,3,3,3,5 to 10 year old,1,high,2,high-rise
 sector 72,4.85,2550.0,3,3,3+,1 to 5 year old,1,high,2,high-rise
-nirvana country,4.4,2491.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
+sector 50,4.4,2491.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 70,1.46,1137.0,3,2,2,1 to 5 year old,0,high,1,mid-rise
 sector 70,1.73,1437.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 69,2.25,1578.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
@@ -974,9 +973,9 @@ sector 69,2.34,1704.0,3,3,3+,0 to 1 year old,0,high,1,high-rise
 sector 69,2.33,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 69,2.32,1704.0,3,3,3+,0 to 1 year old,0,high,1,high-rise
 sector 69,2.33,1704.0,3,3,3+,0 to 1 year old,0,high,1,high-rise
-nirvana country,3.2,2066.0,3,4,2,5 to 10 year old,1,medium,2,mid-rise
-nirvana country,3.2,2066.0,3,4,2,5 to 10 year old,1,high,2,mid-rise
-nirvana country,3.6,2711.0,3,4,2,5 to 10 year old,1,high,2,mid-rise
+sector 50,3.2,2066.0,3,4,2,5 to 10 year old,1,medium,2,mid-rise
+sector 50,3.2,2066.0,3,4,2,5 to 10 year old,1,high,2,mid-rise
+sector 50,3.6,2711.0,3,4,2,5 to 10 year old,1,high,2,mid-rise
 sector 30,4.51,2368.0,3,5,3+,10+ year old,1,medium,2,mid-rise
 sector 47,3.3,2086.0,3,4,3+,10+ year old,1,medium,1,mid-rise
 sector 83,1.7,1740.0,3,3,2,5 to 10 year old,0,high,2,mid-rise
@@ -995,7 +994,7 @@ sector 81,1.42,1530.0,3,3,3,5 to 10 year old,0,medium,1,mid-rise
 sector 81,1.55,1780.0,3,4,3,5 to 10 year old,1,medium,1,mid-rise
 sector 102,3.55,3198.0,4,5,3+,1 to 5 year old,1,high,2,high-rise
 sector 70a,4.6,2925.0,4,5,3,1 to 5 year old,1,high,2,high-rise
-b block sushant lok phase 1,4.8,3834.0,4,4,3,0 to 1 year old,0,low,1,low-rise
+sushant lok phase 1,4.8,3834.0,4,4,3,0 to 1 year old,0,low,1,low-rise
 sector 109,3.6,3150.0,4,5,3+,1 to 5 year old,1,high,1,high-rise
 sector 104,3.8,3150.0,4,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 104,3.8,3150.0,4,4,3+,1 to 5 year old,1,high,3,high-rise
@@ -1009,10 +1008,10 @@ sector 67,4.2,2685.0,4,5,3+,5 to 10 year old,1,high,2,mid-rise
 sector 92,2.75,2300.0,4,4,2,1 to 5 year old,1,high,2,low-rise
 sector 86,2.39,2356.0,4,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 90,2.61,2215.0,4,4,3+,1 to 5 year old,0,medium,2,mid-rise
-dlf phase 5,7.4,1960.932528,4,5,3,0 to 1 year old,0,low,2,low-rise
-dlf phase 5,7.3,4125.384,4,5,3,0 to 1 year old,0,low,0,low-rise
-dlf phase 5,3.65,1740.0,4,4,2,10+ year old,0,high,1,mid-rise
-dlf phase 5,8.5,2800.0,4,4,3,5 to 10 year old,1,medium,2,mid-rise
+sector 54,7.4,1960.932528,4,5,3,0 to 1 year old,0,low,2,low-rise
+sector 54,7.3,4125.384,4,5,3,0 to 1 year old,0,low,0,low-rise
+sector 54,3.65,1740.0,4,4,2,10+ year old,0,high,1,mid-rise
+sector 54,8.5,2800.0,4,4,3,5 to 10 year old,1,medium,2,mid-rise
 sector 102,3.2,3200.0,4,5,3+,1 to 5 year old,1,high,1,mid-rise
 sector 88a,2.65,2317.0,4,6,3+,1 to 5 year old,1,medium,2,high-rise
 sector 106,4.1,2720.0,4,4,3+,0 to 1 year old,0,high,1,high-rise
@@ -1050,7 +1049,7 @@ sector 72,7.11,3355.0,4,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 72,7.15,3355.0,4,4,3+,0 to 1 year old,1,medium,2,high-rise
 sector 72,7.05,3355.0,4,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 72,7.1,3355.0,4,4,3+,1 to 5 year old,1,high,2,high-rise
-nirvana country,6.99,4413.0,4,6,3+,10+ year old,1,medium,2,mid-rise
+sector 50,6.99,4413.0,4,6,3+,10+ year old,1,medium,2,mid-rise
 sector 69,2.76,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 69,2.63,2400.0,4,5,3+,5 to 10 year old,1,high,2,mid-rise
 sector 69,2.63,2400.0,4,5,3+,5 to 10 year old,1,high,2,mid-rise
@@ -1089,14 +1088,14 @@ sector 92,2.29,2706.52,3,3,3,under construction,1,medium,0,high-rise
 sector 102,2.8,2162.0,4,4,3+,1 to 5 year old,0,medium,2,high-rise
 sector 108,2.25,1758.0,3,3,3+,5 to 10 year old,1,high,2,mid-rise
 sector 102,2.6,1952.0,3,3,3,0 to 1 year old,0,medium,2,high-rise
-sector-33 sohna,1.5,1860.2,2,2,3,under construction,0,medium,1,high-rise
+sohna,1.5,1860.2,2,2,3,under construction,0,medium,1,high-rise
 sector 104,2.0,1359.0,3,2,2,under construction,0,medium,1,high-rise
 sector 104,1.85,3300.08,4,4,3+,1 to 5 year old,1,high,2,mid-rise
 sector 104,2.15,3822.64,4,5,3+,1 to 5 year old,1,high,3,mid-rise
 sector 109,2.5,2095.0,3,4,3,1 to 5 year old,1,medium,1,high-rise
 sector 104,2.3,1440.0,3,2,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 103,1.4,1762.0,3,3,3+,0 to 1 year old,0,medium,2,mid-rise
-behrampur,0.88,729.88,2,2,1,1 to 5 year old,0,low,0,mid-rise
+sector 71,0.88,729.88,2,2,1,1 to 5 year old,0,low,0,mid-rise
 sohna,0.6,754.8294000000001,2,2,2,0 to 1 year old,0,low,1,mid-rise
 sector 86,2.45,2356.0,4,4,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 61,2.8,1670.0,3,2,3,5 to 10 year old,0,high,2,high-rise
@@ -1129,7 +1128,7 @@ sector 65,3.0,2343.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
 sector 86,0.67,711.42,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 86,0.665,714.26,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 67a,0.85,839.2199999999999,2,2,1,1 to 5 year old,0,medium,1,mid-rise
-s block dlf phase 3,4.0,3124.0,4,4,3,0 to 1 year old,0,low,1,low-rise
+sector 24,4.0,3124.0,4,4,3,0 to 1 year old,0,low,1,low-rise
 sector 103,1.95,1900.0,3,3,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 85,2.25,1740.0,2,2,2,0 to 1 year old,0,medium,0,high-rise
 sector 48,3.1,1895.0,3,4,3+,10+ year old,1,high,1,mid-rise
@@ -1143,7 +1142,7 @@ sector 86,0.875,916.255,3,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 82,1.7,1278.0,3,3,3,5 to 10 year old,0,medium,1,high-rise
 sector 63a,2.3,1360.0,2,2,3,0 to 1 year old,1,high,2,low-rise
 sector 3,2.15,2078.0,3,3,3,under construction,0,medium,1,mid-rise
-dlf phase 5,3.4,1430.0,3,3,2,10+ year old,0,high,1,mid-rise
+sector 54,3.4,1430.0,3,3,2,10+ year old,0,high,1,mid-rise
 sector 37d,1.27,1079.0,2,2,3,1 to 5 year old,0,medium,1,mid-rise
 sector 86,0.87,913.983,3,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 86,0.88,916.255,3,2,2,1 to 5 year old,0,medium,1,mid-rise
@@ -1161,7 +1160,7 @@ sector 85,1.02,824.3667999999999,2,2,1,0 to 1 year old,0,medium,1,mid-rise
 sector 89,4.15,1729.60544,3,3,3+,under construction,1,low,1,high-rise
 sector 77,1.74,1450.0,3,4,3,1 to 5 year old,1,medium,1,mid-rise
 sector 36a,3.1,1478.0,2,2,3,0 to 1 year old,0,high,1,high-rise
-sector-33 sohna,2.1,2834.3199999999997,3,2,3,under construction,0,low,1,mid-rise
+sohna,2.1,2834.3199999999997,3,2,3,under construction,0,low,1,mid-rise
 sohna,1.96,1720.0,3,3,3,under construction,0,medium,1,mid-rise
 sector 37c,1.28,1578.0,2,2,2,1 to 5 year old,0,medium,1,high-rise
 sector 66,4.75,3124.0,3,3,3,5 to 10 year old,1,medium,2,mid-rise
@@ -1173,8 +1172,8 @@ sector 79,2.33,2252.12,3,3,3,0 to 1 year old,0,medium,2,mid-rise
 sector 70,2.4,1846.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
 sector 99,1.4,1365.0,2,2,3+,0 to 1 year old,0,high,1,high-rise
 sector 66,6.98,4309.7,3,4,3,under construction,1,medium,2,high-rise
-dlf phase 4,2.14,1150.0,2,2,2,10+ year old,0,high,1,high-rise
-dlf phase 5,3.8,1900.0,3,3,2,10+ year old,0,high,1,low-rise
+sector 43,2.14,1150.0,2,2,2,10+ year old,0,high,1,high-rise
+sector 54,3.8,1900.0,3,3,2,10+ year old,0,high,1,low-rise
 sector 54,14.0,3500.0,4,6,3+,5 to 10 year old,1,medium,5,high-rise
 sector 67a,0.82,900.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 67a,0.78,800.0,2,2,1,1 to 5 year old,0,high,1,mid-rise
@@ -1195,7 +1194,7 @@ sohna,4.58,3124.0,3,4,3+,under construction,1,high,2,low-rise
 sector 65,2.7,1395.0,3,3,3,1 to 5 year old,0,medium,1,low-rise
 sector 81,0.75,652.0,2,2,1,1 to 5 year old,0,low,1,mid-rise
 sector 86,0.725,714.26,2,2,1,1 to 5 year old,0,low,0,mid-rise
-sector-33 sohna,1.85,1210.0,2,2,3,0 to 1 year old,0,medium,0,low-rise
+sohna,1.85,1210.0,2,2,3,0 to 1 year old,0,medium,0,low-rise
 sohna,1.21,1536.4399999999998,3,2,3+,0 to 1 year old,0,medium,5,low-rise
 sector 37d,4.4,4619.4872,4,4,3,under construction,1,high,0,high-rise
 sector 57,3.4,2293.0,3,4,3+,10+ year old,1,high,2,mid-rise
@@ -1206,7 +1205,7 @@ sector 62,4.65,2262.0,3,4,3,under construction,1,medium,2,high-rise
 sector 111,2.0,1715.0,2,3,3,under construction,1,medium,1,mid-rise
 gwal pahari,1.45,1097.0,2,2,2,5 to 10 year old,0,medium,1,mid-rise
 sector 89,2.2,1260.0,2,2,3,under construction,0,low,0,high-rise
-sector-33 sohna,3.0,1789.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
+sohna,3.0,1789.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
 sector 66,3.25,2063.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
 sector 61,3.1,1795.0,3,3,3,5 to 10 year old,0,medium,2,mid-rise
 sector 92,1.25,1326.0,3,2,2,0 to 1 year old,0,medium,1,mid-rise
@@ -1216,7 +1215,7 @@ sector 103,3.5,2355.0,3,3,3,under construction,0,low,2,mid-rise
 sector 82,3.25,2535.0,4,5,3+,5 to 10 year old,1,medium,1,high-rise
 sector 67,0.87,994.0,2,2,1,1 to 5 year old,0,medium,2,mid-rise
 sector 93,2.2,2172.6,3,3,3,under construction,1,medium,1,low-rise
-galleria market,4.25,1720.0,4,4,2,10+ year old,0,medium,1,mid-rise
+sector 27,4.25,1720.0,4,4,2,10+ year old,0,medium,1,mid-rise
 sector 106,1.9,2499.2,3,3,3+,1 to 5 year old,1,medium,1,high-rise
 sector 65,2.9,3150.0,4,4,2,1 to 5 year old,1,high,1,low-rise
 sector 92,4.0,3834.0,4,4,2,1 to 5 year old,1,medium,2,low-rise
@@ -1243,7 +1242,7 @@ sector 108,2.8,2631.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 76,0.95,735.0,2,2,0,0 to 1 year old,0,medium,0,mid-rise
 sector 79,1.95,1490.0,3,3,3,1 to 5 year old,0,medium,1,high-rise
 sector 104,2.53,2290.0,3,4,3+,1 to 5 year old,1,medium,3,high-rise
-dlf phase 3,2.15,1917.0,3,2,2,5 to 10 year old,0,medium,2,low-rise
+sector 23,2.15,1917.0,3,2,2,5 to 10 year old,0,medium,2,low-rise
 sector 70a,2.2,1600.0,2,2,3,1 to 5 year old,0,high,2,mid-rise
 sector 99a,1.45,1550.0,2,2,3,0 to 1 year old,0,medium,1,mid-rise
 sector 53,7.5,2874.0,3,3,3,under construction,0,medium,0,high-rise
@@ -1258,9 +1257,9 @@ sector 102,2.58,1942.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 30,15.0,5200.0,5,5,3+,10+ year old,1,medium,0,high-rise
 sector 85,2.6,2597.18,3,3,3+,under construction,0,medium,1,high-rise
 sector 70a,0.6855,839.4329999999999,2,2,0,1 to 5 year old,0,low,1,mid-rise
-pocket h nirvana country,2.5,1796.0,2,2,2,10+ year old,0,high,1,mid-rise
+sector 50,2.5,1796.0,2,2,2,10+ year old,0,high,1,mid-rise
 sector 69,2.6,1578.0,3,3,2,5 to 10 year old,0,medium,2,mid-rise
-malibu town,5.5,3285.0,4,4,3+,5 to 10 year old,1,medium,1,mid-rise
+sector 47,5.5,3285.0,4,4,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 49,4.25,2562.0,4,4,3,5 to 10 year old,1,medium,2,mid-rise
 sector 49,3.1,1805.0,3,3,3,10+ year old,0,high,1,mid-rise
 sector 66,4.1,1950.0,3,3,2,10+ year old,1,high,2,mid-rise
@@ -1303,7 +1302,7 @@ sector 102,3.21,2149.0,3,4,3+,1 to 5 year old,1,high,1,high-rise
 sector 92,1.8,2040.0,4,4,3,5 to 10 year old,1,medium,1,mid-rise
 sector 37c,2.0,2600.0,4,4,3+,1 to 5 year old,1,medium,1,high-rise
 sector 106,3.25,2002.0,3,3,3,0 to 1 year old,0,high,1,high-rise
-nirvana country,2.6,1877.0,3,4,3+,5 to 10 year old,1,medium,3,mid-rise
+sector 50,2.6,1877.0,3,4,3+,5 to 10 year old,1,medium,3,mid-rise
 sector 86,2.3,1480.0,2,2,3,1 to 5 year old,0,medium,2,mid-rise
 sector 83,2.0,1740.0,3,2,2,1 to 5 year old,0,low,2,low-rise
 sector 90,2.62,2727.0,4,4,3+,5 to 10 year old,0,medium,0,high-rise
@@ -1323,16 +1322,16 @@ sector 110,5.5,3880.0,5,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 110,4.85,3400.0,4,5,3,1 to 5 year old,1,medium,2,mid-rise
 sohna,1.55,1272.0,1,1,1,1 to 5 year old,0,medium,2,mid-rise
 sector 107,1.48,1536.0,2,2,3,1 to 5 year old,0,medium,1,mid-rise
-sector-33 sohna,3.6,2407.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
-sector-33 sohna,2.6,1789.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
-sector-33 sohna,1.9,1776.0,3,3,3,0 to 1 year old,0,medium,3,mid-rise
-heritage city,7.2,3840.0,4,4,3+,10+ year old,1,low,2,mid-rise
+sohna,3.6,2407.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
+sohna,2.6,1789.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
+sohna,1.9,1776.0,3,3,3,0 to 1 year old,0,medium,3,mid-rise
+sector 25,7.2,3840.0,4,4,3+,10+ year old,1,low,2,mid-rise
 sector 70a,3.25,2150.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 65,2.92,2700.0,4,3,3,1 to 5 year old,0,medium,1,low-rise
-sector-33 sohna,1.7,1414.32,3,3,2,0 to 1 year old,0,medium,2,mid-rise
-sector-33 sohna,1.25,1275.0,2,2,2,1 to 5 year old,0,medium,2,mid-rise
-sector-33 sohna,1.27,1275.0,2,2,2,1 to 5 year old,0,medium,2,mid-rise
-sector-33 sohna,1.85,1720.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
+sohna,1.7,1414.32,3,3,2,0 to 1 year old,0,medium,2,mid-rise
+sohna,1.25,1275.0,2,2,2,1 to 5 year old,0,medium,2,mid-rise
+sohna,1.27,1275.0,2,2,2,1 to 5 year old,0,medium,2,mid-rise
+sohna,1.85,1720.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
 sector 67a,2.45,1933.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
 sector 103,1.5,1423.0,2,2,3,1 to 5 year old,0,medium,0,mid-rise
 sector 106,2.5,1455.038216,3,3,2,1 to 5 year old,0,medium,1,high-rise
@@ -1345,14 +1344,14 @@ sector 89,1.55,1494.0,3,3,2,0 to 1 year old,0,medium,1,low-rise
 sector 79,1.75,1503.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 102,1.45,915.0,2,2,2,1 to 5 year old,0,high,1,high-rise
 sector 102,2.48,1852.0,3,3,3,1 to 5 year old,0,high,1,high-rise
-sector-33 sohna,3.7,2600.0,4,4,3,0 to 1 year old,1,high,2,mid-rise
+sohna,3.7,2600.0,4,4,3,0 to 1 year old,1,high,2,mid-rise
 sector 83,2.72,1900.0,3,4,3,1 to 5 year old,1,medium,0,mid-rise
-nirvana country,2.82,1877.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
+sector 50,2.82,1877.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 111,4.72,2950.0,4,5,3+,1 to 5 year old,1,high,2,mid-rise
 sector 113,2.6,1579.0,3,2,2,1 to 5 year old,0,high,2,high-rise
-sector-33 sohna,2.75,1789.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
-sector-33 sohna,2.85,1789.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
-sector-33 sohna,2.7,1789.0,3,3,3+,0 to 1 year old,0,high,1,mid-rise
+sohna,2.75,1789.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
+sohna,2.85,1789.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
+sohna,2.7,1789.0,3,3,3+,0 to 1 year old,0,high,1,mid-rise
 sector 102,2.5,1852.0,3,3,3,1 to 5 year old,0,medium,1,high-rise
 sector 92,1.48,2166.92,3,3,3+,0 to 1 year old,0,high,1,mid-rise
 sector 113,2.0,1330.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
@@ -1365,7 +1364,7 @@ sector 109,2.05,1750.0,3,3,3+,1 to 5 year old,0,medium,1,high-rise
 sector 102,1.82,1215.0,2,2,2,1 to 5 year old,0,medium,1,high-rise
 sector 106,1.95,1988.0,2,2,3,0 to 1 year old,1,high,1,high-rise
 sector 108,3.2,1711.0,3,3,2,1 to 5 year old,0,high,1,high-rise
-nirvana country,2.25,1418.0,2,2,3+,10+ year old,0,high,1,mid-rise
+sector 50,2.25,1418.0,2,2,3+,10+ year old,0,high,1,mid-rise
 sector 37d,2.51,2191.0,4,3,3,1 to 5 year old,0,high,2,mid-rise
 sector 106,1.45,1385.0,2,2,3+,1 to 5 year old,0,medium,0,mid-rise
 sector 68,2.5,1999.0,3,4,3+,1 to 5 year old,1,high,3,high-rise
@@ -1388,10 +1387,10 @@ sector 92,2.35,2120.0,3,4,3,1 to 5 year old,1,high,2,mid-rise
 sector 107,1.35,1366.0,2,2,3,1 to 5 year old,0,medium,1,mid-rise
 sector 53,8.95,3390.0,4,4,3,5 to 10 year old,1,high,3,mid-rise
 sector 37d,0.9,1055.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
-dlf phase 4,3.1,1370.0,3,3,1,5 to 10 year old,0,high,1,mid-rise
+sector 43,3.1,1370.0,3,3,1,5 to 10 year old,0,high,1,mid-rise
 sector 54,9.75,2721.0,4,5,3+,5 to 10 year old,1,high,3,high-rise
 sector 71,4.3,4700.0,4,4,3+,5 to 10 year old,1,medium,2,mid-rise
-sector-33 sohna,3.9,2600.0,4,5,3+,1 to 5 year old,1,medium,1,mid-rise
+sohna,3.9,2600.0,4,5,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 110,4.65,3400.0,4,5,3,1 to 5 year old,1,medium,2,mid-rise
 sector 111,3.1,1700.0,3,3,1,1 to 5 year old,0,medium,2,mid-rise
 sector 108,2.7,1381.0,2,2,2,1 to 5 year old,0,high,1,high-rise
@@ -1405,7 +1404,7 @@ sector 103,2.1,2000.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
 sector 104,3.65,2450.0,3,3,3+,1 to 5 year old,1,high,2,high-rise
 sector 104,2.1,1550.0,2,2,3,1 to 5 year old,0,high,2,high-rise
 sector 77,1.72,1822.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
-sikandarpur badha,1.8,1671.0,2,3,3+,1 to 5 year old,0,high,1,high-rise
+sector 85,1.8,1671.0,2,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 37c,1.55,1790.0,3,3,3,0 to 1 year old,0,low,2,high-rise
 sector 107,1.25,1366.0,2,2,3+,1 to 5 year old,0,high,2,mid-rise
 sector 70a,3.15,1988.0,3,4,3,1 to 5 year old,1,medium,2,mid-rise
@@ -1431,9 +1430,9 @@ sector 70a,0.72,714.26,2,2,1,1 to 5 year old,0,medium,1,mid-rise
 sector 70a,0.75,711.42,2,2,1,1 to 5 year old,0,medium,2,mid-rise
 sector 70a,0.75,714.26,2,2,1,1 to 5 year old,0,medium,0,mid-rise
 sector 49,2.39,1773.0,3,3,3+,5 to 10 year old,0,medium,1,mid-rise
-dlf phase 5,8.49,2804.0,4,4,3,10+ year old,1,medium,2,mid-rise
+sector 54,8.49,2804.0,4,4,3,10+ year old,1,medium,2,mid-rise
 sector 56,2.38,2536.12,3,4,3+,5 to 10 year old,1,low,4,mid-rise
-dlf phase 5,3.99,1740.0,4,4,2,10+ year old,0,medium,1,mid-rise
+sector 54,3.99,1740.0,4,4,2,10+ year old,0,medium,1,mid-rise
 sector 66,3.45,2052.0,4,4,3,5 to 10 year old,1,high,2,high-rise
 sector 67a,2.05,1484.0,2,2,3+,1 to 5 year old,0,high,1,mid-rise
 sector 66,3.5,2050.0,4,4,3,1 to 5 year old,1,medium,2,high-rise
@@ -1454,7 +1453,7 @@ sector 108,1.55,1838.0,3,3,2,1 to 5 year old,0,medium,2,mid-rise
 sector 90,0.7,690.0,2,2,1,1 to 5 year old,0,low,1,mid-rise
 sector 90,0.68,700.0,2,2,1,1 to 5 year old,0,low,0,mid-rise
 sector 36a,1.75,921.02,1,1,2,under construction,0,medium,1,high-rise
-sector-4 sohna,0.57,746.37,3,2,1,1 to 5 year old,0,medium,2,mid-rise
+sohna,0.57,746.37,3,2,1,1 to 5 year old,0,medium,2,mid-rise
 sector 89,2.3,2656.25,4,4,3,1 to 5 year old,0,high,3,mid-rise
 sector 69,2.6,2240.76,3,3,2,1 to 5 year old,0,medium,0,mid-rise
 sector 9a,1.55,2201.0,3,3,2,10+ year old,0,low,1,mid-rise
@@ -1495,10 +1494,10 @@ sector 65,3.25,2343.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
 sector 65,4.75,3600.0,4,4,3+,1 to 5 year old,1,high,2,low-rise
 sector 61,2.55,1550.0,3,3,3,0 to 1 year old,0,high,2,low-rise
 sector 61,2.6,1627.0,3,3,3,0 to 1 year old,0,medium,3,low-rise
-sector-5 sohna,0.5,786.9071999999999,2,2,2,1 to 5 year old,0,medium,1,mid-rise
-sector-33 sohna,0.53,875.0,2,2,1,1 to 5 year old,1,medium,2,mid-rise
-sector-33 sohna,0.56,875.0,2,2,1,1 to 5 year old,0,medium,1,mid-rise
-nirvana country,4.25,2937.98,3,3,3,10+ year old,0,medium,2,mid-rise
+sohna,0.5,786.9071999999999,2,2,2,1 to 5 year old,0,medium,1,mid-rise
+sohna,0.53,875.0,2,2,1,1 to 5 year old,1,medium,2,mid-rise
+sohna,0.56,875.0,2,2,1,1 to 5 year old,0,medium,1,mid-rise
+sector 50,4.25,2937.98,3,3,3,10+ year old,0,medium,2,mid-rise
 sector 84,2.3,2244.0,3,4,3+,1 to 5 year old,1,medium,1,high-rise
 sector 65,5.5,2350.0,2,2,1,1 to 5 year old,0,medium,1,mid-rise
 sohna,1.1,1269.0,2,2,3+,0 to 1 year old,0,high,1,mid-rise
@@ -1526,7 +1525,7 @@ sector 70a,0.85,745.5,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 107,2.2,3352.62,3,4,3,1 to 5 year old,1,medium,1,mid-rise
 sohna,1.12,1269.0,2,2,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 93,0.8,915.9,3,2,1,under construction,0,low,0,mid-rise
-dlf phase 4,2.1,1105.0,2,2,2,10+ year old,0,medium,0,high-rise
+sector 43,2.1,1105.0,2,2,2,10+ year old,0,medium,0,high-rise
 sector 112,7.5,4857.0,4,6,3+,1 to 5 year old,1,medium,1,high-rise
 sector 92,1.36,1180.0,2,2,2,under construction,0,low,1,mid-rise
 sector 41,3.25,1634.0,3,2,2,10+ year old,1,high,1,mid-rise
@@ -1542,7 +1541,7 @@ sector 70a,0.72,980.0,2,2,1,1 to 5 year old,0,high,2,mid-rise
 sector 84,1.4,1350.0,3,2,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 104,2.5,1689.0,3,3,3,under construction,0,medium,1,high-rise
 sector 65,9.15,4010.0,4,4,3+,1 to 5 year old,1,high,4,high-rise
-palam vihar,2.0,2723.56,2,2,3+,10+ year old,0,low,0,mid-rise
+sector 3,2.0,2723.56,2,2,3+,10+ year old,0,low,0,mid-rise
 sector 65,2.6,2350.0,3,3,3,5 to 10 year old,0,high,2,low-rise
 sector 61,4.0,2438.0,4,4,3+,5 to 10 year old,1,high,2,high-rise
 sector 69,2.4,1578.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
@@ -1567,25 +1566,24 @@ sector 61,3.45,1712.0,3,3,2,0 to 1 year old,0,medium,1,low-rise
 sector 49,4.2,2562.0,4,4,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 81,1.49,1931.2,2,2,3,5 to 10 year old,0,medium,1,mid-rise
 sector 49,7.85,3363.128,4,4,3,under construction,0,medium,3,high-rise
-sector-33 sohna,3.8,3649.4,4,4,3+,0 to 1 year old,1,medium,1,mid-rise
-sector-33 sohna,1.46,1310.0,2,2,3,under construction,0,medium,1,high-rise
+sohna,3.8,3649.4,4,4,3+,0 to 1 year old,1,medium,1,mid-rise
+sohna,1.46,1310.0,2,2,3,under construction,0,medium,1,high-rise
 sector 76,2.17,1672.0,3,3,2,under construction,0,low,1,low-rise
 sector 79,1.95,1525.0,3,3,3,under construction,0,low,0,low-rise
 sector 92,1.7,3976.0,4,3,1,1 to 5 year old,0,medium,1,mid-rise
 sector 76,0.88,735.0,2,2,2,1 to 5 year old,0,medium,2,mid-rise
 sector 86,2.15,1929.0,3,3,2,1 to 5 year old,0,medium,2,mid-rise
-nawada fatehpur,2.0,1930.0,3,3,3,10+ year old,1,high,2,mid-rise
+sector 86,2.0,1930.0,3,3,3,10+ year old,1,high,2,mid-rise
 sector 76,0.85,871.56,2,2,1,1 to 5 year old,0,medium,2,mid-rise
 sector 102,2.38,2025.0,3,4,1,1 to 5 year old,1,medium,2,mid-rise
 sector 102,0.72,632.0,2,2,1,1 to 5 year old,0,medium,0,mid-rise
-new colony,1.7,1200.0,3,2,1,0 to 1 year old,0,medium,1,low-rise
 sector 84,1.45,1725.0,3,3,3+,5 to 10 year old,0,medium,1,mid-rise
 sector 68,1.75,1304.0,2,2,2,1 to 5 year old,0,medium,0,high-rise
 sector 67,3.7,2685.0,4,4,3,1 to 5 year old,1,high,2,mid-rise
 sector 93,0.75,765.38,2,2,2,1 to 5 year old,0,low,0,mid-rise
 sector 70,1.68,1350.0,2,2,3,1 to 5 year old,0,high,1,mid-rise
 sector 79,1.77,1490.0,3,3,3,1 to 5 year old,0,medium,1,high-rise
-sector-33 sohna,1.42,1966.7,2,2,3+,1 to 5 year old,0,medium,2,mid-rise
+sohna,1.42,1966.7,2,2,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 110,1.1,604.0,3,2,2,under construction,0,low,0,mid-rise
 sector 107,0.49,730.448,2,2,2,5 to 10 year old,0,low,1,mid-rise
 sector 108,1.65,1838.0,3,3,2,1 to 5 year old,0,medium,2,mid-rise
@@ -1619,7 +1617,7 @@ sector 84,1.8,1918.0,3,3,3+,0 to 1 year old,0,medium,2,mid-rise
 sector 74,3.6,2018.0,3,3,3+,1 to 5 year old,0,medium,2,high-rise
 sector 102,1.3,915.0,2,2,2,0 to 1 year old,0,high,1,high-rise
 sector 63a,2.6,2307.5,2,2,1,0 to 1 year old,0,medium,2,low-rise
-sector-33 sohna,1.78,1412.9,2,2,2,0 to 1 year old,0,medium,0,mid-rise
+sohna,1.78,1412.9,2,2,2,0 to 1 year old,0,medium,0,mid-rise
 sector 86,0.6,840.3276,2,2,1,0 to 1 year old,0,medium,1,mid-rise
 sector 81,0.98,1225.0,2,2,2,5 to 10 year old,0,medium,1,mid-rise
 sector 85,1.27,1485.0,3,3,2,5 to 10 year old,0,high,1,mid-rise
@@ -1718,8 +1716,8 @@ sector 83,2.35,1850.0,3,4,3+,1 to 5 year old,1,high,1,mid-rise
 sector 79,2.65,2150.0,3,4,2,0 to 1 year old,1,medium,1,mid-rise
 sector 47,3.06,2086.0,3,4,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 109,2.3,2836.0,4,4,3+,1 to 5 year old,1,high,3,mid-rise
-heritage city,3.55,1850.0,3,4,3+,10+ year old,1,low,1,mid-rise
-dlf phase 4,2.4,1105.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
+sector 25,3.55,1850.0,3,4,3+,10+ year old,1,low,1,mid-rise
+sector 43,2.4,1105.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 107,2.69,2768.0,4,5,3+,1 to 5 year old,1,high,1,mid-rise
 sector 107,1.73,1943.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 107,1.31,1366.0,2,2,3+,1 to 5 year old,0,high,1,mid-rise
@@ -1781,7 +1779,7 @@ sector 106,1.45,1385.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
 sector 108,2.0,1758.0,3,3,3+,1 to 5 year old,1,high,2,mid-rise
 sector 92,1.68,2057.0,4,4,3,1 to 5 year old,1,high,1,mid-rise
 sector 54,6.6,2478.75,3,3,3,5 to 10 year old,1,medium,2,high-rise
-sector-33 sohna,1.34,1966.7,2,2,3+,0 to 1 year old,0,high,2,mid-rise
+sohna,1.34,1966.7,2,2,3+,0 to 1 year old,0,high,2,mid-rise
 sector 54,7.5,2282.0,3,3,3,5 to 10 year old,1,high,1,high-rise
 sector 54,7.3,2282.0,3,3,3,5 to 10 year old,1,high,1,high-rise
 sector 65,2.92,1516.0,2,2,2,1 to 5 year old,0,high,1,high-rise
@@ -1840,7 +1838,7 @@ sector 67a,2.6,1852.0,3,4,2,1 to 5 year old,1,high,1,mid-rise
 sector 67a,2.3,1727.0,3,3,2,1 to 5 year old,0,medium,2,mid-rise
 sector 62,6.1,3676.38,3,3,2,0 to 1 year old,1,high,2,high-rise
 sector 79,2.56,2050.0,3,3,3+,1 to 5 year old,1,high,1,mid-rise
-garauli khurd,1.65,1775.0,3,3,3+,1 to 5 year old,0,high,3,mid-rise
+sector 37d,1.65,1775.0,3,3,3+,1 to 5 year old,0,high,3,mid-rise
 sector 70a,2.7,1565.0,2,2,3,1 to 5 year old,0,high,2,high-rise
 sector 48,3.08,2690.9,3,3,3+,10+ year old,1,medium,1,mid-rise
 sector 47,3.15,2878.3399999999997,3,3,3+,10+ year old,1,medium,2,mid-rise
@@ -1863,14 +1861,14 @@ sector 77,1.27,1242.5,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 81,0.66,657.0,2,2,1,1 to 5 year old,0,low,1,mid-rise
 sector 108,2.6,2003.0,3,4,3+,1 to 5 year old,1,high,1,mid-rise
 sector 84,0.6,583.0,2,2,2,1 to 5 year old,0,medium,0,mid-rise
-sector-33 sohna,0.34,600.0,1,1,1,1 to 5 year old,0,medium,1,mid-rise
+sohna,0.34,600.0,1,1,1,1 to 5 year old,0,medium,1,mid-rise
 sector 90,0.69,626.0,2,2,1,1 to 5 year old,0,medium,0,mid-rise
 sector 47,5.14,2470.0,3,5,3,1 to 5 year old,1,medium,2,mid-rise
 sector 66,3.9,2200.0,3,3,3,1 to 5 year old,1,medium,4,mid-rise
 sector 92,2.5,2313.75,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 70a,0.69,980.0,2,2,1,1 to 5 year old,0,high,2,mid-rise
 sector 90,0.43,432.0,1,1,1,1 to 5 year old,0,medium,1,mid-rise
-sector-35 sohna,0.41,921.425,2,2,2,1 to 5 year old,0,medium,1,mid-rise
+sohna,0.41,921.425,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 49,2.88,1733.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
 sector 81,1.55,1015.0159999999998,3,2,3+,under construction,0,medium,1,low-rise
 sector 89,2.0,2200.0,3,3,3+,10+ year old,1,high,2,mid-rise
@@ -1894,7 +1892,7 @@ sector 39,3.4,3200.0,4,4,3+,10+ year old,1,medium,2,mid-rise
 sector 89,2.9,1673.0,3,3,3,under construction,0,low,0,high-rise
 sector 62,4.29,2124.0,3,3,3,under construction,0,medium,1,high-rise
 sector 82,3.0,1960.0,3,4,3+,5 to 10 year old,1,medium,1,high-rise
-sector 36 sohna,1.2,1533.6,3,2,3,0 to 1 year old,0,medium,1,low-rise
+sohna,1.2,1533.6,3,2,3,0 to 1 year old,0,medium,1,low-rise
 sector 49,5.1,1422.4708,3,3,3,under construction,0,low,1,high-rise
 sector 37d,1.6,1765.0,3,3,3,under construction,0,medium,1,high-rise
 sector 51,3.6,3124.0,3,3,3+,5 to 10 year old,1,medium,2,mid-rise
@@ -1909,15 +1907,15 @@ sector 92,2.6,1995.0,3,4,3,1 to 5 year old,1,high,4,mid-rise
 sector 102,2.9,1852.0,3,3,3,0 to 1 year old,0,medium,1,mid-rise
 sector 3,3.0,3763.0,4,4,3,under construction,0,medium,0,mid-rise
 sector 49,4.85,1856.0,3,3,3,under construction,0,medium,0,high-rise
-sector 36 sohna,0.85,845.3,2,2,3,under construction,0,medium,0,low-rise
+sohna,0.85,845.3,2,2,3,under construction,0,medium,0,low-rise
 sector 69,2.53,1704.0,3,3,3,under construction,1,medium,1,high-rise
-dlf phase 3,16.41,8000.0,5,6,3+,1 to 5 year old,1,high,4,mid-rise
-dlf phase 3,14.0,7000.0,4,5,3+,1 to 5 year old,1,high,3,mid-rise
+sector 23,16.41,8000.0,5,6,3+,1 to 5 year old,1,high,4,mid-rise
+sector 23,14.0,7000.0,4,5,3+,1 to 5 year old,1,high,3,mid-rise
 sector 90,1.6,1950.0,3,4,3,1 to 5 year old,1,high,2,mid-rise
 sector 79,3.75,2675.0,4,4,3+,0 to 1 year old,1,high,2,mid-rise
 sector 106,1.55,1966.7,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sector 36a,0.72,485.64,1,1,1,5 to 10 year old,0,medium,0,mid-rise
-dlf phase 5,2.99,1900.0,3,3,2,10+ year old,0,medium,0,low-rise
+sector 54,2.99,1900.0,3,3,2,10+ year old,0,medium,0,low-rise
 sector 70a,0.7,980.0,2,2,1,1 to 5 year old,0,medium,1,mid-rise
 sector 70a,0.72,852.0,2,2,1,1 to 5 year old,0,medium,0,mid-rise
 sector 70a,0.68,920.0,2,2,1,1 to 5 year old,0,high,2,mid-rise
@@ -1943,7 +1941,7 @@ sector 43,2.4,2627.0,3,3,3+,10+ year old,1,medium,2,mid-rise
 sector 88a,0.48,531.0799999999999,1,1,1,1 to 5 year old,0,low,0,mid-rise
 sector 67a,0.8,839.2199999999999,2,2,1,1 to 5 year old,0,low,0,mid-rise
 sector 108,1.25,1505.0,2,2,3,5 to 10 year old,0,high,1,mid-rise
-sector 36 sohna,0.88,1449.82,2,2,1,0 to 1 year old,0,medium,1,low-rise
+sohna,0.88,1449.82,2,2,1,0 to 1 year old,0,medium,1,low-rise
 sector 85,1.49,1675.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 109,2.5,2836.0,4,4,1,5 to 10 year old,1,medium,2,mid-rise
 sector 92,2.4,2462.2799999999997,4,4,3,5 to 10 year old,0,high,2,low-rise
@@ -1989,7 +1987,7 @@ sector 37d,1.06,1310.0,2,2,3+,1 to 5 year old,0,medium,0,mid-rise
 sector 76,0.88,889.24944,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 37d,1.25,1675.0,3,3,3+,1 to 5 year old,0,high,0,mid-rise
 sector 102,0.85,632.0,2,2,1,1 to 5 year old,0,low,1,mid-rise
-heritage city,3.07,1665.0,3,3,2,10+ year old,1,high,1,mid-rise
+sector 25,3.07,1665.0,3,3,2,10+ year old,1,high,1,mid-rise
 sector 70,1.8,1250.0,2,2,3,1 to 5 year old,0,medium,1,mid-rise
 sector 107,0.449,350.0,1,1,2,1 to 5 year old,0,medium,2,low-rise
 sector 79,2.15,2272.0,3,2,3,under construction,0,medium,1,mid-rise
@@ -2020,7 +2018,7 @@ sector 55,2.5,2982.0,3,3,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 95a,0.59,730.2633999999999,2,2,2,1 to 5 year old,0,high,1,mid-rise
 sector 70a,0.7,980.0,2,2,1,1 to 5 year old,0,high,1,mid-rise
 sector 85,1.21,1475.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
-dlf phase 5,8.75,2750.0,4,5,3,1 to 5 year old,1,medium,0,mid-rise
+sector 54,8.75,2750.0,4,5,3,1 to 5 year old,1,medium,0,mid-rise
 sector 92,1.75,2212.05,4,4,3,0 to 1 year old,1,low,1,mid-rise
 sector 70,1.35,1170.0,3,2,2,10+ year old,0,medium,0,mid-rise
 sector 66,3.86,1999.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
@@ -2034,7 +2032,7 @@ sector 69,1.5,1882.92,3,2,3,1 to 5 year old,0,high,1,mid-rise
 sector 69,1.48,1882.92,3,2,3,5 to 10 year old,0,medium,1,mid-rise
 sector 69,1.52,1882.92,3,2,3,5 to 10 year old,0,high,1,mid-rise
 sector 70,2.9,2150.0,3,4,3,5 to 10 year old,1,high,2,mid-rise
-jawahar nagar,0.65,1704.0,2,2,1,1 to 5 year old,0,low,2,low-rise
+sector 12,0.65,1704.0,2,2,1,1 to 5 year old,0,low,2,low-rise
 sector 95,1.15,1548.0,3,3,3,0 to 1 year old,0,medium,1,mid-rise
 sector 88a,1.7,1463.0,2,2,3+,1 to 5 year old,0,medium,0,mid-rise
 sector 89,3.5,2376.0,3,4,3+,under construction,1,low,2,high-rise
@@ -2049,14 +2047,14 @@ sector 66,3.25,2896.7999999999997,4,3,3,5 to 10 year old,0,medium,0,mid-rise
 sector 113,2.15,1330.0,2,2,3,1 to 5 year old,0,medium,2,high-rise
 sector 37c,1.35,1853.0,3,3,2,0 to 1 year old,0,high,2,mid-rise
 sector 37c,1.5,2011.1885999999995,3,4,3,0 to 1 year old,0,high,2,mid-rise
-garauli kalan,1.5,1820.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
+sector 37c,1.5,1820.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
 sector 102,2.27,2025.0,3,4,1,1 to 5 year old,1,medium,3,mid-rise
 sector 102,2.47,1827.0,3,3,2,1 to 5 year old,0,medium,1,high-rise
 sector 67,0.8,800.0,2,2,1,1 to 5 year old,0,medium,1,mid-rise
 sector 103,1.65,1940.0,3,4,3+,under construction,1,medium,2,mid-rise
 sector 109,3.0,5964.0,5,5,3+,5 to 10 year old,0,medium,2,mid-rise
 sector 1 imt manesar,1.28,2912.42,3,3,2,10+ year old,0,medium,4,mid-rise
-dlf phase 2,4.57,2250.0,4,4,3+,10+ year old,1,high,2,mid-rise
+sector 25,4.57,2250.0,4,4,3+,10+ year old,1,high,2,mid-rise
 sector 99,3.7,3360.0,4,4,3+,0 to 1 year old,1,high,3,mid-rise
 sector 106,1.28,1385.0,2,2,3+,1 to 5 year old,0,medium,0,high-rise
 sector 70a,0.71,900.0,2,2,1,0 to 1 year old,0,medium,2,mid-rise
@@ -2152,7 +2150,7 @@ sector 72,6.5,3355.0,4,4,3+,1 to 5 year old,1,medium,2,high-rise
 sector 72,6.4,3355.0,4,4,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 113,3.5,2575.0,3,4,3,1 to 5 year old,1,medium,2,high-rise
 sector 68,2.42,1999.0,3,4,3+,0 to 1 year old,1,high,1,high-rise
-dlf phase 5,3.45,1900.0,3,3,2,10+ year old,0,high,1,low-rise
+sector 54,3.45,1900.0,3,3,2,10+ year old,0,high,1,low-rise
 sector 67a,1.75,1296.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 93,0.64,628.0,2,2,3,1 to 5 year old,0,medium,2,mid-rise
 sector 37c,2.25,3472.0,4,4,2,0 to 1 year old,0,high,2,mid-rise
@@ -2164,7 +2162,7 @@ sector 102,2.22,1692.0,3,3,3,1 to 5 year old,0,high,1,high-rise
 sector 109,2.9,1955.0,3,4,3+,0 to 1 year old,1,medium,1,mid-rise
 sector 93,0.68,628.0,2,2,3,1 to 5 year old,0,low,1,mid-rise
 sector 95a,0.65,808.3208,2,2,2,1 to 5 year old,0,high,1,mid-rise
-dlf phase 4,5.8,3527.28,4,4,3+,0 to 1 year old,1,high,2,low-rise
+sector 43,5.8,3527.28,4,4,3+,0 to 1 year old,1,high,2,low-rise
 sector 104,2.62,2698.0,3,3,3+,1 to 5 year old,1,medium,2,high-rise
 sector 66,3.9,2200.0,3,4,3,0 to 1 year old,1,medium,4,mid-rise
 sector 70a,0.7,994.0,2,2,2,1 to 5 year old,1,medium,2,mid-rise
@@ -2179,7 +2177,7 @@ sector 63a,3.8,2740.6,3,3,3,1 to 5 year old,0,medium,4,low-rise
 sector 106,4.05,2352.080048,4,5,3+,1 to 5 year old,0,medium,2,high-rise
 sector 37d,1.12,1380.0,2,2,3,1 to 5 year old,0,high,2,mid-rise
 sector 70a,1.65,1685.54,2,2,3,1 to 5 year old,0,medium,0,low-rise
-hayatpur,1.72,1805.0,3,4,2,1 to 5 year old,0,medium,1,mid-rise
+sector 93,1.72,1805.0,3,4,2,1 to 5 year old,0,medium,1,mid-rise
 sector 72,1.77,1755.0,2,3,3+,5 to 10 year old,1,high,1,mid-rise
 sector 65,2.3,1310.0,2,2,3,0 to 1 year old,0,medium,1,high-rise
 sector 67a,0.8,849.16,2,2,1,1 to 5 year old,0,low,0,mid-rise
@@ -2222,7 +2220,7 @@ sector 37c,2.35,2358.0,3,3,3,5 to 10 year old,0,high,2,mid-rise
 sector 71,2.25,2350.0,4,3,3+,5 to 10 year old,1,high,1,mid-rise
 sector 82,1.76,1690.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 37c,1.1,1310.0,2,2,3,0 to 1 year old,0,medium,2,mid-rise
-heritage city,3.75,2750.54,3,3,3,10+ year old,1,high,1,mid-rise
+sector 25,3.75,2750.54,3,3,3,10+ year old,1,high,1,mid-rise
 sector 79,2.5,2366.0,3,4,3,1 to 5 year old,1,medium,2,mid-rise
 sector 37d,1.64,1800.0,3,3,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 107,1.41,1534.0,2,2,3,1 to 5 year old,0,high,1,mid-rise
@@ -2246,7 +2244,7 @@ sector 86,0.65,711.42,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sector 48,3.05,1776.0,3,3,3,5 to 10 year old,1,medium,1,mid-rise
 sector 48,3.05,1776.0,3,3,3+,1 to 5 year old,1,high,1,mid-rise
 sector 37c,2.25,2750.0,3,3,3,0 to 1 year old,1,medium,1,mid-rise
-block c,3.2,1935.0,3,3,2,0 to 1 year old,1,low,2,low-rise
+sector 43,3.2,1935.0,3,3,2,0 to 1 year old,1,low,2,low-rise
 sector 70a,0.8,836.0,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sector 70a,2.9,1830.0,3,3,3+,1 to 5 year old,1,high,4,mid-rise
 sector 74,2.42,1424.0,2,2,3+,1 to 5 year old,0,high,2,high-rise
@@ -2267,7 +2265,7 @@ sector 65,2.35,1261.0,2,2,3,0 to 1 year old,0,high,1,high-rise
 sector 82,1.88,1960.0,3,3,3,1 to 5 year old,0,medium,1,mid-rise
 sector 110 a,0.27,319.5,1,1,1,5 to 10 year old,0,low,1,mid-rise
 sector 58,3.5,1375.0,2,2,2,1 to 5 year old,0,high,0,high-rise
-garauli khurd,1.5,1990.0,3,3,3,0 to 1 year old,1,high,2,mid-rise
+sector 37d,1.5,1990.0,3,3,3,0 to 1 year old,1,high,2,mid-rise
 sector 47,5.15,2470.0,3,5,3,1 to 5 year old,1,medium,2,mid-rise
 sector 47,5.0,2470.0,3,5,3,1 to 5 year old,1,medium,2,mid-rise
 sector 62,3.65,1996.0,3,3,3+,1 to 5 year old,1,medium,1,high-rise
@@ -2300,7 +2298,7 @@ sector 108,3.15,1711.0,3,3,3,1 to 5 year old,0,medium,2,high-rise
 sector 109,2.3,1745.0,3,3,3,1 to 5 year old,0,medium,2,high-rise
 sector 69,2.66,2400.0,4,5,3+,1 to 5 year old,1,high,2,mid-rise
 sector 65,3.45,1828.0,3,3,3,5 to 10 year old,0,medium,2,high-rise
-nirvana country,2.25,1418.0,2,2,2,5 to 10 year old,0,high,2,mid-rise
+sector 50,2.25,1418.0,2,2,2,5 to 10 year old,0,high,2,mid-rise
 sector 69,2.38,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 69,2.37,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 69,2.3,1704.0,3,3,3+,0 to 1 year old,0,high,1,high-rise
@@ -2316,7 +2314,7 @@ sector 69,2.38,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 69,2.4,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 69,2.4,1704.0,3,3,3+,1 to 5 year old,0,medium,1,high-rise
 sector 69,2.36,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
-nirvana country,2.8,1815.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
+sector 50,2.8,1815.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
 sector 66,3.85,2100.0,4,2,2,5 to 10 year old,0,high,2,mid-rise
 sector 67,2.5,1470.0,2,2,2,5 to 10 year old,0,high,2,high-rise
 sector 67,3.2,1935.0,3,4,3,0 to 1 year old,1,medium,2,mid-rise
@@ -2337,9 +2335,9 @@ sector 69,2.39,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 69,2.63,2400.0,4,5,3+,1 to 5 year old,1,high,2,mid-rise
 sector 65,3.35,1828.0,3,3,3,0 to 1 year old,1,medium,2,high-rise
 sector 69,2.33,1578.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
-nirvana country,2.5,1795.0,2,2,3,5 to 10 year old,0,high,2,mid-rise
+sector 50,2.5,1795.0,2,2,3,5 to 10 year old,0,high,2,mid-rise
 sector 69,2.36,1704.0,3,3,3+,0 to 1 year old,0,medium,1,high-rise
-nirvana country,3.15,1935.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
+sector 50,3.15,1935.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
 sector 69,2.77,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 69,2.65,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 69,2.73,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
@@ -2351,7 +2349,7 @@ sector 69,2.75,2400.0,4,5,3+,1 to 5 year old,1,high,2,mid-rise
 sector 70,2.87,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 69,4.39,3156.0,4,6,3+,1 to 5 year old,1,high,2,mid-rise
 sector 69,4.37,3156.0,4,6,3+,1 to 5 year old,1,high,2,mid-rise
-nirvana country,2.2,1418.0,2,2,2,5 to 10 year old,1,high,2,mid-rise
+sector 50,2.2,1418.0,2,2,2,5 to 10 year old,1,high,2,mid-rise
 sector 66,3.85,2100.0,4,4,3,5 to 10 year old,1,high,2,mid-rise
 sector 66,4.3,2410.0,4,5,3+,5 to 10 year old,1,high,2,mid-rise
 sector 70,4.55,4600.0,5,7,3+,1 to 5 year old,0,high,2,mid-rise
@@ -2381,7 +2379,7 @@ sector 37d,1.75,1440.0,3,3,3,0 to 1 year old,0,medium,0,low-rise
 sector 54,8.0,2282.0,3,4,3,10+ year old,1,high,2,high-rise
 sector 54,9.65,2704.0,4,4,3+,10+ year old,1,medium,3,high-rise
 sector 37d,2.55,2191.0,4,3,3,1 to 5 year old,0,high,2,mid-rise
-nirvana country,2.22,1418.0,2,2,3+,5 to 10 year old,0,medium,2,mid-rise
+sector 50,2.22,1418.0,2,2,3+,5 to 10 year old,0,medium,2,mid-rise
 sector 95a,0.628,808.3208,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 108,3.2,1711.0,3,3,2,0 to 1 year old,0,medium,2,high-rise
 sector 109,1.78,1871.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
@@ -2471,7 +2469,7 @@ sector 65,12.95,4992.0,4,4,3+,1 to 5 year old,1,high,6,high-rise
 sector 65,12.99,4944.0,4,4,3+,1 to 5 year old,1,high,4,mid-rise
 sector 65,9.5,4010.0,3,3,3+,1 to 5 year old,1,high,4,high-rise
 sector 65,7.75,3510.0,3,4,3+,1 to 5 year old,1,high,4,high-rise
-sector-33 sohna,3.0,2134.0,3,3,3+,0 to 1 year old,1,high,2,mid-rise
+sohna,3.0,2134.0,3,3,3+,0 to 1 year old,1,high,2,mid-rise
 sector 68,1.49,1245.0,2,2,3,0 to 1 year old,0,high,2,high-rise
 sector 65,7.05,2979.0,3,3,3+,1 to 5 year old,1,high,4,high-rise
 sector 65,16.0,6365.0,4,6,3+,1 to 5 year old,1,high,4,high-rise
@@ -2488,7 +2486,7 @@ sector 102,2.9,2162.0,4,4,3+,1 to 5 year old,0,high,2,high-rise
 sector 102,2.5,1852.0,3,3,3,1 to 5 year old,0,medium,2,high-rise
 sector 102,2.75,2162.0,4,4,3+,1 to 5 year old,0,high,2,high-rise
 sector 102,2.4,1852.0,3,3,3,1 to 5 year old,0,high,3,high-rise
-sector-33 sohna,3.0,2134.0,3,3,3+,1 to 5 year old,1,medium,1,mid-rise
+sohna,3.0,2134.0,3,3,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 84,1.85,1890.0,3,3,3+,0 to 1 year old,0,medium,2,mid-rise
 sector 84,2.95,4534.0599999999995,3,5,3+,1 to 5 year old,1,high,1,mid-rise
 sector 66,4.44,2410.0,4,5,3+,1 to 5 year old,1,medium,4,mid-rise
@@ -2505,7 +2503,7 @@ sector 84,1.84,1750.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
 sector 84,1.34,1425.0,2,2,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 79,3.35,2650.0,4,5,3+,1 to 5 year old,1,high,1,high-rise
 sector 84,1.85,1750.0,3,3,2,1 to 5 year old,0,high,1,mid-rise
-sihi village,4.15,6032.16,4,6,3+,1 to 5 year old,1,high,2,mid-rise
+sector 84,4.15,6032.16,4,6,3+,1 to 5 year old,1,high,2,mid-rise
 sector 65,3.05,1917.0,3,3,3,5 to 10 year old,1,medium,0,mid-rise
 sector 37c,1.29,1565.0,3,3,3,1 to 5 year old,0,medium,1,mid-rise
 sector 102,2.35,2025.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
@@ -2551,10 +2549,10 @@ sector 82,1.97,1960.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 83,2.17,1981.0,3,3,2,5 to 10 year old,1,medium,1,mid-rise
 sector 83,1.85,1735.0,3,3,2,5 to 10 year old,0,medium,1,mid-rise
 sector 37c,1.58,1790.0,3,3,3,1 to 5 year old,0,medium,0,mid-rise
-heritage city,3.55,1860.0,3,4,3,10+ year old,1,medium,1,mid-rise
-dlf phase 4,3.5,1777.0,3,4,2,10+ year old,1,high,1,mid-rise
-dlf phase 2,4.47,2245.0,4,4,3,10+ year old,1,high,2,mid-rise
-dlf phase 4,3.5,1777.0,3,4,2,10+ year old,1,high,1,mid-rise
+sector 25,3.55,1860.0,3,4,3,10+ year old,1,medium,1,mid-rise
+sector 43,3.5,1777.0,3,4,2,10+ year old,1,high,1,mid-rise
+sector 25,4.47,2245.0,4,4,3,10+ year old,1,high,2,mid-rise
+sector 43,3.5,1777.0,3,4,2,10+ year old,1,high,1,mid-rise
 sector 56,2.8,3408.0,4,4,3+,5 to 10 year old,0,medium,2,mid-rise
 sector 82a,4.37,2650.0,3,3,3,0 to 1 year old,1,medium,2,high-rise
 sector 99a,1.89,1997.0,3,5,3,1 to 5 year old,1,high,1,mid-rise
@@ -2651,7 +2649,7 @@ sector 104,2.68,2290.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sushant lok phase 2,4.5,4500.0,4,5,0,0 to 1 year old,1,medium,2,low-rise
 sushant lok phase 2,4.5,4005.0,4,5,0,0 to 1 year old,1,medium,2,low-rise
 sector 108,1.5,1283.0,2,3,3,1 to 5 year old,1,high,2,mid-rise
-block h,4.7,2700.0,4,4,3,0 to 1 year old,1,medium,2,low-rise
+sector 26,4.7,2700.0,4,4,3,0 to 1 year old,1,medium,2,low-rise
 sector 37c,1.5,1790.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
 sector 81,1.42,1560.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
 sector 111,3.7,2215.0,3,4,3+,1 to 5 year old,1,high,3,mid-rise
@@ -2670,12 +2668,12 @@ sector 37d,1.32,1675.0,3,3,3,1 to 5 year old,0,medium,0,mid-rise
 sector 37d,1.34,2277.68,3,3,3+,1 to 5 year old,0,medium,0,mid-rise
 sector 1a imt manesar,1.6,2230.0,4,4,3,1 to 5 year old,1,medium,0,mid-rise
 sector 65,2.88,1450.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
-nirvana country,2.7,1877.0,3,4,3,5 to 10 year old,1,high,2,mid-rise
+sector 50,2.7,1877.0,3,4,3,5 to 10 year old,1,high,2,mid-rise
 sector 65,3.3,1828.0,3,3,3+,1 to 5 year old,0,high,2,high-rise
-dlf phase 5,3.75,1740.0,4,4,2,5 to 10 year old,0,medium,2,mid-rise
+sector 54,3.75,1740.0,4,4,2,5 to 10 year old,0,medium,2,mid-rise
 sector 104,2.5,1700.0,2,3,3,1 to 5 year old,1,high,1,high-rise
 sector 106,3.2,2842.8399999999997,3,4,3+,1 to 5 year old,1,medium,2,high-rise
-dlf phase 5,2.95,1550.0,3,3,2,5 to 10 year old,0,medium,2,low-rise
+sector 54,2.95,1550.0,3,3,2,5 to 10 year old,0,medium,2,low-rise
 sector 56,3.4,3692.0,4,4,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 77,1.77,1822.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
 sector 90,0.42,418.0,1,1,1,1 to 5 year old,0,low,1,mid-rise
@@ -2759,7 +2757,7 @@ sector 3,1.35,1444.0,2,2,3,0 to 1 year old,0,medium,1,mid-rise
 sector 3,1.3,1444.0,2,2,3,0 to 1 year old,1,medium,1,mid-rise
 sector 106,1.75,1760.0,3,4,3+,5 to 10 year old,1,high,2,high-rise
 sector 76,5.75,3680.0,4,4,3+,under construction,0,medium,2,high-rise
-dlf phase 2,4.6,2855.62,4,4,3,10+ year old,1,high,1,mid-rise
+sector 25,4.6,2855.62,4,4,3,10+ year old,1,high,1,mid-rise
 sector 60,3.72,2045.0,3,4,3,1 to 5 year old,1,high,2,mid-rise
 sector 60,5.49,2800.0,4,4,3,1 to 5 year old,1,high,2,high-rise
 sector 53,8.75,3390.0,4,5,3+,10+ year old,1,high,2,mid-rise
@@ -2780,8 +2778,8 @@ sector 66,4.05,2200.0,3,4,3,5 to 10 year old,1,high,2,mid-rise
 sector 66,3.8,1950.0,3,3,2,1 to 5 year old,1,high,2,mid-rise
 sector 69,2.41,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
 sector 69,2.42,1704.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
-nirvana country,2.55,1629.0,3,2,3+,1 to 5 year old,0,medium,2,mid-rise
-nirvana country,3.25,2066.0,3,4,2,5 to 10 year old,1,medium,2,mid-rise
+sector 50,2.55,1629.0,3,2,3+,1 to 5 year old,0,medium,2,mid-rise
+sector 50,3.25,2066.0,3,4,2,5 to 10 year old,1,medium,2,mid-rise
 sector 85,3.59,2599.0,4,4,3+,0 to 1 year old,0,medium,2,high-rise
 sector 104,3.68,3150.0,4,4,3+,1 to 5 year old,1,medium,2,high-rise
 sector 104,2.55,2290.0,3,4,3+,1 to 5 year old,1,medium,2,high-rise
@@ -2795,7 +2793,7 @@ sector 103,0.43,513.8696,1,1,2,1 to 5 year old,0,medium,1,mid-rise
 sector 103,0.435,568.0,1,1,2,1 to 5 year old,0,medium,1,mid-rise
 sector 88a,0.76,917.0928,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sohna,0.6,786.9071999999999,2,2,2,1 to 5 year old,0,low,0,mid-rise
-dlf phase 4,2.1,1105.0,2,2,2,5 to 10 year old,0,medium,1,high-rise
+sector 43,2.1,1105.0,2,2,2,5 to 10 year old,0,medium,1,high-rise
 sohna,2.0,1457.0,2,2,3,0 to 1 year old,0,medium,2,mid-rise
 sector 65,2.1,1020.0,2,2,2,5 to 10 year old,0,medium,1,mid-rise
 sector 108,1.5,1283.0,2,3,3,1 to 5 year old,1,high,1,mid-rise
@@ -2857,14 +2855,14 @@ sector 84,1.6,1610.0,2,2,3,0 to 1 year old,0,medium,2,mid-rise
 sector 84,1.65,1610.0,2,2,3,0 to 1 year old,0,medium,0,mid-rise
 sector 84,1.43,1425.0,2,2,3,5 to 10 year old,0,high,2,mid-rise
 sector 91,1.37,1404.0,2,2,3,1 to 5 year old,0,high,1,mid-rise
-nirvana country,2.5,1795.0,2,2,3,5 to 10 year old,0,high,2,mid-rise
+sector 50,2.5,1795.0,2,2,3,5 to 10 year old,0,high,2,mid-rise
 sector 82,1.54,1428.08,2,2,2,5 to 10 year old,0,high,2,mid-rise
 sector 102,2.25,1689.0,3,3,2,5 to 10 year old,0,medium,0,high-rise
 sector 102,2.55,1889.0,3,3,3,1 to 5 year old,1,medium,2,high-rise
 sector 102,3.1,2579.0,3,4,3+,1 to 5 year old,1,medium,0,high-rise
 sector 70a,3.6,2150.0,3,3,3,0 to 1 year old,0,medium,2,high-rise
 sector 70a,3.4,2150.0,3,3,3,0 to 1 year old,1,high,2,high-rise
-ardee city,3.7,2040.0,3,4,3+,1 to 5 year old,1,medium,1,mid-rise
+sector 52,3.7,2040.0,3,4,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 109,2.4,1745.0,3,3,3,1 to 5 year old,0,high,1,high-rise
 sector 109,2.1,1750.0,3,3,3+,1 to 5 year old,0,medium,2,high-rise
 sector 109,2.04,1750.0,3,3,3+,1 to 5 year old,0,medium,0,high-rise
@@ -2880,14 +2878,14 @@ sector 37d,2.2,2200.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
 sector 37d,1.98,1895.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 109,2.6,2177.0,3,3,1,5 to 10 year old,0,medium,0,mid-rise
 sector 70a,2.45,1976.0,3,3,3,1 to 5 year old,1,high,1,mid-rise
-sector-33 sohna,4.45,2300.0,3,3,2,under construction,0,medium,5,low-rise
+sohna,4.45,2300.0,3,3,2,under construction,0,medium,5,low-rise
 sector 109,2.2,1590.0,3,3,3,1 to 5 year old,1,high,1,mid-rise
 sector 109,2.2,1590.0,3,3,3,1 to 5 year old,1,high,1,mid-rise
 sector 59,5.85,2188.0,3,3,2,1 to 5 year old,0,high,2,high-rise
 sector 59,5.5,2595.0,3,3,2,1 to 5 year old,1,high,2,high-rise
 sector 102,2.95,2149.0,3,4,3+,1 to 5 year old,1,medium,2,high-rise
 sector 102,3.05,2149.0,3,4,3+,1 to 5 year old,1,medium,1,high-rise
-dhorka,1.21,1326.0,3,2,2,0 to 1 year old,0,medium,2,mid-rise
+sector 92,1.21,1326.0,3,2,2,0 to 1 year old,0,medium,2,mid-rise
 sector 90,1.88,1930.0,3,3,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 90,1.97,1720.0,3,3,3,1 to 5 year old,0,medium,1,high-rise
 sector 82a,2.83,2086.0,3,4,3+,1 to 5 year old,1,medium,1,high-rise
@@ -2935,7 +2933,7 @@ sector 65,3.38,2595.76,3,3,3,0 to 1 year old,0,medium,2,high-rise
 sector 65,3.8,2054.0,3,3,3+,1 to 5 year old,1,medium,1,high-rise
 sector 68,2.65,1945.4,3,3,3,1 to 5 year old,0,high,1,high-rise
 sector 77,2.85,2025.0,3,3,3,1 to 5 year old,1,medium,1,high-rise
-sushant lok 2,2.5,2210.0,4,4,3+,10+ year old,0,medium,2,mid-rise
+sushant lok phase 2,2.5,2210.0,4,4,3+,10+ year old,0,medium,2,mid-rise
 sector 113,1.95,1276.0,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 109,2.5,2545.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
 sector 106,1.75,1760.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
@@ -2950,7 +2948,7 @@ sector 81,4.5,3470.0,4,6,2,1 to 5 year old,1,high,2,high-rise
 sector 67,5.9,3230.0,4,4,3,5 to 10 year old,1,medium,0,high-rise
 sector 68,1.6,1270.0,2,2,3,0 to 1 year old,0,high,2,mid-rise
 sector 104,3.55,3150.0,4,4,3+,1 to 5 year old,1,high,3,high-rise
-garauli khurd,1.65,1800.0,3,3,3+,1 to 5 year old,0,medium,3,mid-rise
+sector 37d,1.65,1800.0,3,3,3+,1 to 5 year old,0,medium,3,mid-rise
 sector 71,4.15,4900.0,5,4,3+,5 to 10 year old,1,medium,4,mid-rise
 sector 113,1.9,1662.5,2,2,2,0 to 1 year old,0,medium,1,mid-rise
 sector 95a,0.61,730.2633999999999,2,2,2,1 to 5 year old,0,medium,1,mid-rise
@@ -2960,7 +2958,7 @@ sector 102,3.0,2149.0,3,4,3+,1 to 5 year old,1,high,3,high-rise
 sector 102,1.85,1846.0,3,4,3,1 to 5 year old,0,high,2,mid-rise
 sector 47,3.25,2027.0,3,4,3+,10+ year old,1,high,2,mid-rise
 sector 66,4.1,1950.0,3,3,2,1 to 5 year old,1,high,2,mid-rise
-dlf phase 2,4.6,2245.0,4,4,3,10+ year old,1,medium,1,mid-rise
+sector 25,4.6,2245.0,4,4,3,10+ year old,1,medium,1,mid-rise
 sector 90,2.0,1930.0,3,3,3,5 to 10 year old,1,high,1,mid-rise
 sector 106,1.65,1760.0,3,4,3+,1 to 5 year old,1,high,1,high-rise
 sector 113,2.6,1973.75,3,3,3,1 to 5 year old,0,medium,2,mid-rise
@@ -2976,13 +2974,13 @@ sector 108,2.7,1961.02,2,2,2,1 to 5 year old,0,medium,2,high-rise
 sector 79,2.49,2150.0,3,4,2,0 to 1 year old,1,medium,1,mid-rise
 sector 107,1.75,1943.0,3,3,3,1 to 5 year old,0,medium,0,mid-rise
 sector 108,1.95,1758.0,3,4,3,1 to 5 year old,1,medium,1,mid-rise
-nirvana country,3.45,2050.0,3,4,2,10+ year old,1,high,2,mid-rise
+sector 50,3.45,2050.0,3,4,2,10+ year old,1,high,2,mid-rise
 sector 57,3.7,2587.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 37d,1.61,1775.0,3,3,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 47,2.7,2200.0,3,4,3+,10+ year old,1,medium,1,mid-rise
-nirvana country,2.0,1418.0,2,2,3+,10+ year old,0,medium,1,mid-rise
-nirvana country,2.6,1815.0,3,3,3+,10+ year old,1,medium,1,mid-rise
-nirvana country,2.7,1877.0,3,4,3+,10+ year old,1,medium,1,mid-rise
+sector 50,2.0,1418.0,2,2,3+,10+ year old,0,medium,1,mid-rise
+sector 50,2.6,1815.0,3,3,3+,10+ year old,1,medium,1,mid-rise
+sector 50,2.7,1877.0,3,4,3+,10+ year old,1,medium,1,mid-rise
 sector 45,2.6,2751.96,3,3,3+,10+ year old,1,medium,1,mid-rise
 sector 59,5.0,2974.8999999999996,3,4,3+,1 to 5 year old,0,medium,2,high-rise
 sector 65,16.0,6335.0,4,6,3+,5 to 10 year old,1,medium,2,high-rise
@@ -3017,7 +3015,7 @@ sector 56,1.49,1349.0,2,2,1,5 to 10 year old,0,medium,1,mid-rise
 sector 82,2.87,2425.0,4,4,3,1 to 5 year old,1,high,1,mid-rise
 sector 95a,0.575,730.2633999999999,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 92,1.2,1326.0,3,2,3,1 to 5 year old,0,medium,1,mid-rise
-dlf phase 5,4.0,1740.0,4,4,3,10+ year old,0,high,1,mid-rise
+sector 54,4.0,1740.0,4,4,3,10+ year old,0,high,1,mid-rise
 sector 99,4.2,3345.0,4,4,3,0 to 1 year old,1,high,2,mid-rise
 sector 72,4.75,2625.0,4,5,3+,1 to 5 year old,1,high,2,high-rise
 sector 65,2.5,1350.0,3,3,3+,1 to 5 year old,1,medium,1,mid-rise
@@ -3033,10 +3031,10 @@ sector 65,3.4,1828.0,3,3,3,0 to 1 year old,0,high,1,high-rise
 sector 65,15.9,6171.0,4,4,3+,1 to 5 year old,1,high,3,high-rise
 sector 66,4.25,2410.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 54,14.25,4200.0,4,4,3,5 to 10 year old,1,medium,3,high-rise
-chakkarpur,4.1,3200.0,4,4,3+,10+ year old,0,medium,2,mid-rise
-dlf phase 5,8.5,2575.0,4,4,3,1 to 5 year old,1,medium,2,mid-rise
+sector 28,4.1,3200.0,4,4,3+,10+ year old,0,medium,2,mid-rise
+sector 54,8.5,2575.0,4,4,3,1 to 5 year old,1,medium,2,mid-rise
 sector 65,6.1,2979.0,3,3,3,5 to 10 year old,0,medium,2,high-rise
-dlf phase 5,12.5,3979.0,4,4,2,5 to 10 year old,1,medium,3,mid-rise
+sector 54,12.5,3979.0,4,4,2,5 to 10 year old,1,medium,3,mid-rise
 sector 72,5.5,3300.0,4,5,3,5 to 10 year old,1,high,2,high-rise
 sector 58,7.85,2864.0,4,5,3+,5 to 10 year old,1,high,2,high-rise
 sector 106,1.95,1875.0,2,2,3,0 to 1 year old,0,medium,0,high-rise
@@ -3046,16 +3044,16 @@ sector 68,1.6,1245.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
 sector 108,3.48,1711.0,3,3,2,1 to 5 year old,0,high,1,mid-rise
 sector 108,3.4,1711.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 68,1.69,1483.0,3,2,3,0 to 1 year old,0,medium,2,high-rise
-sector-33 sohna,3.6,2600.0,4,4,3,1 to 5 year old,1,medium,2,mid-rise
-sector-33 sohna,2.6,1789.0,3,3,3,0 to 1 year old,0,high,1,mid-rise
+sohna,3.6,2600.0,4,4,3,1 to 5 year old,1,medium,2,mid-rise
+sohna,2.6,1789.0,3,3,3,0 to 1 year old,0,high,1,mid-rise
 sector 68,1.76,1483.0,3,2,3,0 to 1 year old,0,medium,2,high-rise
 sector 68,2.55,1999.0,3,4,3+,0 to 1 year old,1,medium,2,high-rise
 sohna,1.7,1527.0,3,3,2,1 to 5 year old,0,medium,1,mid-rise
 sector 68,1.5,1245.0,2,2,3,0 to 1 year old,0,high,1,high-rise
-tikri,3.78,1418.0,2,2,3,5 to 10 year old,0,medium,2,mid-rise
+sector 48,3.78,1418.0,2,2,3,5 to 10 year old,0,medium,2,mid-rise
 sector 60,3.9,2403.0,3,3,3,1 to 5 year old,1,high,2,high-rise
 sohna,1.2,1512.5,3,2,3,1 to 5 year old,0,medium,1,low-rise
-nirvana country,4.4,2605.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
+sector 50,4.4,2605.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
 sector 57,3.33,2293.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 65,2.8,1892.5,2,2,3,0 to 1 year old,0,high,2,high-rise
 sector 65,3.75,2054.0,3,4,2,0 to 1 year old,1,medium,2,high-rise
@@ -3075,7 +3073,7 @@ sector 106,3.18,2002.0,3,4,3+,0 to 1 year old,0,medium,2,high-rise
 sector 106,3.19,2002.0,3,4,3+,0 to 1 year old,0,medium,2,high-rise
 sector 102,2.5,2025.0,3,4,1,1 to 5 year old,1,medium,2,mid-rise
 sector 110,4.78,3400.0,4,5,3,1 to 5 year old,1,medium,2,mid-rise
-nawada fatehpur,2.3,1930.0,3,3,1,1 to 5 year old,0,high,2,mid-rise
+sector 86,2.3,1930.0,3,3,1,1 to 5 year old,0,high,2,mid-rise
 sector 91,2.15,1862.0,3,3,2,1 to 5 year old,0,medium,2,mid-rise
 sector 66,8.0,5269.62,5,5,3+,1 to 5 year old,1,high,0,mid-rise
 sector 67,5.95,3200.0,4,4,2,5 to 10 year old,1,high,2,mid-rise
@@ -3096,7 +3094,7 @@ sector 69,2.37,1704.0,3,3,3+,0 to 1 year old,0,medium,1,high-rise
 sector 66,2.8,1920.0,3,4,3,1 to 5 year old,1,high,1,mid-rise
 sector 70a,0.67,887.5,2,2,2,1 to 5 year old,0,medium,3,mid-rise
 sector 70a,0.68,836.0,2,2,1,1 to 5 year old,0,medium,0,mid-rise
-nirvana country,4.8,2605.0,3,3,3,5 to 10 year old,1,high,3,mid-rise
+sector 50,4.8,2605.0,3,3,3,5 to 10 year old,1,high,3,mid-rise
 sector 57,3.35,2293.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 84,1.45,1725.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 86,2.2,1930.0,3,3,1,1 to 5 year old,0,medium,2,mid-rise
@@ -3126,7 +3124,7 @@ sector 86,2.3,1929.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
 sector 72a,6.25,4062.5,4,4,3+,0 to 1 year old,1,high,2,low-rise
 sector 37d,1.86,1640.0,3,2,3,1 to 5 year old,0,medium,1,mid-rise
 sector 92,1.2,1326.0,3,2,2,1 to 5 year old,0,medium,1,mid-rise
-chakkarpur,4.1,3200.0,4,4,3+,10+ year old,0,medium,1,mid-rise
+sector 28,4.1,3200.0,4,4,3+,10+ year old,0,medium,1,mid-rise
 sector 60,2.86,1583.0,2,2,2,1 to 5 year old,0,medium,1,high-rise
 sector 59,5.05,2295.0,3,3,3+,0 to 1 year old,0,high,1,high-rise
 sector 67,6.2,3154.0,4,4,3+,5 to 10 year old,1,medium,2,mid-rise
@@ -3144,7 +3142,7 @@ sector 102,1.95,1650.0,3,3,3,1 to 5 year old,1,high,2,mid-rise
 sector 56,2.22,2147.0,2,3,3,10+ year old,0,medium,2,mid-rise
 sector 104,2.65,2290.0,3,4,3+,5 to 10 year old,1,medium,2,high-rise
 sector 42,8.25,2755.0,3,4,3+,10+ year old,1,medium,0,mid-rise
-sector-33 sohna,3.85,2600.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
+sohna,3.85,2600.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
 sector 37d,1.18,1310.0,2,2,3,5 to 10 year old,0,medium,1,mid-rise
 sector 92,2.25,2120.0,3,4,3+,1 to 5 year old,1,high,1,mid-rise
 sector 37c,1.3,1578.0,2,3,3+,0 to 1 year old,0,medium,2,high-rise
@@ -3241,7 +3239,7 @@ sector 48,2.9,2285.0,3,3,3+,5 to 10 year old,1,high,1,mid-rise
 sector 48,2.9,2285.0,3,3,3+,10+ year old,1,medium,2,mid-rise
 sector 48,2.6,1945.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
 sector 48,2.6,1945.0,3,3,3+,10+ year old,0,medium,2,mid-rise
-block c,5.75,3618.0,4,4,2,0 to 1 year old,1,medium,3,low-rise
+sector 43,5.75,3618.0,4,4,2,0 to 1 year old,1,medium,3,low-rise
 sector 81,4.1,3185.0,4,5,2,1 to 5 year old,1,high,2,mid-rise
 sector 50,1.68,1040.0,2,2,1,5 to 10 year old,0,medium,2,mid-rise
 sector 83,1.08,1050.0,2,2,3,5 to 10 year old,0,high,1,mid-rise
@@ -3275,7 +3273,7 @@ sector 72,5.0,2550.0,3,3,3+,1 to 5 year old,1,high,2,high-rise
 sector 57,3.7,2587.0,3,4,3,1 to 5 year old,1,high,3,mid-rise
 sector 70,2.6,1950.0,3,4,3,0 to 1 year old,1,medium,0,mid-rise
 sector 65,11.03,5625.0,4,5,3,5 to 10 year old,1,medium,3,mid-rise
-dlf phase 4,3.45,2125.0,3,3,2,10+ year old,1,medium,2,mid-rise
+sector 43,3.45,2125.0,3,3,2,10+ year old,1,medium,2,mid-rise
 sector 82,1.6,1428.08,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 51,3.2,2450.0,4,4,3+,5 to 10 year old,0,medium,2,mid-rise
 sector 56,2.23,2050.0,2,3,3+,10+ year old,1,medium,2,mid-rise
@@ -3306,7 +3304,7 @@ sector 86,2.33,1929.0,3,3,1,1 to 5 year old,0,medium,2,mid-rise
 sector 102,2.5,1852.0,3,3,3,1 to 5 year old,0,medium,0,high-rise
 sector 102,1.75,1215.0,2,2,3,1 to 5 year old,0,medium,0,high-rise
 sector 56,2.85,3479.0,4,3,3+,5 to 10 year old,0,medium,2,mid-rise
-palam vihar,1.55,1874.4,3,2,1,0 to 1 year old,0,medium,2,low-rise
+sector 3,1.55,1874.4,3,2,1,0 to 1 year old,0,medium,2,low-rise
 sector 77,2.79,2025.0,3,3,3,1 to 5 year old,1,medium,1,high-rise
 sector 77,2.4,2000.0,3,4,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 106,3.1,1855.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
@@ -3315,7 +3313,7 @@ sector 60,5.89,2800.0,4,4,3,5 to 10 year old,1,medium,0,high-rise
 sector 102,2.95,2162.0,4,4,3+,1 to 5 year old,0,medium,2,high-rise
 sector 106,2.75,2318.75,3,3,3,0 to 1 year old,0,medium,1,mid-rise
 sector 102,2.46,2025.0,3,3,3+,1 to 5 year old,1,high,1,mid-rise
-nirvana country,3.25,2050.0,3,4,2,5 to 10 year old,1,high,2,mid-rise
+sector 50,3.25,2050.0,3,4,2,5 to 10 year old,1,high,2,mid-rise
 sector 106,1.42,1385.0,2,2,3+,1 to 5 year old,0,high,2,high-rise
 sector 70a,0.69,1000.0,2,2,1,1 to 5 year old,0,medium,1,mid-rise
 sector 65,2.3,1250.0,2,2,3,1 to 5 year old,0,high,1,high-rise
@@ -3346,7 +3344,7 @@ sector 112,5.8,2873.0,3,5,2,1 to 5 year old,1,medium,3,high-rise
 sector 37c,1.63,2035.0,3,5,3+,0 to 1 year old,1,medium,2,high-rise
 sector 109,4.7,5000.0,5,7,3+,5 to 10 year old,1,medium,4,mid-rise
 sector 109,1.9,1880.0,3,2,3,5 to 10 year old,0,high,1,mid-rise
-suncity,4.15,1836.0,3,4,3,0 to 1 year old,1,high,1,mid-rise
+sector 54,4.15,1836.0,3,4,3,0 to 1 year old,1,high,1,mid-rise
 sector 104,4.7,3150.0,4,5,3+,1 to 5 year old,1,high,1,high-rise
 sector 66,4.3,2415.0,4,4,3,5 to 10 year old,1,high,1,mid-rise
 sector 59,5.3,2295.0,3,3,3+,1 to 5 year old,1,medium,2,high-rise
@@ -3384,8 +3382,8 @@ sector 66,4.2,2410.0,4,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 65,3.2,1828.0,3,3,3,0 to 1 year old,0,high,1,high-rise
 sector 104,2.0,1550.0,2,2,3,1 to 5 year old,0,high,2,high-rise
 sector 77,1.72,1450.0,3,4,3,0 to 1 year old,1,high,1,mid-rise
-sector-33 sohna,1.78,2328.7999999999997,3,2,3+,0 to 1 year old,0,high,2,high-rise
-sector-33 sohna,1.79,2372.8199999999997,3,2,3+,0 to 1 year old,0,high,2,mid-rise
+sohna,1.78,2328.7999999999997,3,2,3+,0 to 1 year old,0,high,2,high-rise
+sohna,1.79,2372.8199999999997,3,2,3+,0 to 1 year old,0,high,2,mid-rise
 sector 99,2.05,1865.0,3,3,3,1 to 5 year old,0,medium,1,mid-rise
 sector 66,2.78,1920.0,3,4,2,5 to 10 year old,1,high,1,mid-rise
 sector 59,6.0,2595.0,3,3,2,0 to 1 year old,1,high,2,high-rise
@@ -3406,7 +3404,7 @@ sector 106,2.75,1665.0,3,3,3+,0 to 1 year old,0,medium,0,high-rise
 sector 89 a,1.87,1950.0,3,3,2,0 to 1 year old,0,medium,1,mid-rise
 sector 66,6.5,3322.0,3,3,3+,1 to 5 year old,1,high,2,mid-rise
 sector 70a,2.65,1920.0,3,3,3+,1 to 5 year old,1,medium,1,mid-rise
-nirvana country,4.35,2480.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
+sector 50,4.35,2480.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 90,0.47,418.0,1,1,1,1 to 5 year old,0,high,1,mid-rise
 sector 112,4.99,2802.0,3,3,3+,1 to 5 year old,1,medium,0,high-rise
 sector 37d,1.68,1800.0,3,3,3+,1 to 5 year old,0,high,3,mid-rise
@@ -3428,7 +3426,7 @@ sector 67,5.7,3154.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
 sector 70a,0.672,835.0,2,2,1,1 to 5 year old,0,medium,0,mid-rise
 sector 62,3.6,2141.3599999999997,2,2,3,1 to 5 year old,0,medium,1,high-rise
 sector 99a,1.99,1997.0,3,3,3,0 to 1 year old,1,high,1,mid-rise
-sector-33 sohna,3.22,2407.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
+sohna,3.22,2407.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
 sector 65,2.72,1433.0,2,2,3,0 to 1 year old,0,medium,1,high-rise
 sector 69,3.17,2010.0,4,4,2,1 to 5 year old,1,medium,1,mid-rise
 sector 107,1.45,1534.0,2,2,3+,5 to 10 year old,0,medium,1,mid-rise
@@ -3453,8 +3451,8 @@ sector 83,0.995,1050.0,2,2,3,1 to 5 year old,0,high,1,mid-rise
 gwal pahari,7.55,5800.0,4,6,3+,1 to 5 year old,1,medium,0,high-rise
 sector 37c,1.95,2771.0,3,4,3+,0 to 1 year old,0,high,2,mid-rise
 sector 70,4.25,2845.0,4,6,3+,5 to 10 year old,1,medium,2,mid-rise
-sector-33 sohna,2.8,2134.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
-sector-33 sohna,2.54,1789.0,3,3,3+,0 to 1 year old,0,medium,1,mid-rise
+sohna,2.8,2134.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
+sohna,2.54,1789.0,3,3,3+,0 to 1 year old,0,medium,1,mid-rise
 sector 107,1.79,1943.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
 sector 79,3.5,2675.0,4,5,3+,0 to 1 year old,1,medium,2,mid-rise
 sector 81,4.7,3470.0,4,6,3+,1 to 5 year old,1,medium,2,mid-rise
@@ -3472,7 +3470,7 @@ sector 69,2.35,1704.0,3,3,3,0 to 1 year old,0,high,1,high-rise
 sector 1a imt manesar,1.4,2287.0,3,3,3+,5 to 10 year old,1,low,1,mid-rise
 sector 84,1.5,1725.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 49,4.25,2562.0,4,5,3,1 to 5 year old,1,high,2,mid-rise
-nirvana country,3.35,2050.0,3,4,2,5 to 10 year old,1,high,0,mid-rise
+sector 50,3.35,2050.0,3,4,2,5 to 10 year old,1,high,0,mid-rise
 sector 43,2.65,1900.0,3,3,3,10+ year old,1,medium,2,mid-rise
 sector 86,3.6,2285.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 103,2.75,2875.0,4,6,3+,5 to 10 year old,1,high,2,high-rise
@@ -3483,7 +3481,7 @@ sector 102,1.85,1650.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
 sector 102,2.4,1689.0,3,3,3,1 to 5 year old,0,medium,3,high-rise
 sector 102,2.4,2000.0,3,4,2,1 to 5 year old,1,high,2,mid-rise
 sector 108,4.05,2590.0,3,3,2,0 to 1 year old,0,medium,2,high-rise
-nirvana country,2.8,1877.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
+sector 50,2.8,1877.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 70a,0.69,980.0,2,2,1,1 to 5 year old,0,medium,2,mid-rise
 sector 66,3.1,2062.0,4,3,3+,5 to 10 year old,0,high,1,mid-rise
 sector 84,1.6,1534.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
@@ -3498,14 +3496,14 @@ sector 102,3.3,2400.0,4,4,3+,1 to 5 year old,1,medium,2,high-rise
 sector 102,1.85,1198.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
 sector 102,1.5,903.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
 sector 65,3.9,2054.0,3,3,2,1 to 5 year old,1,high,2,high-rise
-sector-33 sohna,1.5,1100.0,2,2,3,1 to 5 year old,0,high,1,low-rise
+sohna,1.5,1100.0,2,2,3,1 to 5 year old,0,high,1,low-rise
 sector 65,4.1,2468.75,4,4,3,1 to 5 year old,1,high,1,mid-rise
 sector 61,2.3,1300.0,2,3,2,1 to 5 year old,0,medium,2,high-rise
 sector 61,2.35,1300.0,2,3,2,1 to 5 year old,1,medium,2,high-rise
 sector 65,2.8,1516.0,2,2,2,1 to 5 year old,1,high,2,high-rise
 sector 65,2.62,1420.0,2,2,2,1 to 5 year old,1,high,2,high-rise
 sector 65,2.4,1310.0,2,2,2,1 to 5 year old,1,high,2,high-rise
-dlf phase 3,16.55,8000.0,5,6,3,1 to 5 year old,1,high,3,mid-rise
+sector 23,16.55,8000.0,5,6,3,1 to 5 year old,1,high,3,mid-rise
 sector 65,3.67,1932.0,3,3,2,1 to 5 year old,0,medium,4,high-rise
 sector 65,2.62,1310.0,2,2,2,5 to 10 year old,0,medium,4,high-rise
 sector 59,8.65,3395.0,4,4,3,1 to 5 year old,1,high,2,high-rise
@@ -3533,10 +3531,10 @@ sector 67,3.23,1935.0,3,4,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 91,1.33,1404.0,2,2,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 85,0.67,839.4329999999999,2,2,1,0 to 1 year old,0,medium,1,mid-rise
 sector 70,1.5,1137.0,3,2,2,5 to 10 year old,0,medium,1,mid-rise
-naurangpur,2.3,2289.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
+sector 79,2.3,2289.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 82a,2.8,1818.0,3,3,3+,1 to 5 year old,0,medium,1,high-rise
-sector-33 sohna,4.1,2610.0,4,4,3+,1 to 5 year old,1,medium,3,mid-rise
-sector-33 sohna,4.0,2570.0,4,4,3+,1 to 5 year old,1,medium,2,mid-rise
+sohna,4.1,2610.0,4,4,3+,1 to 5 year old,1,medium,3,mid-rise
+sohna,4.0,2570.0,4,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 59,6.6,2595.0,3,3,2,1 to 5 year old,0,high,1,high-rise
 sector 84,2.25,2244.0,3,3,3,1 to 5 year old,1,high,2,high-rise
 sector 86,2.32,1929.0,3,3,3,1 to 5 year old,0,high,3,mid-rise
@@ -3565,8 +3563,8 @@ sector 61,3.1,2250.0,3,3,2,1 to 5 year old,0,medium,0,high-rise
 sector 61,4.11,2400.0,3,5,3,5 to 10 year old,1,medium,2,high-rise
 sector 90,0.7,690.0,2,1,1,1 to 5 year old,0,medium,1,mid-rise
 sector 90,2.34,2364.0,4,4,3,5 to 10 year old,1,medium,2,mid-rise
-nirvana country,2.75,1877.0,3,4,3+,10+ year old,1,medium,1,mid-rise
-nirvana country,2.65,1877.0,3,4,3+,10+ year old,1,medium,1,mid-rise
+sector 50,2.75,1877.0,3,4,3+,10+ year old,1,medium,1,mid-rise
+sector 50,2.65,1877.0,3,4,3+,10+ year old,1,medium,1,mid-rise
 sector 90,1.91,1726.0,3,3,2,1 to 5 year old,0,medium,1,high-rise
 sector 88b,1.81,1550.0,3,3,3+,1 to 5 year old,1,high,2,low-rise
 sector 70,2.4,1950.0,3,5,3,1 to 5 year old,1,medium,1,mid-rise
@@ -3680,9 +3678,9 @@ sector 112,4.05,2441.0,2,2,2,1 to 5 year old,1,high,2,high-rise
 sector 112,6.35,3600.0,3,5,2,1 to 5 year old,1,high,2,high-rise
 sector 109,2.94,1955.0,3,4,3+,0 to 1 year old,1,medium,1,mid-rise
 sector 109,2.38,1590.0,3,3,3,0 to 1 year old,0,medium,1,mid-rise
-nirvana country,3.1,1897.0,3,3,3,5 to 10 year old,0,medium,2,mid-rise
-nirvana country,3.17,1983.0,3,3,3,10+ year old,0,medium,0,mid-rise
-dlf phase 5,7.9,2804.0,4,4,3+,5 to 10 year old,1,high,2,mid-rise
+sector 50,3.1,1897.0,3,3,3,5 to 10 year old,0,medium,2,mid-rise
+sector 50,3.17,1983.0,3,3,3,10+ year old,0,medium,0,mid-rise
+sector 54,7.9,2804.0,4,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 81,1.8,1645.0,3,2,3+,5 to 10 year old,0,medium,1,mid-rise
 sector 66,4.35,2410.0,4,5,3,5 to 10 year old,1,high,2,mid-rise
 sector 88a,2.15,1850.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
@@ -3690,21 +3688,21 @@ sushant lok phase 3,2.5,2200.0,4,3,3,10+ year old,0,high,1,low-rise
 sector 95a,0.61,730.2633999999999,2,2,2,1 to 5 year old,0,medium,2,mid-rise
 sector 95a,0.68,808.3208,2,2,2,1 to 5 year old,0,medium,2,mid-rise
 sector 81,1.8,1660.0,3,2,3+,1 to 5 year old,0,high,1,mid-rise
-sector 36 sohna,1.05,1448.4,2,2,2,0 to 1 year old,0,medium,1,low-rise
+sohna,1.05,1448.4,2,2,2,0 to 1 year old,0,medium,1,low-rise
 sector 89,1.55,1494.0,3,3,3+,0 to 1 year old,1,medium,2,low-rise
 sector 67,5.9,3154.0,4,4,3,1 to 5 year old,1,medium,3,mid-rise
-dlf phase 4,3.7,1777.0,3,3,2,10+ year old,1,medium,1,mid-rise
+sector 43,3.7,1777.0,3,3,2,10+ year old,1,medium,1,mid-rise
 sector 88a,2.72,2175.0,3,5,3+,0 to 1 year old,1,medium,2,high-rise
 sector 65,4.0,2004.0,3,3,3,1 to 5 year old,1,medium,2,high-rise
-nirvana country,3.8,2711.0,3,4,2,10+ year old,1,medium,2,mid-rise
+sector 50,3.8,2711.0,3,4,2,10+ year old,1,medium,2,mid-rise
 sector 67,5.5,2668.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
 sector 88a,1.88,1565.0,3,2,3+,0 to 1 year old,0,high,2,high-rise
 sector 89 a,2.44,2150.0,3,4,3+,0 to 1 year old,1,medium,2,mid-rise
 sector 88a,1.87,1565.0,3,2,3+,0 to 1 year old,0,high,2,high-rise
 sector 85,2.25,1704.0,2,2,2,1 to 5 year old,1,medium,1,mid-rise
-sector-33 sohna,1.32,1533.6,2,2,3+,1 to 5 year old,0,medium,2,low-rise
+sohna,1.32,1533.6,2,2,3+,1 to 5 year old,0,medium,2,low-rise
 sector 86,2.35,1929.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
-sohna road,2.0,1755.0,2,2,2,5 to 10 year old,0,medium,1,mid-rise
+sohna,2.0,1755.0,2,2,2,5 to 10 year old,0,medium,1,mid-rise
 sector 61,2.3,1385.0,2,2,3,5 to 10 year old,1,high,1,high-rise
 sector 91,1.99,1862.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
 sector 108,4.65,2343.0,3,5,2,1 to 5 year old,1,high,2,high-rise
@@ -3721,7 +3719,7 @@ sector 65,10.25,4010.0,3,3,2,1 to 5 year old,1,high,2,high-rise
 sector 65,8.66,3464.0,3,4,2,1 to 5 year old,1,high,2,high-rise
 sector 85,3.5,3690.58,4,4,3+,0 to 1 year old,1,high,2,high-rise
 sector 89,4.09,2765.0,3,3,3,under construction,0,low,2,high-rise
-dlf phase 4,5.5,2150.0,3,4,3+,10+ year old,1,high,2,mid-rise
+sector 43,5.5,2150.0,3,4,3+,10+ year old,1,high,2,mid-rise
 sector 65,2.4,1261.0,2,3,3,1 to 5 year old,0,high,2,high-rise
 sector 61,3.01,1795.0,3,3,3,1 to 5 year old,0,high,2,high-rise
 sector 65,2.47,1261.0,2,2,3,1 to 5 year old,0,high,1,high-rise
@@ -3788,15 +3786,15 @@ sector 37d,1.86,1640.0,3,2,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 66,3.8,1950.0,3,3,2,5 to 10 year old,1,high,2,mid-rise
 sector 108,2.65,1381.0,2,2,2,0 to 1 year old,0,high,2,high-rise
 sector 95a,0.61,808.3208,2,2,2,1 to 5 year old,0,medium,1,mid-rise
-sector-33 sohna,2.75,2134.0,3,3,2,0 to 1 year old,1,high,1,mid-rise
+sohna,2.75,2134.0,3,3,2,0 to 1 year old,1,high,1,mid-rise
 sector 37d,1.49,1770.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 53,8.75,3530.0,3,4,3+,10+ year old,1,high,1,mid-rise
 sector 53,8.65,3530.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
-sector-33 sohna,2.85,2134.0,3,3,3,1 to 5 year old,1,medium,2,mid-rise
-sector-33 sohna,4.0,2407.0,4,4,3+,1 to 5 year old,1,medium,0,mid-rise
+sohna,2.85,2134.0,3,3,3,1 to 5 year old,1,medium,2,mid-rise
+sohna,4.0,2407.0,4,4,3+,1 to 5 year old,1,medium,0,mid-rise
 sector 48,7.7,2719.0,3,5,3+,1 to 5 year old,1,high,2,mid-rise
 sector 88a,2.6,1910.0,3,3,3+,0 to 1 year old,0,high,1,high-rise
-nirvana country,2.8,1815.0,3,3,3+,5 to 10 year old,1,high,2,mid-rise
+sector 50,2.8,1815.0,3,3,3+,5 to 10 year old,1,high,2,mid-rise
 sector 84,2.85,2726.3999999999996,4,4,3+,0 to 1 year old,1,high,2,low-rise
 sector 82a,3.98,2606.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
 sector 86,2.7,1895.0,3,4,3+,0 to 1 year old,1,medium,0,mid-rise
@@ -3815,8 +3813,8 @@ sector 49,3.5,2061.0,3,4,3,1 to 5 year old,0,high,2,mid-rise
 sector 37c,1.28,1565.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
 sector 88a,1.89,1565.0,3,2,3+,0 to 1 year old,0,high,2,high-rise
 sector 89 a,2.2,1950.0,3,3,3,0 to 1 year old,0,medium,1,mid-rise
-dlf phase 3,15.0,7000.0,4,5,3,5 to 10 year old,1,high,4,mid-rise
-dlf phase 4,6.0,3836.84,5,5,3,10+ year old,1,medium,2,mid-rise
+sector 23,15.0,7000.0,4,5,3,5 to 10 year old,1,high,4,mid-rise
+sector 43,6.0,3836.84,5,5,3,10+ year old,1,medium,2,mid-rise
 sector 66,4.3,1950.0,3,3,2,5 to 10 year old,1,medium,1,mid-rise
 sector 79,2.5,1542.0,2,2,2,under construction,0,low,1,high-rise
 sector 59,8.75,3395.0,4,4,2,1 to 5 year old,1,high,2,high-rise
@@ -3873,7 +3871,7 @@ sector 95a,0.6,730.2633999999999,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 107,2.18,2361.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 77,1.84,1822.0,3,3,3,1 to 5 year old,0,medium,1,mid-rise
 sector 70a,2.2,1262.0,2,2,3,1 to 5 year old,0,high,2,high-rise
-sector-33 sohna,2.65,1789.0,3,3,3+,0 to 1 year old,1,medium,2,mid-rise
+sohna,2.65,1789.0,3,3,3+,0 to 1 year old,1,medium,2,mid-rise
 sector 84,1.45,1725.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 66,2.1,1442.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 68,1.55,1245.0,2,2,3,1 to 5 year old,0,medium,2,high-rise
@@ -3890,7 +3888,7 @@ sector 82a,3.65,2086.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 111,3.6,2200.0,3,4,2,1 to 5 year old,1,medium,0,mid-rise
 sector 81,4.9,2872.0,4,4,3+,1 to 5 year old,1,medium,3,high-rise
 sector 81,3.65,2100.0,3,4,3+,1 to 5 year old,1,medium,2,high-rise
-nirvana country,4.7,3309.0,4,4,3,1 to 5 year old,1,high,2,mid-rise
+sector 50,4.7,3309.0,4,4,3,1 to 5 year old,1,high,2,mid-rise
 sector 81,4.8,2864.0,4,4,3+,1 to 5 year old,1,high,3,high-rise
 sector 82a,3.48,2098.0,3,4,3+,1 to 5 year old,1,medium,2,high-rise
 sector 82a,2.95,1818.0,3,3,3+,1 to 5 year old,0,medium,1,high-rise
@@ -3908,15 +3906,15 @@ sector 106,2.07,1707.5,2,2,3,0 to 1 year old,0,medium,1,mid-rise
 sector 108,3.1,1711.0,3,3,2,1 to 5 year old,0,high,1,high-rise
 gwal pahari,2.25,1445.3908,3,3,2,1 to 5 year old,0,medium,2,low-rise
 sector 102,2.6,2629.8399999999997,3,3,2,1 to 5 year old,0,medium,2,high-rise
-sector-33 sohna,2.65,2134.0,3,3,2,0 to 1 year old,0,medium,2,mid-rise
+sohna,2.65,2134.0,3,3,2,0 to 1 year old,0,medium,2,mid-rise
 sector 81,3.6,2660.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 82,1.98,1790.0,3,4,3,1 to 5 year old,1,high,2,mid-rise
 sector 65,3.75,2916.68,3,3,2,0 to 1 year old,1,medium,0,high-rise
 sector 30,5.25,2368.0,3,5,3+,10+ year old,1,high,2,mid-rise
 sector 81,1.85,1660.0,3,2,2,5 to 10 year old,0,medium,1,mid-rise
-dlf phase 4,2.11,1150.0,2,2,2,10+ year old,0,high,1,high-rise
+sector 43,2.11,1150.0,2,2,2,10+ year old,0,high,1,high-rise
 sector 62,3.55,1508.0,2,2,1,1 to 5 year old,0,high,1,high-rise
-wazirabad,2.98,2675.0,4,4,3+,5 to 10 year old,0,medium,2,mid-rise
+sector 52,2.98,2675.0,4,4,3+,5 to 10 year old,0,medium,2,mid-rise
 sector 102,2.39,2025.0,3,4,1,1 to 5 year old,1,medium,2,mid-rise
 sector 102,1.72,1198.0,2,2,3,0 to 1 year old,0,medium,2,high-rise
 sector 86,2.6,2356.0,4,4,3+,5 to 10 year old,1,high,2,mid-rise
@@ -3943,8 +3941,8 @@ sector 3,1.95,2078.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 65,2.44,1433.0,2,2,3,0 to 1 year old,0,high,3,high-rise
 sector 91,2.0,2320.0,3,4,3+,1 to 5 year old,1,high,1,mid-rise
 sector 68,1.7,1260.0,2,2,2,1 to 5 year old,0,medium,2,mid-rise
-pocket h nirvana country,2.78,1836.0,3,3,3+,5 to 10 year old,0,high,2,mid-rise
-tikri,7.8,2464.0,3,3,3,5 to 10 year old,1,high,3,mid-rise
+sector 50,2.78,1836.0,3,3,3+,5 to 10 year old,0,high,2,mid-rise
+sector 48,7.8,2464.0,3,3,3,5 to 10 year old,1,high,3,mid-rise
 sector 82a,2.89,1818.0,3,3,3,1 to 5 year old,0,high,2,high-rise
 sector 68,1.49,1245.0,2,2,3,0 to 1 year old,1,high,2,high-rise
 sector 68,1.48,1245.0,2,2,3,0 to 1 year old,1,high,2,high-rise
@@ -3953,10 +3951,10 @@ sector 61,3.6,2060.0,3,4,3,1 to 5 year old,1,medium,4,high-rise
 sector 85,2.6,2408.0,3,4,3,1 to 5 year old,1,medium,1,mid-rise
 sector 36a,4.75,2538.0,3,3,2,0 to 1 year old,0,medium,1,high-rise
 sector 95a,0.58,730.2633999999999,2,2,2,1 to 5 year old,0,low,2,mid-rise
-dlf phase 4,3.6,1777.0,3,3,2,10+ year old,1,medium,1,mid-rise
-dlf phase 4,3.2,1550.0,3,3,2,10+ year old,0,high,1,mid-rise
-nirvana country,2.85,2066.0,3,4,2,5 to 10 year old,1,high,2,mid-rise
-dlf phase 4,3.55,2521.92,3,3,3,10+ year old,1,medium,1,mid-rise
+sector 43,3.6,1777.0,3,3,2,10+ year old,1,medium,1,mid-rise
+sector 43,3.2,1550.0,3,3,2,10+ year old,0,high,1,mid-rise
+sector 50,2.85,2066.0,3,4,2,5 to 10 year old,1,high,2,mid-rise
+sector 43,3.55,2521.92,3,3,3,10+ year old,1,medium,1,mid-rise
 sector 84,1.73,1750.0,3,3,3+,5 to 10 year old,0,high,2,mid-rise
 sector 108,1.39,1283.0,2,2,3,1 to 5 year old,1,high,0,mid-rise
 sector 65,3.4,1828.0,3,3,3,1 to 5 year old,1,high,1,high-rise
@@ -3993,15 +3991,15 @@ sector 3,2.0,2078.0,3,3,3,0 to 1 year old,0,medium,1,mid-rise
 sector 82a,2.92,1818.0,3,3,3,1 to 5 year old,0,high,2,high-rise
 sector 59,4.9,2095.0,3,3,3,1 to 5 year old,0,high,2,high-rise
 sector 3,1.44,1444.0,2,2,3,0 to 1 year old,0,medium,1,mid-rise
-sector-33 sohna,3.8,2600.0,4,4,3+,1 to 5 year old,1,medium,1,mid-rise
-sector-33 sohna,3.0,2134.0,3,3,3+,1 to 5 year old,1,medium,1,mid-rise
-sector-33 sohna,2.5,1789.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
+sohna,3.8,2600.0,4,4,3+,1 to 5 year old,1,medium,1,mid-rise
+sohna,3.0,2134.0,3,3,3+,1 to 5 year old,1,medium,1,mid-rise
+sohna,2.5,1789.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 48,7.5,2719.0,3,3,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 48,7.5,2187.0,3,3,2,5 to 10 year old,1,high,1,mid-rise
 sector 48,7.85,2464.0,3,3,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 70a,3.05,2150.0,3,4,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 59,5.3,2295.0,3,3,2,0 to 1 year old,1,high,1,high-rise
-pocket h nirvana country,2.69,1836.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
+sector 50,2.69,1836.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 49,3.85,2061.0,3,3,3,10+ year old,1,medium,1,mid-rise
 sector 65,3.4,1828.0,3,3,3,1 to 5 year old,0,medium,1,high-rise
 sector 77,2.0,1450.0,3,4,3,1 to 5 year old,1,medium,2,mid-rise
@@ -4013,8 +4011,8 @@ sector 99,2.15,2118.0,3,3,1,0 to 1 year old,1,medium,0,mid-rise
 sohna,2.0,1200.0,2,2,3,0 to 1 year old,0,medium,2,mid-rise
 sector 49,4.55,1421.882352,3,3,3,under construction,0,low,0,high-rise
 sector 62,5.85,2588.0,3,3,3+,1 to 5 year old,1,high,2,high-rise
-nirvana country,4.4,2605.0,3,4,3+,5 to 10 year old,1,medium,2,mid-rise
-nirvana country,3.33,1836.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
+sector 50,4.4,2605.0,3,4,3+,5 to 10 year old,1,medium,2,mid-rise
+sector 50,3.33,1836.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
 sector 93,1.9,1530.0,3,3,0,under construction,0,medium,0,low-rise
 sector 102,5.0,2860.0,4,4,3+,1 to 5 year old,1,medium,0,high-rise
 sector 37d,3.14,2163.0,3,3,3+,under construction,1,medium,2,high-rise
@@ -4082,12 +4080,12 @@ sector 49,3.11,1805.0,3,3,3,5 to 10 year old,0,medium,1,mid-rise
 sector 52,3.6,3195.0,3,3,3,10+ year old,0,medium,2,mid-rise
 sector 112,6.2,5178.74,4,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 108,1.79,1758.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
-dlf phase 5,2.93,1550.0,3,3,2,5 to 10 year old,0,medium,2,low-rise
-dlf phase 4,3.15,1370.0,3,3,1,5 to 10 year old,0,medium,2,mid-rise
-dlf phase 5,2.98,1430.0,3,3,2,5 to 10 year old,0,high,0,mid-rise
+sector 54,2.93,1550.0,3,3,2,5 to 10 year old,0,medium,2,low-rise
+sector 43,3.15,1370.0,3,3,1,5 to 10 year old,0,medium,2,mid-rise
+sector 54,2.98,1430.0,3,3,2,5 to 10 year old,0,high,0,mid-rise
 sector 70a,0.73,1080.0,2,2,1,0 to 1 year old,0,medium,0,mid-rise
-dlf phase 5,7.9,2810.0,4,4,3,1 to 5 year old,1,high,2,mid-rise
-dlf phase 5,3.25,1600.0,3,3,2,5 to 10 year old,1,medium,2,mid-rise
+sector 54,7.9,2810.0,4,4,3,1 to 5 year old,1,high,2,mid-rise
+sector 54,3.25,1600.0,3,3,2,5 to 10 year old,1,medium,2,mid-rise
 sector 65,3.5,1828.0,3,3,3,0 to 1 year old,0,medium,2,high-rise
 sector 85,1.65,1640.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
 sector 72,2.51,2085.0,3,4,3+,1 to 5 year old,1,medium,1,mid-rise
@@ -4161,8 +4159,8 @@ sector 111,2.95,1700.0,3,3,1,1 to 5 year old,0,high,1,mid-rise
 sector 66,3.8,1951.0,3,3,2,1 to 5 year old,0,high,2,mid-rise
 sector 49,2.73,1667.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
 sector 85,2.75,2408.0,3,4,3+,0 to 1 year old,0,high,2,high-rise
-nirvana country,2.1,1418.0,2,2,2,5 to 10 year old,1,medium,3,mid-rise
-garauli kalan,1.46,1875.0,3,3,3+,0 to 1 year old,0,medium,2,mid-rise
+sector 50,2.1,1418.0,2,2,2,5 to 10 year old,1,medium,3,mid-rise
+sector 37c,1.46,1875.0,3,3,3+,0 to 1 year old,0,medium,2,mid-rise
 sector 66,3.5,2062.0,4,4,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 71,0.525,520.4016,1,1,2,1 to 5 year old,0,medium,1,low-rise
 sector 43,4.09,2700.0,4,4,3+,10+ year old,1,medium,1,mid-rise
@@ -4184,18 +4182,18 @@ sector 63a,2.5,1700.0,3,3,2,under construction,1,medium,1,low-rise
 sector 79,1.75,1688.75,2,2,3,1 to 5 year old,0,medium,1,mid-rise
 sector 111,2.95,1665.0,3,3,3,under construction,0,medium,1,high-rise
 sector 85,2.6,2560.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
-b1 block sector 57,2.2,1600.0,3,3,2,1 to 5 year old,0,low,1,low-rise
+sector 57,2.2,1600.0,3,3,2,1 to 5 year old,0,low,1,low-rise
 sector 89,1.36,1566.26,2,3,2,under construction,0,medium,2,low-rise
-nirvana country,3.35,1981.0,3,3,3+,5 to 10 year old,0,high,1,mid-rise
+sector 50,3.35,1981.0,3,3,3+,5 to 10 year old,0,high,1,mid-rise
 sector 81,0.66,657.0,2,2,1,1 to 5 year old,0,medium,2,mid-rise
 sector 103,1.85,1900.0,3,3,3+,5 to 10 year old,0,medium,2,mid-rise
 sector 93,2.0,1224.0,3,3,2,under construction,0,low,0,low-rise
 sector 81,0.65,617.0,2,2,1,1 to 5 year old,0,medium,0,mid-rise
 sector 106,1.65,1385.0,2,2,3,0 to 1 year old,0,medium,1,mid-rise
 sector 37d,4.33,2623.0,3,4,3,under construction,1,low,2,high-rise
-sector 36 sohna,1.5,951.4,3,2,3,0 to 1 year old,0,medium,1,low-rise
+sohna,1.5,951.4,3,2,3,0 to 1 year old,0,medium,1,low-rise
 sector 72,9.5,6105.0,4,4,3+,1 to 5 year old,1,high,0,low-rise
-nirvana country,3.3,2066.0,3,4,1,10+ year old,1,medium,1,mid-rise
+sector 50,3.3,2066.0,3,4,1,10+ year old,1,medium,1,mid-rise
 sector 36a,4.75,2503.0,3,3,2,0 to 1 year old,1,medium,3,high-rise
 sector 36a,2.76,1479.0,2,2,3+,0 to 1 year old,0,high,1,high-rise
 gwal pahari,8.25,4750.0,4,4,3+,under construction,1,high,2,high-rise
@@ -4260,7 +4258,7 @@ sector 56,2.65,2250.0,4,3,3+,10+ year old,0,medium,2,mid-rise
 sector 37d,1.64,1800.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
 sector 99,1.52,1550.0,3,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 66,4.9,2200.0,3,4,2,5 to 10 year old,1,medium,1,mid-rise
-dlf phase 5,3.3,1343.0,3,3,2,10+ year old,0,medium,0,mid-rise
+sector 54,3.3,1343.0,3,3,2,10+ year old,0,medium,0,mid-rise
 sector 79,2.0,2155.56,3,3,1,0 to 1 year old,0,medium,1,low-rise
 sector 65,2.55,1310.0,2,2,2,0 to 1 year old,0,high,2,high-rise
 sector 65,3.95,2000.0,4,3,3,5 to 10 year old,0,medium,2,low-rise
@@ -4301,7 +4299,6 @@ sector 84,2.0,1918.0,3,4,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 37d,1.18,1237.5,2,2,3,0 to 1 year old,0,medium,1,low-rise
 sector 84,1.6,1610.0,2,2,3,1 to 5 year old,1,medium,2,mid-rise
 sector 69,2.65,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
-manesar,1.35,2966.3799999999997,3,3,3+,5 to 10 year old,1,low,2,mid-rise
 sector 89 a,2.4,2150.0,3,4,3+,0 to 1 year old,1,medium,2,mid-rise
 sector 59,4.8,2095.0,3,3,2,under construction,0,high,2,high-rise
 sector 3,1.25,1444.0,2,2,2,0 to 1 year old,0,medium,1,mid-rise
@@ -4362,7 +4359,7 @@ sector 89 a,2.9,2650.0,3,4,3+,0 to 1 year old,1,medium,2,mid-rise
 sector 108,3.2,1711.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
 sector 65,2.4,1310.0,2,2,2,1 to 5 year old,0,high,2,high-rise
 sector 89 a,2.48,2150.0,3,4,3+,0 to 1 year old,1,medium,2,mid-rise
-nirvana country,3.2,1983.0,3,4,2,1 to 5 year old,1,medium,2,mid-rise
+sector 50,3.2,1983.0,3,4,2,1 to 5 year old,1,medium,2,mid-rise
 sector 106,2.8,1741.370424,3,4,3+,0 to 1 year old,1,medium,2,high-rise
 sector 65,7.25,2934.0,3,3,2,5 to 10 year old,1,high,2,high-rise
 sector 3,1.4,1444.0,2,2,3,0 to 1 year old,1,medium,1,mid-rise
@@ -4388,7 +4385,7 @@ sector 61,4.3,2690.0,4,5,3+,0 to 1 year old,1,high,2,mid-rise
 sector 106,2.5,1625.0,3,3,2,0 to 1 year old,0,medium,0,high-rise
 sector 106,2.8,1855.0,3,3,3+,0 to 1 year old,0,medium,1,high-rise
 sector 65,4.9,2240.0,2,2,2,1 to 5 year old,0,medium,2,high-rise
-nirvana country,2.7,1877.0,3,4,3+,1 to 5 year old,1,high,2,mid-rise
+sector 50,2.7,1877.0,3,4,3+,1 to 5 year old,1,high,2,mid-rise
 sector 65,3.88,2040.0,3,3,3+,0 to 1 year old,1,high,2,high-rise
 sector 49,6.9,2756.826056,4,5,3,under construction,1,medium,2,high-rise
 sector 3,1.9,2078.0,3,3,3,0 to 1 year old,0,medium,1,mid-rise
@@ -4531,9 +4528,9 @@ sector 54,13.5,3065.0,4,4,3+,5 to 10 year old,1,high,2,high-rise
 sector 104,2.45,1700.0,2,2,3,1 to 5 year old,1,high,1,high-rise
 sector 56,2.25,2627.0,3,3,3,5 to 10 year old,0,medium,3,mid-rise
 sector 65,2.7,1350.0,3,3,3+,5 to 10 year old,1,high,1,mid-rise
-sector-33 sohna,2.54,1790.0,3,3,3+,0 to 1 year old,0,high,2,mid-rise
-sector-33 sohna,2.63,1790.0,3,3,3+,0 to 1 year old,0,high,2,mid-rise
-sector-33 sohna,2.52,1789.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
+sohna,2.54,1790.0,3,3,3+,0 to 1 year old,0,high,2,mid-rise
+sohna,2.63,1790.0,3,3,3+,0 to 1 year old,0,high,2,mid-rise
+sohna,2.52,1789.0,3,3,3,0 to 1 year old,0,high,2,mid-rise
 sector 107,0.47,925.0,2,2,2,0 to 1 year old,0,medium,1,mid-rise
 sector 83,1.65,1735.0,3,2,1,5 to 10 year old,0,medium,0,mid-rise
 sector 102,2.62,1852.0,3,3,3,0 to 1 year old,0,medium,1,high-rise
@@ -4559,14 +4556,14 @@ sector 70,1.49,1137.0,3,2,2,5 to 10 year old,0,high,1,mid-rise
 sector 69,2.63,2400.0,4,5,3+,1 to 5 year old,1,high,2,mid-rise
 sector 65,3.5,2004.0,3,3,3,5 to 10 year old,1,high,2,high-rise
 sector 69,2.4,1578.0,3,3,2,5 to 10 year old,0,medium,1,mid-rise
-nirvana country,2.55,1550.0,2,2,2,5 to 10 year old,0,medium,2,mid-rise
-nirvana country,2.55,1550.0,2,2,2,5 to 10 year old,0,high,2,mid-rise
+sector 50,2.55,1550.0,2,2,2,5 to 10 year old,0,medium,2,mid-rise
+sector 50,2.55,1550.0,2,2,2,5 to 10 year old,0,high,2,mid-rise
 sector 65,2.2,1261.0,2,2,3,0 to 1 year old,0,medium,1,high-rise
 sector 65,4.15,2700.0,4,4,3,1 to 5 year old,1,medium,2,low-rise
 sector 69,2.65,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 70,4.81,3850.0,5,6,3+,1 to 5 year old,1,high,2,mid-rise
 sector 70,2.84,2400.0,4,5,3+,1 to 5 year old,1,high,2,mid-rise
-nirvana country,2.65,1815.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
+sector 50,2.65,1815.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
 sector 65,3.6,2040.0,3,3,3,0 to 1 year old,1,medium,1,high-rise
 sector 65,3.38,1828.0,3,3,2,0 to 1 year old,0,medium,1,high-rise
 sector 70,4.59,4600.0,5,7,3+,1 to 5 year old,1,high,2,mid-rise
@@ -4622,10 +4619,10 @@ sector 106,1.61,1665.0,3,3,3,1 to 5 year old,0,high,1,high-rise
 sector 106,1.88,2355.0,4,6,3+,1 to 5 year old,1,high,2,high-rise
 sector 106,1.87,2355.0,4,6,3+,1 to 5 year old,1,high,2,high-rise
 sector 106,1.93,2355.0,4,6,3+,1 to 5 year old,1,high,2,high-rise
-nirvana country,2.24,1418.0,2,2,3+,5 to 10 year old,0,medium,1,mid-rise
+sector 50,2.24,1418.0,2,2,3+,5 to 10 year old,0,medium,1,mid-rise
 sector 70a,2.91,1830.0,3,3,3+,5 to 10 year old,1,medium,1,mid-rise
-nirvana country,2.65,1629.0,3,2,3+,10+ year old,0,medium,1,mid-rise
-nirvana country,2.7,1877.0,3,4,3+,10+ year old,1,medium,1,mid-rise
+sector 50,2.65,1629.0,3,2,3+,10+ year old,0,medium,1,mid-rise
+sector 50,2.7,1877.0,3,4,3+,10+ year old,1,medium,1,mid-rise
 sector 81,1.75,1645.0,3,2,3+,1 to 5 year old,0,high,1,mid-rise
 sector 37d,1.07,1380.0,2,2,3,1 to 5 year old,0,medium,1,mid-rise
 sector 86,0.67,711.42,2,2,2,1 to 5 year old,0,medium,0,mid-rise
@@ -4742,7 +4739,7 @@ sector 65,9.8,4366.0,4,4,3+,1 to 5 year old,1,high,4,high-rise
 sector 79,1.8,1525.0,3,3,2,under construction,0,low,1,low-rise
 sector 103,1.9,2639.0,4,5,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 81,1.45,1530.0,3,3,3,5 to 10 year old,0,medium,1,mid-rise
-nirvana country,3.3,2093.0,3,3,3,5 to 10 year old,0,high,2,mid-rise
+sector 50,3.3,2093.0,3,3,3,5 to 10 year old,0,high,2,mid-rise
 sector 79,2.75,2150.0,3,4,3+,0 to 1 year old,1,high,1,mid-rise
 sector 93,0.66,628.0,2,2,3,0 to 1 year old,0,medium,1,mid-rise
 sector 63a,2.6,1774.0,3,3,2,0 to 1 year old,1,medium,1,low-rise
@@ -4760,7 +4757,7 @@ sector 113,3.05,2217.0,3,3,3+,1 to 5 year old,1,high,2,high-rise
 sector 58,5.1,2156.0,3,4,1,10+ year old,1,medium,0,high-rise
 sector 86,1.65,1615.0,2,2,3+,5 to 10 year old,1,high,1,mid-rise
 sector 109,2.35,1745.0,3,3,3,1 to 5 year old,0,medium,2,high-rise
-palam vihar,1.5,1874.4,3,2,1,0 to 1 year old,0,medium,2,low-rise
+sector 3,1.5,1874.4,3,2,1,0 to 1 year old,0,medium,2,low-rise
 sector 91,2.6,2320.0,3,3,3+,1 to 5 year old,0,high,2,low-rise
 sector 89,1.19,1142.0,2,2,2,0 to 1 year old,0,high,1,low-rise
 sector 84,1.38,1270.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
@@ -4825,7 +4822,7 @@ sector 58,7.8,2864.0,4,5,3+,5 to 10 year old,1,high,0,high-rise
 sector 65,2.42,1350.0,3,3,3,1 to 5 year old,0,high,1,mid-rise
 sector 102,3.4,3198.0,4,5,3+,1 to 5 year old,1,high,3,high-rise
 sector 102,1.35,915.0,2,2,2,0 to 1 year old,0,medium,2,high-rise
-block s sector 49,4.25,2383.0,4,5,3+,10+ year old,1,high,1,mid-rise
+sector 49,4.25,2383.0,4,5,3+,10+ year old,1,high,1,mid-rise
 sector 71,0.53,461.6562,1,1,2,1 to 5 year old,0,low,1,low-rise
 sector 71,0.84,639.0,2,2,1,1 to 5 year old,0,low,1,mid-rise
 sector 71,0.83,600.0,2,2,1,1 to 5 year old,0,low,1,mid-rise
@@ -4833,7 +4830,7 @@ sector 79,2.2,2179.7,3,3,2,under construction,0,medium,1,low-rise
 sector 66,6.5,3300.0,3,5,2,1 to 5 year old,1,medium,2,mid-rise
 sector 67a,2.35,1727.0,3,3,2,1 to 5 year old,0,medium,2,mid-rise
 sector 58,5.0,2427.0,3,4,2,1 to 5 year old,1,medium,0,high-rise
-sector-33 sohna,1.8,1789.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
+sohna,1.8,1789.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
 sohna,1.85,1777.0,3,3,3+,5 to 10 year old,0,medium,1,mid-rise
 sector 81,1.24,1136.0,2,2,3,0 to 1 year old,0,medium,1,low-rise
 sector 83,2.53,1900.0,3,4,3,5 to 10 year old,1,medium,1,mid-rise
@@ -4850,7 +4847,7 @@ sector 84,2.1,2595.0,4,4,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 83,1.72,1735.0,3,2,2,5 to 10 year old,0,medium,1,mid-rise
 sector 63a,2.65,2519.08,3,3,2,0 to 1 year old,0,low,2,low-rise
 sector 102,3.85,2554.0,4,5,3+,1 to 5 year old,1,high,2,high-rise
-dlf phase 1,2.1,1803.4,2,2,2,1 to 5 year old,1,medium,1,mid-rise
+sector 28,2.1,1803.4,2,2,2,1 to 5 year old,1,medium,1,mid-rise
 sector 43,2.15,1335.0,3,3,3+,10+ year old,0,medium,1,mid-rise
 sector 77,1.65,1450.0,3,4,3,1 to 5 year old,1,high,1,mid-rise
 sector 85,1.7,1675.0,3,3,3,5 to 10 year old,0,medium,2,mid-rise
@@ -4860,7 +4857,7 @@ sector 82,3.4,3128.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 37d,1.55,1675.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 65,17.0,4550.0,4,5,3,under construction,1,medium,3,high-rise
 sector 79,2.3,2179.7,3,3,2,under construction,0,low,1,low-rise
-nirvana country,3.0,2665.3399999999997,4,4,3,10+ year old,1,medium,0,mid-rise
+sector 50,3.0,2665.3399999999997,4,4,3,10+ year old,1,medium,0,mid-rise
 sector 49,3.2,2957.8599999999997,3,3,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 69,2.25,1578.0,3,3,2,1 to 5 year old,0,high,1,mid-rise
 gwal pahari,1.65,1713.75,2,2,3,1 to 5 year old,0,medium,2,mid-rise
@@ -4913,7 +4910,7 @@ sector 56,2.35,2272.0,3,3,2,10+ year old,1,medium,2,mid-rise
 sector 110 a,1.99,1407.0,3,3,2,1 to 5 year old,0,high,1,mid-rise
 sector 70a,0.705,994.0,2,2,1,1 to 5 year old,1,low,1,mid-rise
 sector 83,1.41,1245.0,2,2,2,5 to 10 year old,0,medium,1,mid-rise
-heritage city,3.71,1860.0,3,3,3,10+ year old,1,high,1,mid-rise
+sector 25,3.71,1860.0,3,3,3,10+ year old,1,high,1,mid-rise
 sector 71,1.8,1485.0,3,3,2,5 to 10 year old,0,medium,2,mid-rise
 sector 37c,1.56,1875.0,3,3,3,1 to 5 year old,0,medium,2,high-rise
 sector 56,2.4,1870.0,3,3,3+,5 to 10 year old,0,high,2,mid-rise
@@ -4986,10 +4983,10 @@ sector 104,2.5,2290.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 66,2.05,1442.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
 sector 86,0.7,711.42,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sector 102,1.35,903.0,2,2,1,0 to 1 year old,0,high,2,high-rise
-dlf phase 1,2.25,1661.4,2,2,2,5 to 10 year old,1,low,1,mid-rise
+sector 28,2.25,1661.4,2,2,2,5 to 10 year old,1,low,1,mid-rise
 sector 79,3.6,2675.0,4,5,3,1 to 5 year old,1,high,2,mid-rise
 sector 79,2.65,2150.0,3,4,3,1 to 5 year old,1,high,2,mid-rise
-dlf phase 5,13.0,3979.0,4,5,3,10+ year old,1,high,3,mid-rise
+sector 54,13.0,3979.0,4,5,3,10+ year old,1,high,3,mid-rise
 sector 76,0.9,826.9086,2,2,1,1 to 5 year old,0,medium,1,mid-rise
 sector 76,0.92,882.3738,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 70a,1.9,1420.0,2,2,3,1 to 5 year old,0,medium,1,mid-rise
@@ -5014,15 +5011,15 @@ sector 37d,0.75,598.87,2,2,3+,1 to 5 year old,0,low,1,mid-rise
 sector 83,1.6,1450.0,3,2,2,under construction,0,medium,2,high-rise
 sector 72,6.1,3300.0,4,4,3,1 to 5 year old,1,high,2,high-rise
 sector 79,1.48,1351.0,2,2,3+,1 to 5 year old,0,medium,1,mid-rise
-dlf phase 4,3.75,1701.0,4,4,2,5 to 10 year old,0,high,2,mid-rise
+sector 43,3.75,1701.0,4,4,2,5 to 10 year old,0,high,2,mid-rise
 sector 106,4.1,2352.080048,4,5,3+,0 to 1 year old,1,medium,2,high-rise
-sector-33 sohna,1.65,1383.0,2,2,3+,under construction,0,low,1,high-rise
+sohna,1.65,1383.0,2,2,3+,under construction,0,low,1,high-rise
 sector 107,0.62,786.467,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 79,0.75,905.96,3,2,3+,0 to 1 year old,0,medium,0,high-rise
 sector 84,0.42,497.0,1,1,1,1 to 5 year old,0,medium,1,mid-rise
 sector 76,4.4,2556.0,3,4,3,under construction,0,medium,1,high-rise
 sector 66,3.75,1872.0,3,3,3,5 to 10 year old,0,medium,1,high-rise
-iffco chowk,0.3295,1150.0,2,2,3,0 to 1 year old,0,high,1,mid-rise
+sector 18,0.3295,1150.0,2,2,3,0 to 1 year old,0,high,1,mid-rise
 sector 79,2.8,2090.0,3,3,3,under construction,1,medium,2,high-rise
 sohna,1.62,1527.0,3,3,2,0 to 1 year old,0,medium,1,mid-rise
 sector 81,1.1,1250.0,2,2,2,5 to 10 year old,0,medium,1,mid-rise
@@ -5039,7 +5036,7 @@ sector 63a,2.3,2343.0,3,3,2,under construction,1,medium,2,low-rise
 sector 56,3.35,3195.0,4,4,3+,10+ year old,1,medium,2,mid-rise
 sector 88a,1.99,1791.0,3,3,3,1 to 5 year old,0,medium,2,mid-rise
 sector 93,1.75,1750.0,3,3,2,under construction,1,low,0,low-rise
-sector-33 sohna,2.35,2300.4,2,2,3,1 to 5 year old,1,medium,1,low-rise
+sohna,2.35,2300.4,2,2,3,1 to 5 year old,1,medium,1,low-rise
 sector 70,2.55,1917.0,3,4,2,10+ year old,1,medium,2,mid-rise
 sector 56,2.6,2343.0,4,3,3+,10+ year old,0,medium,1,mid-rise
 sector 79,2.75,1902.0,3,3,3+,under construction,0,medium,2,high-rise
@@ -5052,16 +5049,16 @@ sector 83,1.9,1735.0,3,3,2,5 to 10 year old,0,medium,1,mid-rise
 sector 84,3.4,3434.0,4,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 37d,1.52,1770.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
 sector 84,1.4,1270.0,2,2,2,5 to 10 year old,0,medium,1,high-rise
-dlf phase 5,12.75,3979.0,4,4,3,10+ year old,0,medium,2,mid-rise
+sector 54,12.75,3979.0,4,4,3,10+ year old,0,medium,2,mid-rise
 sector 37d,0.67,680.0,2,2,3,0 to 1 year old,0,medium,2,mid-rise
 sector 99,3.3,2780.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
 sector 88b,1.85,1550.0,3,3,3,1 to 5 year old,0,medium,2,low-rise
 sector 53,6.25,2895.0,3,4,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 92,1.66,2040.0,4,4,3,1 to 5 year old,1,medium,1,mid-rise
-sector 36 sohna,0.975,1081.0,3,2,3+,1 to 5 year old,1,high,2,low-rise
+sohna,0.975,1081.0,3,2,3+,1 to 5 year old,1,high,2,low-rise
 sohna,1.45,1465.0,3,2,3+,1 to 5 year old,1,high,2,mid-rise
 sector 81,4.9,2825.0,4,5,3,1 to 5 year old,1,high,2,high-rise
-nirvana country,2.12,1600.0,2,2,2,5 to 10 year old,0,low,0,low-rise
+sector 50,2.12,1600.0,2,2,2,5 to 10 year old,0,low,0,low-rise
 sector 103,2.85,2875.0,4,6,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 65,2.35,1261.0,2,2,3,1 to 5 year old,0,medium,1,high-rise
 sector 99,2.04,2150.0,3,4,1,1 to 5 year old,1,medium,2,mid-rise
@@ -5100,8 +5097,8 @@ sector 89,1.56,1423.0,3,3,2,0 to 1 year old,1,high,1,low-rise
 sector 83,2.0,1775.0,3,3,2,5 to 10 year old,0,medium,2,mid-rise
 sector 107,2.0,2361.0,3,4,3+,1 to 5 year old,1,high,1,mid-rise
 sector 53,9.66,2950.0,3,4,3+,1 to 5 year old,0,medium,2,high-rise
-sector-33 sohna,2.5,1789.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
-sector-33 sohna,1.76,2210.94,3,2,3,under construction,0,medium,2,mid-rise
+sohna,2.5,1789.0,3,3,3+,1 to 5 year old,0,medium,1,mid-rise
+sohna,1.76,2210.94,3,2,3,under construction,0,medium,2,mid-rise
 sector 67a,2.6,1933.0,3,3,2,0 to 1 year old,1,high,4,mid-rise
 sector 59,4.75,2095.0,3,3,2,0 to 1 year old,1,high,2,high-rise
 sector 59,5.1,2295.0,3,3,3,0 to 1 year old,1,high,2,high-rise
@@ -5142,7 +5139,7 @@ sector 65,3.4,1828.0,3,3,3,0 to 1 year old,0,high,1,high-rise
 sector 72,4.92,2550.0,3,3,3+,0 to 1 year old,1,high,2,high-rise
 sector 60,5.81,2800.0,4,5,3,5 to 10 year old,1,high,2,high-rise
 sector 72,5.8,3300.0,4,5,3,1 to 5 year old,1,medium,2,mid-rise
-sector-33 sohna,2.75,1789.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
+sohna,2.75,1789.0,3,3,3+,1 to 5 year old,0,high,1,mid-rise
 sector 63a,4.0,2400.0,3,3,3,0 to 1 year old,1,medium,3,low-rise
 sector 102,4.8,4548.0,4,5,3+,0 to 1 year old,1,high,2,high-rise
 sector 113,2.25,1580.0,2,2,2,1 to 5 year old,0,medium,3,mid-rise
@@ -5195,7 +5192,7 @@ sector 108,1.9,1758.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
 sector 102,1.95,1650.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
 sector 89 a,1.65,1605.0,2,3,3,0 to 1 year old,1,high,1,mid-rise
 sector 67,4.7,2433.0,3,3,3+,1 to 5 year old,0,high,1,high-rise
-palam vihar,2.0,1785.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
+sector 3,2.0,1785.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
 sector 28,9.5,4544.0,4,4,3+,10+ year old,1,high,2,mid-rise
 sector 106,1.62,1760.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 89,1.59,1494.0,3,3,2,0 to 1 year old,0,medium,1,low-rise
@@ -5234,10 +5231,10 @@ sector 82,1.45,1298.05,2,2,2,5 to 10 year old,0,high,2,mid-rise
 sector 66,6.2,3150.0,3,5,2,1 to 5 year old,1,medium,3,mid-rise
 sector 66,3.4,2100.0,4,4,3,1 to 5 year old,0,medium,3,mid-rise
 sector 108,3.8,2003.0,3,4,3,1 to 5 year old,0,high,1,mid-rise
-sector-33 sohna,2.32,1737.0,3,3,3,1 to 5 year old,0,high,2,low-rise
-sector-33 sohna,2.12,1620.0,3,2,3,1 to 5 year old,0,high,2,low-rise
+sohna,2.32,1737.0,3,3,3,1 to 5 year old,0,high,2,low-rise
+sohna,2.12,1620.0,3,2,3,1 to 5 year old,0,high,2,low-rise
 sector 86,2.25,1480.0,2,2,3,1 to 5 year old,0,high,1,mid-rise
-sector-33 sohna,1.82,1737.0,3,3,3,1 to 5 year old,0,high,2,low-rise
+sohna,1.82,1737.0,3,3,3,1 to 5 year old,0,high,2,low-rise
 sector 109,4.0,3150.0,4,5,3+,1 to 5 year old,1,medium,2,high-rise
 sector 109,3.13,2585.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 109,4.15,3045.0,4,5,3+,5 to 10 year old,1,medium,2,mid-rise
@@ -5269,7 +5266,7 @@ sector 59,6.0,2595.0,3,3,3,1 to 5 year old,1,medium,3,high-rise
 sector 77,2.05,1917.0,3,3,3,1 to 5 year old,1,medium,1,mid-rise
 sector 67,4.21,2358.0,3,4,3,1 to 5 year old,1,medium,3,mid-rise
 sector 67,5.6,3341.0,4,5,3,1 to 5 year old,1,medium,4,mid-rise
-dlf phase 4,3.65,2414.0,3,3,2,10+ year old,1,medium,3,mid-rise
+sector 43,3.65,2414.0,3,3,2,10+ year old,1,medium,3,mid-rise
 sector 82a,3.9,2273.0,4,4,3+,1 to 5 year old,0,medium,3,high-rise
 sector 67a,2.0,1484.0,2,2,2,1 to 5 year old,0,medium,2,mid-rise
 sector 67a,2.48,1727.0,3,3,2,1 to 5 year old,0,medium,2,mid-rise
@@ -5287,7 +5284,7 @@ sector 95a,0.6,809.4,2,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 95a,0.61,730.2633999999999,2,2,2,1 to 5 year old,0,low,0,mid-rise
 sector 95a,0.65,950.0,2,2,2,1 to 5 year old,0,low,1,mid-rise
 sector 70,2.55,1950.0,3,4,3,1 to 5 year old,0,medium,0,mid-rise
-uppals southend,3.1,2082.0,3,3,3+,5 to 10 year old,1,high,1,mid-rise
+sector 49,3.1,2082.0,3,3,3+,5 to 10 year old,1,high,1,mid-rise
 sector 51,2.7,2500.0,3,3,3+,5 to 10 year old,0,medium,2,mid-rise
 sector 3,1.4,1444.0,2,2,3,1 to 5 year old,0,medium,1,mid-rise
 sector 106,1.9,1500.0,2,2,3,0 to 1 year old,0,medium,1,high-rise
@@ -5322,9 +5319,9 @@ sector 99,2.25,1865.0,3,3,3,1 to 5 year old,1,medium,2,mid-rise
 sector 72,1.85,1755.0,2,3,3+,5 to 10 year old,1,high,1,mid-rise
 sector 48,7.49,2719.0,3,3,3,1 to 5 year old,1,high,3,mid-rise
 sector 48,7.75,2464.0,3,3,3,5 to 10 year old,1,medium,3,mid-rise
-tikri,4.99,1700.0,3,3,2,1 to 5 year old,0,high,2,mid-rise
+sector 48,4.99,1700.0,3,3,2,1 to 5 year old,0,high,2,mid-rise
 sector 69,2.4,1704.0,3,3,3,0 to 1 year old,0,high,1,high-rise
-tikri,4.95,1869.0,3,3,3,5 to 10 year old,0,high,2,mid-rise
+sector 48,4.95,1869.0,3,3,3,5 to 10 year old,0,high,2,mid-rise
 sector 92,1.05,1000.0,2,2,2,1 to 5 year old,0,medium,1,low-rise
 sector 28,9.75,3843.0,4,5,3,10+ year old,1,high,2,mid-rise
 sector 92,0.65,839.2199999999999,2,2,1,5 to 10 year old,0,medium,1,mid-rise
@@ -5344,8 +5341,8 @@ sector 99,1.72,1865.0,3,3,2,1 to 5 year old,0,high,3,mid-rise
 sector 99,1.81,1970.0,3,4,2,1 to 5 year old,1,high,2,mid-rise
 sector 99,1.8,1970.0,3,4,2,1 to 5 year old,1,high,2,mid-rise
 sector 99,2.46,2890.0,4,4,1,1 to 5 year old,1,high,2,mid-rise
-sector-33 sohna,2.16,2134.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
-sector-33 sohna,2.22,1590.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
+sohna,2.16,2134.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
+sohna,2.22,1590.0,3,3,3+,1 to 5 year old,0,high,2,mid-rise
 sector 81,5.5,4200.0,4,6,3+,1 to 5 year old,1,medium,0,high-rise
 sector 1 imt manesar,1.45,2050.0,3,3,2,5 to 10 year old,0,medium,1,mid-rise
 sector 47,1.23,900.0,2,2,2,10+ year old,0,medium,0,mid-rise
@@ -5361,7 +5358,7 @@ sector 109,1.75,1871.0,3,3,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 69,2.65,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 69,3.0,2010.0,4,4,2,1 to 5 year old,0,medium,2,mid-rise
 sector 103,1.24,1450.0,2,3,3+,5 to 10 year old,1,medium,1,mid-rise
-dlf phase 5,3.25,1343.0,3,3,2,5 to 10 year old,0,medium,1,mid-rise
+sector 54,3.25,1343.0,3,3,2,5 to 10 year old,0,medium,1,mid-rise
 sector 102,3.6,3198.0,4,4,3+,1 to 5 year old,1,medium,2,high-rise
 sector 108,1.83,1758.0,3,3,3+,1 to 5 year old,0,medium,2,mid-rise
 sector 106,1.42,1385.0,2,2,3+,1 to 5 year old,0,medium,2,high-rise
@@ -5398,7 +5395,7 @@ sector 84,3.0,3193.0,3,5,3+,1 to 5 year old,1,medium,0,mid-rise
 sector 84,2.95,3193.0,3,5,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 84,2.18,2275.0,3,4,3+,1 to 5 year old,1,medium,1,mid-rise
 sector 84,2.99,3193.0,3,5,3+,1 to 5 year old,1,medium,2,mid-rise
-chakkarpur,4.29,3200.0,4,4,3,10+ year old,1,medium,1,mid-rise
+sector 28,4.29,3200.0,4,4,3,10+ year old,1,medium,1,mid-rise
 sector 83,1.95,1735.0,3,3,2,5 to 10 year old,0,high,2,mid-rise
 sector 83,2.15,1980.0,3,3,3,5 to 10 year old,1,high,2,mid-rise
 sector 83,1.7,1755.0,3,3,2,1 to 5 year old,0,high,1,mid-rise
@@ -5431,19 +5428,19 @@ sector 79,2.0,1620.0,3,3,3,1 to 5 year old,0,high,1,high-rise
 sector 79,2.37,1815.0,3,4,3,1 to 5 year old,1,high,1,high-rise
 sector 65,8.1,3909.0,3,3,1,1 to 5 year old,0,high,1,high-rise
 sector 111,3.5,2215.0,3,4,2,1 to 5 year old,1,high,2,mid-rise
-sector-33 sohna,1.3,1860.2,2,2,3,0 to 1 year old,0,high,1,high-rise
+sohna,1.3,1860.2,2,2,3,0 to 1 year old,0,high,1,high-rise
 sector 82,1.57,1430.0,3,3,3,1 to 5 year old,0,high,1,high-rise
 sector 37d,1.57,1775.0,3,3,3,1 to 5 year old,0,medium,0,mid-rise
 sector 79,2.45,1815.0,3,4,3,1 to 5 year old,1,high,2,high-rise
 sector 102,2.25,1689.0,3,3,2,1 to 5 year old,0,medium,1,high-rise
 sector 70,3.0,3408.0,4,4,3+,1 to 5 year old,0,medium,2,mid-rise
-sector-33 sohna,3.55,2600.0,4,4,2,0 to 1 year old,1,high,1,mid-rise
+sohna,3.55,2600.0,4,4,2,0 to 1 year old,1,high,1,mid-rise
 sector 70a,3.0,2150.0,3,4,3+,5 to 10 year old,1,medium,1,mid-rise
 sector 110,5.7,3880.0,5,5,3,1 to 5 year old,1,high,2,mid-rise
-sector-33 sohna,3.83,2600.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
+sohna,3.83,2600.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
 sector 108,4.15,2072.0,3,3,2,1 to 5 year old,0,high,2,high-rise
 sector 102,2.3,1689.0,3,3,3,1 to 5 year old,0,high,1,high-rise
-sector-33 sohna,3.83,2600.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
+sohna,3.83,2600.0,4,4,3+,1 to 5 year old,1,high,2,mid-rise
 sector 83,1.33,1340.0,3,3,3,5 to 10 year old,0,high,1,mid-rise
 sector 109,3.1,2585.0,3,4,3+,1 to 5 year old,1,high,2,high-rise
 sector 86,2.4,1929.0,3,3,3,1 to 5 year old,0,high,2,mid-rise
@@ -5457,7 +5454,7 @@ sector 99,2.15,2150.0,3,3,3,0 to 1 year old,1,medium,1,mid-rise
 sector 92,1.66,2040.0,4,4,3,1 to 5 year old,1,medium,1,mid-rise
 sector 93,0.8,910.717,3,2,2,1 to 5 year old,0,medium,1,mid-rise
 sector 111,2.45,2102.0,3,3,2,0 to 1 year old,0,medium,2,mid-rise
-nirvana country,4.7,3309.0,4,4,3,5 to 10 year old,1,high,3,mid-rise
+sector 50,4.7,3309.0,4,4,3,5 to 10 year old,1,high,3,mid-rise
 sector 61,2.66,2314.6,3,3,2,0 to 1 year old,0,high,2,low-rise
 sector 36a,2.6,1479.0,2,2,2,0 to 1 year old,0,medium,1,high-rise
 sector 36a,4.6,2538.0,3,3,3,0 to 1 year old,0,medium,2,high-rise
@@ -5479,10 +5476,10 @@ sector 104,2.65,2290.0,3,4,3+,1 to 5 year old,1,medium,2,high-rise
 sector 102,5.8,4548.0,4,5,3+,1 to 5 year old,1,medium,2,high-rise
 sector 108,2.38,1381.0,2,2,2,1 to 5 year old,0,high,1,high-rise
 sector 49,1.74,1296.0,2,2,3,5 to 10 year old,0,medium,1,mid-rise
-nirvana country,4.7,3309.0,4,4,3,5 to 10 year old,1,high,2,mid-rise
+sector 50,4.7,3309.0,4,4,3,5 to 10 year old,1,high,2,mid-rise
 sector 102,1.74,1215.0,2,2,3,0 to 1 year old,0,medium,2,high-rise
 sector 106,1.76,1900.0,3,4,3,1 to 5 year old,1,high,1,high-rise
-nawada fatehpur,2.5,2364.0,4,3,3,1 to 5 year old,0,medium,2,mid-rise
+sector 86,2.5,2364.0,4,3,3,1 to 5 year old,0,medium,2,mid-rise
 sector 63a,5.5,3842.0,4,4,3,0 to 1 year old,1,medium,3,low-rise
 sector 37d,1.28,1675.0,3,3,3+,1 to 5 year old,0,medium,0,mid-rise
 sector 81,3.99,3185.0,4,5,3,1 to 5 year old,1,medium,2,mid-rise
@@ -5493,7 +5490,7 @@ sector 84,1.9,2025.0,3,3,2,1 to 5 year old,1,medium,1,mid-rise
 sector 70a,0.85,711.42,2,2,2,1 to 5 year old,0,medium,0,mid-rise
 sector 65,3.6,1932.0,3,2,3,0 to 1 year old,1,high,1,high-rise
 sector 99a,1.9,1997.0,3,5,3,1 to 5 year old,1,high,2,mid-rise
-dlf phase 4,2.16,1150.0,2,2,2,10+ year old,0,high,1,high-rise
+sector 43,2.16,1150.0,2,2,2,10+ year old,0,high,1,high-rise
 sector 59,7.2,2985.0,3,4,3,1 to 5 year old,1,high,2,high-rise
 sector 58,5.3,2164.0,3,4,3,1 to 5 year old,1,high,3,high-rise
 sector 109,2.05,1750.0,3,3,3+,1 to 5 year old,0,medium,2,high-rise
@@ -5518,7 +5515,7 @@ sector 65,5.24,2499.0,3,3,3,1 to 5 year old,1,medium,2,high-rise
 sector 60,5.4,2800.0,4,5,3,5 to 10 year old,1,medium,2,high-rise
 sector 65,3.79,2804.5,4,4,3+,1 to 5 year old,1,medium,2,low-rise
 sector 69,2.42,1704.0,3,3,3,0 to 1 year old,0,medium,2,high-rise
-nirvana country,4.3,2480.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
+sector 50,4.3,2480.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 67,4.25,2650.0,4,4,3+,5 to 10 year old,1,medium,2,mid-rise
 sector 91,2.99,2727.0,4,4,3+,5 to 10 year old,1,high,2,mid-rise
 sector 82a,2.8,1818.0,3,3,3+,1 to 5 year old,0,medium,2,high-rise
@@ -5527,11 +5524,11 @@ sector 82a,3.85,2308.0,4,4,3+,1 to 5 year old,0,high,2,high-rise
 sector 102,2.92,2400.0,4,4,3+,0 to 1 year old,0,medium,2,high-rise
 sector 28,13.0,8000.0,5,5,3+,1 to 5 year old,1,high,5,mid-rise
 sector 48,3.77,1418.0,2,2,3,1 to 5 year old,0,high,2,mid-rise
-tikri,4.9,1869.0,3,3,3,5 to 10 year old,0,medium,0,mid-rise
-tikri,8.0,2719.0,3,3,3,5 to 10 year old,1,medium,2,mid-rise
+sector 48,4.9,1869.0,3,3,3,5 to 10 year old,0,medium,0,mid-rise
+sector 48,8.0,2719.0,3,3,3,5 to 10 year old,1,medium,2,mid-rise
 sector 81,3.7,2103.0,3,3,3+,1 to 5 year old,1,medium,2,high-rise
 sector 82a,2.9,1799.0,3,3,3+,1 to 5 year old,0,medium,0,high-rise
-sector-33 sohna,2.05,2695.16,3,3,3+,0 to 1 year old,0,medium,0,mid-rise
+sohna,2.05,2695.16,3,3,3+,0 to 1 year old,0,medium,0,mid-rise
 sector 102,2.6,1889.0,3,3,3,1 to 5 year old,1,high,1,high-rise
 sector 69,2.75,2400.0,4,5,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 67,3.3,1935.0,3,4,3+,5 to 10 year old,1,high,2,mid-rise
@@ -5567,7 +5564,7 @@ sector 81,4.4,3470.0,4,6,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 81,3.45,2660.0,3,4,3+,1 to 5 year old,1,medium,2,mid-rise
 sector 84,2.5,2250.0,3,3,3,1 to 5 year old,1,medium,0,mid-rise
 sector 67,2.75,1470.0,2,2,3,1 to 5 year old,0,high,2,high-rise
-dlf phase 2,4.58,2245.0,4,4,3,10+ year old,1,medium,1,mid-rise
+sector 25,4.58,2245.0,4,4,3,10+ year old,1,medium,1,mid-rise
 sector 108,2.7,1381.0,2,2,2,1 to 5 year old,0,medium,1,high-rise
 sector 66,3.9,2764.0,4,4,3,1 to 5 year old,1,low,0,mid-rise
 sector 102,2.55,1889.0,3,3,3,1 to 5 year old,1,high,2,high-rise
@@ -5576,7 +5573,7 @@ sector 59,10.0,3625.0,4,4,1,5 to 10 year old,1,high,3,high-rise
 sector 107,1.75,1943.0,3,3,3,1 to 5 year old,0,low,1,mid-rise
 sector 59,4.6,2095.0,3,3,3,1 to 5 year old,1,high,2,high-rise
 sector 99,4.25,3360.0,4,4,3,0 to 1 year old,1,high,0,mid-rise
-dlf phase 5,9.0,2610.0,4,4,3,5 to 10 year old,1,high,2,mid-rise
+sector 54,9.0,2610.0,4,4,3,5 to 10 year old,1,high,2,mid-rise
 sector 85,2.7,2408.0,3,4,3,1 to 5 year old,1,medium,2,high-rise
 sector 66,3.9,1950.0,3,3,2,5 to 10 year old,0,medium,2,mid-rise
 sector 91,1.35,1310.0,2,2,2,1 to 5 year old,0,high,1,mid-rise
