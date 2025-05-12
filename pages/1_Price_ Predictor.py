@@ -59,7 +59,7 @@ if st.button('Predict'):
     input_df = pd.DataFrame(data = inputs , columns= df.columns)
     print(input_df.columns.shape)
     #2.Predict
-    with open('../5.2_pipeline.pkl','rb') as file:
+    with open('1_Datasets/5.2_pipeline.pkl','rb') as file:
         piepline = pickle.load(file)
         print(piepline['preprocessor'].get_feature_names_out().shape)
         prediction = np.expm1(piepline.predict(input_df))[0]

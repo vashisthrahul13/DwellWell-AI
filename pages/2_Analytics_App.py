@@ -110,7 +110,7 @@ st.dataframe(df_average_price_sorted)
 # Split each string by commas and flatten the list
 st.markdown("<br>", unsafe_allow_html=True) 
 st.header('Gurugram Housing Societies Ameneties Wordcloud')
-with open ('../6.2_feature_text.pkl','rb') as f:
+with open ('1_Datasets/6.2_feature_text.pkl','rb') as f: 
     txt = pickle.load(f)
 wordcloud = WordCloud(width = 800, height = 600, 
                       background_color ='white', 
