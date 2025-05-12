@@ -18,6 +18,7 @@ with open('../5.3_dataset_final.pkl', 'rb') as file:
 #'sector', 'super_area', 'bedrooms', 'bathroom', 'balcony','age_possession', 'servant_room', 'luxury_category', 'parking','building_type']
 
 #sector input
+
 sector = st.selectbox(label = "Sector", options=df['sector'].str.capitalize().sort_values().unique()).lower()
 
 #super_area
