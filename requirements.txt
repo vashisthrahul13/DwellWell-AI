@@ -5,3 +5,4 @@ geopandas
 matplotlib
 scikit-learn
 sweetviz
+plotly
