@@ -14,15 +14,15 @@ st.set_page_config(page_title='Gurugram Analysis',
 
 
 st.title("Gurugram Overall Housing Analysis")
-df = pd.read_csv("../4.3_dataset_clean_v2.csv")
-df_2= pd.read_csv('../4.6_dataset_feature_selected.csv')
+df = pd.read_csv("1_Datasets/4.3_dataset_clean_v2.csv")
+df_2= pd.read_csv('1_Datasets/4.6_dataset_feature_selected.csv')
 
 
 
 # --- Function to plot choropleth with labels ---
 st.markdown('<br>',unsafe_allow_html=True)
 st.header('Sector wise Averge Price/Sqft Geomap')
-def plot_sectors_plotly(geojson_path = '../6.1_gurugram_sectors_final.geojson'):
+def plot_sectors_plotly(geojson_path = '1_Datasets/6.1_gurugram_sectors_final.geojson'):
 
     sectors_gdf = gpd.read_file(geojson_path)
 
@@ -89,7 +89,7 @@ def plot_sectors_plotly(geojson_path = '../6.1_gurugram_sectors_final.geojson'):
     except Exception as e:
         print(f"Error while plotting with Plotly: {e}")
 
-plot_sectors_plotly(geojson_path='../6.1_gurugram_sectors_final.geojson')
+plot_sectors_plotly(geojson_path='1_Datasets/6.1_gurugram_sectors_final.geojson')
 
 #----------------------------------------------------------------
 #adding sectorwise average price/sqft as dataframe

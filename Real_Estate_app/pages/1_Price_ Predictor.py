@@ -9,7 +9,7 @@ st.set_page_config(page_title="Main Page",
 
 #importing model and dataset
 
-with open('../5.3_dataset_final.pkl', 'rb') as file:
+with open('1_Datasets/5.3_dataset_final.pkl', 'rb') as file:
     df = pickle.load(file)
 
 
