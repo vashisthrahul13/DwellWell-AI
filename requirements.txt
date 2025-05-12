@@ -7,4 +7,3 @@ scikit-learn
 sweetviz
 plotly
 wordcloud
-pickle
