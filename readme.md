@@ -1,4 +1,4 @@
-# DwellWell AI : Real Estate Data Science Application (Live Link : https://dwellwell.streamlit.app)
+# DwellWell AI : Real Estate Data Science Application 
 
 In this comprehensive project, the primary focus was on leveraging data science techniques to provide insights, predictions, and recommendations in the real estate domain. The project unfolds through various stages, covering data gathering, cleaning, exploratory analysis, modeling, recommendation systems, and the deployment of a user-friendly application.
 
@@ -54,7 +54,7 @@ In the process of building the Recommender System, three distinct recommendation
 
 ## Deploying the Application on Streamlit:
 
-The entire application, encompassing prediction, analytics, and recommendation functionalities, was deployed on **Streamlit Cloud**. 
+The entire application, encompassing prediction, analytics, and recommendation functionalities, was deployed on **Streamlit Cloud**. **(Live Link : https://dwellwell.streamlit.app)**
 Streamlit Cloud was chosen for its quick, hassle-free deployment and cost-effectiveness.
 This step ensured the scalability and accessibility of the project.
 
