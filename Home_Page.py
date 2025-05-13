@@ -1,3 +1,7 @@
 import streamlit as st
 
-st.title( body = 'Main Landing page')
+file_path = "readme.md"
+with open(file_path, "r", encoding="utf-8") as file:
+    markdown_content = file.read()
+
+st.markdown(markdown_content,unsafe_allow_html=True)

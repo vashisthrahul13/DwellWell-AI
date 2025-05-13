@@ -1,16 +1,16 @@
-# DwellWell AI Overview: Real Estate Data Science Application
+# DwellWell AI : Real Estate Data Science Application (Live Link : https://dwellwell.streamlit.app)
 
 In this comprehensive project, the primary focus was on leveraging data science techniques to provide insights, predictions, and recommendations in the real estate domain. The project unfolds through various stages, covering data gathering, cleaning, exploratory analysis, modeling, recommendation systems, and the deployment of a user-friendly application.
 
 ## Data Gathering:
 
-The project commenced with the collection of real estate data, which was self-scraped from the 99acres website. 
-For scraping the data python libraries like **Selinum** and **BeautifulSoup** was used
+The project commenced with the collection of real estate data, which was web scraped from the 99acres website. 
+For scraping the data python libraries like **Selenium** and **BeautifulSoup** was used
 
 ## Data Cleaning and Merging:
 
 To prepare the dataset for analysis, a meticulous data cleaning process was undertaken, handling missing values and ensuring consistency. 
-This included steps like removing Nan values, Fixing data errors such as incorrect units for *bult-up area* etc were performed in this step
+This included steps like removing Nan values, Fixing data errors such as incorrect units for *built-up area* etc were performed in this step
 
 ## Feature Engineering:
 
@@ -29,45 +29,20 @@ Outliers were identified and removed to ensure the robustness of subsequent anal
 
 Multiple feature selection techniques were employed to identify the most impactful variables for modeling. These included correlation analysis, random forest and gradient boosting feature importance, permutation importance, LASSO, recursive feature elimination, and SHAP (Explainable AI).
 
-## Model Selection & Productionalization:
+## Model Selection :
 
-In the Model Selection and Productionalization phase, an exhaustive comparison of various regression models was conducted to determine the most effective model for predicting property prices. The process involved implementing a detailed price prediction pipeline that incorporated encoding methods, ensuring the robustness and accuracy of the chosen model. The selected model was then deployed using Streamlit, creating an intuitive and user-friendly web interface for end-users.
+In the Model Selection  phase, an exhaustive comparison of various regression models was conducted to determine the most effective model for predicting property prices. The process involved implementing a detailed price prediction pipeline that incorporated encoding methods, ensuring the robustness and accuracy of the chosen model. The selected model was then deployed using Streamlit, creating an intuitive and user-friendly web interface for end-users.
 
-The regression models considered in the comparison included:
+**Model Comparison:**
+We evaluated 11 regression models, including Linear Regression, SVR, tree-based methods (Random Forest, XGBoost), and neural networks (MLP). Performance was assessed using MAE on a held-out test set and using R2 score using KFold Cross Validation.
 
-1. **Linear Regression**:
-    - A foundational regression model that assumes a linear relationship between the input features and the target variable.
+**Key Findings:**
 
-2. **Support Vector Regression (SVR)**:
-    - A regression technique that leverages support vector machines to find a hyperplane that best fits the data, allowing for non-linear relationships.
+It was noted that tree based models like DecisionTree,XGboost and Ensemble models like Gradient Boosting and ExtraTrees were performing the best likely due to their ability to handle non linear relationships
+ExtraTrees Regressor achieved the best performance with **R2 score = 0.937** and **MAE= ₹0.30 Cr**.
 
-3. **Random Forest Regressor**:
-    - An ensemble learning method that builds a multitude of decision trees during training and outputs the average prediction of the individual trees.
-
-4. **Multi-layer Perceptron (MLP)**:
-    - A type of artificial neural network that consists of multiple layers of nodes and is capable of learning complex patterns.
-
-5. **LASSO Regression**:
-    - A linear regression technique that incorporates L1 regularization, encouraging sparsity in the coefficient estimates.
-
-6. **Ridge Regression**:
-    - A linear regression technique with L2 regularization, which helps prevent multicollinearity and stabilizes the model.
-
-7. **Gradient Boosting Regressor**:
-    - An ensemble learning method that builds trees sequentially, with each tree correcting the errors of the previous ones.
-
-8. **Decision Tree Regressor**:
-    - A non-linear regression model that splits the dataset into subsets based on the most significant attribute at each node.
-
-9. **K-Nearest Neighbors Regressor**:
-    - A regression model that predicts the target variable by averaging the values of its k-nearest neighbors.
-
-10. **ElasticNet Regression**:
-     - A linear regression technique that combines L1 and L2 regularization terms.
-
-The comparison involved assessing the performance of each model on relevant evaluation metrics, considering factors such as accuracy, precision, and recall. After careful evaluation, the most suitable regression model was selected based on its overall performance and ability to generalize to new data.
-
-The chosen regression model was then integrated into a comprehensive price prediction pipeline, which included preprocessing steps, encoding methods, and handling of various features to ensure optimal performance. The final model was deployed using Streamlit, creating an interactive and user-friendly web interface for predicting property prices. This productionalization step made the model accessible to end-users, allowing them to make informed decisions in the real estate domain.
+**Final Pipeline:**
+The chosen regression model was then integrated into a comprehensive price prediction pipeline, which included preprocessing steps, encoding methods, and handling of various features to ensure optimal performance. The final model was deployed using Streamlit, creating an interactive and user-friendly web interface for predicting property prices. This step made the model accessible to end-users, allowing them to make informed decisions in the real estate domain.
 
 ## Building the Analytics Module:
 
@@ -79,14 +54,14 @@ In the process of building the Recommender System, three distinct recommendation
 
 ## Deploying the Application on Streamlit:
 
-The entire application, encompassing prediction, analytics, and recommendation functionalities, was deployed on Streamlit Cloud. 
-The primary justifcation behind using Streamlit Cloud was that it offers quick and hassle free deployment of Streamlit apps and is completely free of cost. 
+The entire application, encompassing prediction, analytics, and recommendation functionalities, was deployed on **Streamlit Cloud**. 
+Streamlit Cloud was chosen for its quick, hassle-free deployment and cost-effectiveness.
 This step ensured the scalability and accessibility of the project.
 
 This  project not only demonstrates proficiency in data science techniques such as feature engineering, exploratory analysis, and model building but also showcases the deployment of a real-world application, making valuable insights and recommendations accessible to end-users.
 
 
 ## Whats Next?
-- Improve Hyper Parameter tuning for ML models to improve MAE in the Price Prediciton module
+- Improve Hyper Parameter tuning for ML models to improve MAE in the Price Prediction module
 - Incorporate different clusturing algorithms to improve the Recommender System.
-- Gather data for other Indian cities to expland the functionality
+- Gather data for other Indian cities to expand the functionality
