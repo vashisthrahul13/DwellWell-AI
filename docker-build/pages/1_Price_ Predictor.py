@@ -3,6 +3,7 @@ import pickle
 import pandas as pd
 import numpy as np
 import requests
+import os
 
 API_URL = 'http://127.0.0.1:8000/predict'
 
@@ -10,8 +11,9 @@ st.set_page_config(page_title="Main Page",
                    layout = 'wide')  #set browser tab title
 
 #importing model and dataset
+dataset_path = os.path.join(os.path.dirname(__file__), '..', 'dataset', '5.3_dataset_final.pkl')
 
-with open('../1_Datasets/5.3_dataset_final.pkl', 'rb') as file:
+with open(dataset_path, 'rb') as file:
     df = pickle.load(file)
 
 
@@ -66,19 +68,20 @@ if st.button('Predict'):
         'building_type' : building_type
     }
     #display the inputs as dataframe
-    st.dataframe(input_data)
+    input_df = pd.DataFrame([input_data])
+    st.dataframe(input_df)
 
     #perform api call
     try: 
         response = requests.post(API_URL,json=input_data)
         result = response.json()
 
-        if response.status_code == 200 and "response" in result:
+        if response.status_code == 200 :
 
-            prediction = result('response')
+            prediction = result['Predicted_price']
             upper_limit = round(prediction + 0.28,2)
             lower_limit = round(prediction - 0.28,2)
-            st.text(f'The predicted house price is between {lower_limit}Cr and {upper_limit}Cr')
+            st.text(f'The predicted house price is between {lower_limit} Cr and {upper_limit} Cr')
         
         else:
             st.error(body= f'API Error {response.status_code}')

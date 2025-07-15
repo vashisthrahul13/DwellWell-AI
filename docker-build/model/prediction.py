@@ -1,9 +1,11 @@
 import pickle
 import pandas as pd
+import os
 
+model_path = os.path.join(os.path.dirname(__file__), '5.2_pipeline.pkl')
 def load_model():
     
-    with open('api/model/5.2_pipeline.pkl','rb') as f:
+    with open(model_path,'rb') as f:
         model = pickle.load(f)
     return model
 #

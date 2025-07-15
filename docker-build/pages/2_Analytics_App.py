@@ -8,21 +8,27 @@ import re
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import pickle
+import os
 
 st.set_page_config(page_title='Gurugram Analysis',
                    layout='wide')
 
 
 st.title("Gurugram Overall Housing Analysis")
-df = pd.read_csv("../api/dataset/4.3_dataset_clean_v2.csv")
-df_2= pd.read_csv('../api/dataset/4.6_dataset_feature_selected.csv')
+
+# Importing datasets
+clean_dataset_path_1= os.path.join(os.path.dirname(__file__), '..', 'dataset', '4.3_dataset_clean_v2.csv')
+dataset_path_2 = os.path.join(os.path.dirname(__file__), '..', 'dataset', '4.6_dataset_feature_selected.csv')
+df = pd.read_csv(clean_dataset_path_1)
+df_2= pd.read_csv(dataset_path_2)
 
 
 
 # --- Function to plot choropleth with labels ---
 st.markdown('<br>',unsafe_allow_html=True)
 st.header('Sector wise Averge Price/Sqft Geomap')
-def plot_sectors_plotly(geojson_path = '../api/resources/6.1_gurugram_sectors_final.geojson'):
+geojson_path = os.path.join(os.path.dirname(__file__), '..', 'resources', '6.1_gurugram_sectors_final.geojson')
+def plot_sectors_plotly(geojson_path = geojson_path):
 
     sectors_gdf = gpd.read_file(geojson_path)
 
@@ -89,7 +95,7 @@ def plot_sectors_plotly(geojson_path = '../api/resources/6.1_gurugram_sectors_fi
     except Exception as e:
         print(f"Error while plotting with Plotly: {e}")
 
-plot_sectors_plotly(geojson_path='../api/resources/6.1_gurugram_sectors_final.geojson')
+plot_sectors_plotly(geojson_path= geojson_path)
 
 #----------------------------------------------------------------
 #adding sectorwise average price/sqft as dataframe
@@ -110,7 +116,10 @@ st.dataframe(df_average_price_sorted)
 # Split each string by commas and flatten the list
 st.markdown("<br>", unsafe_allow_html=True) 
 st.header('Gurugram Housing Societies Ameneties Wordcloud')
-with open ('../api/resources/6.2_feature_text.pkl','rb') as f: 
+feature_text_path= os.path.join(os.path.dirname(__file__), '..', 'resources', '6.2_feature_text.pkl')
+
+with open (feature_text_path,'rb') as f: 
+    f.seek(0)
     txt = pickle.load(f)
 wordcloud = WordCloud(width = 800, height = 600, 
                       background_color ='white', 

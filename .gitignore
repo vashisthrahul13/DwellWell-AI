@@ -5,3 +5,4 @@ temp.csv
 99999_testing.py
 gurugram_sectors_map.html
 api/myenv
+docker-build/myenv
