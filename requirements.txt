@@ -3,7 +3,7 @@ pandas
 numpy
 geopandas
 matplotlib
-scikit-learn
+scikit-learn==1.5.2
 sweetviz
 plotly
 wordcloud
