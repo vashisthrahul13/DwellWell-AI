@@ -8,21 +8,29 @@ import re
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import pickle
-
+import os
 st.set_page_config(page_title='Gurugram Analysis',
                    layout='wide')
 
 
 st.title("Gurugram Overall Housing Analysis")
-df = pd.read_csv("1_Datasets/4.3_dataset_clean_v2.csv")
-df_2= pd.read_csv('1_Datasets/4.6_dataset_feature_selected.csv')
+
+MAIN_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CLEANED_DATASET_PATH = os.path.join(MAIN_DIR,'1_Datasets','4.3_dataset_clean_v2.csv')
+FEATURE_SELECTED_DATASET = os.path.join(MAIN_DIR,'1_Datasets','4.6_dataset_feature_selected.csv')
+
+GEOJSON_PATH = os.path.join(MAIN_DIR,'4_resources','4.1_gurugram_sectors_final.geojson')
+FEATURE_TEXT_PATH = os.path.join(MAIN_DIR,'4_resources','4.2_feature_text.pkl')
+
+df = pd.read_csv(CLEANED_DATASET_PATH)
+df_2= pd.read_csv(FEATURE_SELECTED_DATASET)
 
 
 
 # --- Function to plot choropleth with labels ---
 st.markdown('<br>',unsafe_allow_html=True)
 st.header('Sector wise Averge Price/Sqft Geomap')
-def plot_sectors_plotly(geojson_path = '1_Datasets/6.1_gurugram_sectors_final.geojson'):
+def plot_sectors_plotly(geojson_path = GEOJSON_PATH):
 
     sectors_gdf = gpd.read_file(geojson_path)
 
@@ -89,7 +97,7 @@ def plot_sectors_plotly(geojson_path = '1_Datasets/6.1_gurugram_sectors_final.ge
     except Exception as e:
         print(f"Error while plotting with Plotly: {e}")
 
-plot_sectors_plotly(geojson_path='1_Datasets/6.1_gurugram_sectors_final.geojson')
+plot_sectors_plotly(geojson_path=GEOJSON_PATH)
 
 #----------------------------------------------------------------
 #adding sectorwise average price/sqft as dataframe
@@ -110,7 +118,7 @@ st.dataframe(df_average_price_sorted)
 # Split each string by commas and flatten the list
 st.markdown("<br>", unsafe_allow_html=True) 
 st.header('Gurugram Housing Societies Ameneties Wordcloud')
-with open ('1_Datasets/6.2_feature_text.pkl','rb') as f: 
+with open (FEATURE_TEXT_PATH,'rb') as f: 
     txt = pickle.load(f)
 wordcloud = WordCloud(width = 800, height = 600, 
                       background_color ='white', 

@@ -2,14 +2,16 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-
+import os
 
 st.set_page_config(page_title="Main Page",
                    layout = 'wide')  #set browser tab title
 
 #importing model and dataset
-
-with open('1_Datasets/5.3_dataset_final.pkl', 'rb') as file:
+MAIN_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATASET_PATH = os.path.join(MAIN_DIR,'1_Datasets','5.3_dataset_final.pkl')
+MODEL_PATH = os.path.join(MAIN_DIR,'3_models','3.1_pipeline.pkl')
+with open(DATASET_PATH, 'rb') as file:
     df = pickle.load(file)
 
 
@@ -59,7 +61,7 @@ if st.button('Predict'):
     input_df = pd.DataFrame(data = inputs , columns= df.columns)
     print(input_df.columns.shape)
     #2.Predict
-    with open('1_Datasets/5.2_pipeline.pkl','rb') as file:
+    with open(MODEL_PATH,'rb') as file:
         piepline = pickle.load(file)
         print(piepline['preprocessor'].get_feature_names_out().shape)
         prediction = np.expm1(piepline.predict(input_df))[0]
